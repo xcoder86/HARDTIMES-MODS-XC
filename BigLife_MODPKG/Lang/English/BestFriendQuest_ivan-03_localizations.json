@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-ivan_quest_03",
+      "value": "did you got the Contracts?"
+    },
+    {
+      "key": "bestfriend-ivan_quest_03-TASK-DESCRIPTION",
+      "value": "Ivan is waiting for the Business Contracts!"
+    },
+    {
+      "key": "bestfriend-ivan_quest_03_start_dialogue-DESCRIPTION",
+      "value": "are you back already?\nHave you checked all the Mailboxes?\n\nIvan would like to:\n25x Business Contracts"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_start_dialogue_btnA",
+      "value": "i dont understand the Job!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_start_dialogue_btnB",
+      "value": "i have 2x free Inv. Slots and 25x Contracts with me!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_start_dialogue_btnC",
+      "value": "Mhhh... maybe later Ivan!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_dialogue2-DESCRIPTION",
+      "value": "There is a Mailbox in every City / Town!\nFind them all and then return to me.\n\nIf you lose the Key, that's it and you can't continue with me.\nSo take good care of the Business Key."
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_dialogue2_btnB",
+      "value": "i got it, where did we stop?"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_dialogue2_btnC",
+      "value": "Err.. ill be back!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_ok_dialogue-DESCRIPTION",
+      "value": "It's fun to do Business with you!\nThese Contracts allow me to give you new tasks.\nCome back if you want to learn more!\n\nYou get:\n1x Metro Card\n1x Large Storage Box"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_ok_dialogue_btnC",
+      "value": "Roger Ivan, i will be back!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_ko_dialogue-DESCRIPTION",
+      "value": "There is a Mailbox in every City / Town.\nWith the Business Key you have access to all of them.\n\nOnce you've checked out all the Mailboxes, come back to me!\nI will reward you for the Contracts.\n\nYou get:\n1x Business Key"
+    },
+	{
+      "key": "bestfriend-ivan_quest_03_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}

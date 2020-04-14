@@ -1,0 +1,49 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-kelly_quest_05",
+  "questSpriteName": "birthday_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-kelly_quest_05_start_dialogue",
+  "okQuestDialogueId": "bestfriend-kelly_quest_05_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-kelly_quest_05_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "Birthday_Cake",
+	  "questItemType": "SpecialItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-kelly_quest_05_start_dialogue",
+	  "questDialogueTitle": "Romana's Birthday (1/3)",
+	  "buttonAText": "bestfriend-kelly_quest_05_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-kelly_quest_05_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-kelly_quest_05_ok_dialogue",
+	  "questDialogueTitle": "Romana's Birthday (1/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-kelly_quest_05_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

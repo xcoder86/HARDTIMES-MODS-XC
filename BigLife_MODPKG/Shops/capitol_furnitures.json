@@ -1,0 +1,150 @@
+{
+  "shopId": "Capitol Furnitures",
+  "shopSpriteName": "vertical_shop.png",
+  "shopType": "Shop",
+  "openHour": 08,
+  "openMinute": 00,
+  "closeHour": 21,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "effectNeededToRob": "cantrobmebaby",
+  "shoppables": [
+    {
+      "itemId": "base_container_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 50,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+    {
+      "itemId": "cultivation_plot_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 95.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "rat_trap_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 50,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "workbench_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 150,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "base_kitchen_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 175,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "simple_bed_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 120,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "sewing_table_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 200,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "chemical_table_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 250,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "ghettoblaster_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 180,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "tent_furniture_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 60,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "brewery_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 250,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "wormfarm_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 180,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "mimeograph_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 160,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "brewery_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 145,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "stove_basic_boxed",
+      "itemType": "BoxedFurnituresItem",
+      "price": 50,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    }
+  ]
+}

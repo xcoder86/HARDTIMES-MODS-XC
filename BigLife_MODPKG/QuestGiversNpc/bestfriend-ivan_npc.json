@@ -1,0 +1,22 @@
+{
+  "questGiverNpcId": "bestfriend-ivan_npc",
+  "scene": "church",
+  "posX": 4.56,
+  "posY": 6.19,
+  "questList": [
+	"bestfriend-ivan_quest_01",
+	"bestfriend-ivan_quest_02",
+	"bestfriend-ivan_quest_03"
+  ],
+  "bodyIndex": 3,
+  "hairIndex": 11,
+  "beardIndex": -1,
+  "dressId": "business_whitedress_shirt",
+  "dressType": "ClothingItem",
+  "hasBreast": false,
+  "hatId": "business_greygreen",
+  "hatType": "HatItem",
+  "proxyId": "",
+  "proxyType": "",
+  "wanderRange": 0
+}

@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-xcoder_quest_03",
+      "value": "BUS1N3SS with XCoder"
+    },
+    {
+      "key": "bestfriend-xcoder_quest_03-TASK-DESCRIPTION",
+      "value": "XCoder want to make Business with you!"
+    },
+    {
+      "key": "bestfriend-xcoder_quest_03_start_dialogue-DESCRIPTION",
+      "value": "Arr.. you again! :o)\nWell, now you are here.. you also can grow inside here!\nYou can sell it to me if you got:\n\n5x Ganja Baggie\n\nfor me, i give you:\n€ 250"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_start_dialogue_btnA",
+      "value": "i forgot why you are here?"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_start_dialogue_btnB",
+      "value": "ye.. i have 5x Baggie (Ganja) with me!"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_start_dialogue_btnC",
+      "value": "sorry i dont have any Ganja Bag with me!"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_dialogue2-DESCRIPTION",
+      "value": "You ask too many questions but okay ...\nI'm XCoder, a smart Person that love dark hidden Rooms?!..\nand yeh.. the Developer of the following Mods:\n\n- LifeBalancer\n- StackBalancer\n- BestFriends\n\nand other mods that I will develop!\nit's nice to have met you!"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_dialogue2_btnB",
+      "value": "i see! Where did we stop?"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_dialogue2_btnC",
+      "value": "Cool Story Bro! I need to go.."
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_ok_dialogue-DESCRIPTION",
+      "value": "Mhhhh they smell good!\nDid you do it yourself, you are a natural!\n\nYou get:\n€ 250\n\nI hope to see you again soon and look at the homepage for updates to my mods. I also make new mods more often!"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_ok_dialogue_btnC",
+      "value": "thank you Bro! see ya..."
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_ko_dialogue-DESCRIPTION",
+      "value": "Unfortunately you have nothing suitable with you!\nCome back if you have smelly Ganja Baggie's :o)\n\nTake care o7"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_03_ko_dialogue_btnC",
+      "value": "Uhmm.. okay!"
+    }
+	
+  ]
+}

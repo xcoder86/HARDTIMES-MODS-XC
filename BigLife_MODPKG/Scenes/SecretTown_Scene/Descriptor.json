@@ -1,0 +1,321 @@
+{
+  "sceneId": "SecretTown_Scene",
+  "sceneDirectory": {},
+  "startingSpawnPointX": 0,
+  "startingSpawnPointY": -5,
+  "doOverwriteBaseproperties": true,
+  "civilianPopulation": 0,
+  "civilianGenerosity": 0,
+  "copPopulation": 0,
+  "fascistsPopulation": 0,
+  "forbidPlacingFurnitures": false,
+  "minimumTemperature": -1,
+  "maximumTemperature": 30,
+  "mapRadious": 40,
+  "sceneMusic": "TD1",
+  "sceneBgSounds": "",
+  "playerEffectOnEnter": "",
+  "isIndoor": false,
+  "isLoosingBags": true,
+  "isLoosingMoney": true,
+  "loosingCheckInterval": 10,
+  "loosingItemProbability": 100,
+  "pavementSpriteName": "Pavement/pavement1.png",
+  "objects": [
+	{
+	  "sceneObjectId": "building_b"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/building_1.png",
+	  "positionX": -30,
+	  "positionY": 5,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 6.96,
+	  "boxColliderSizeY": 6,
+	  "boxColliderOffsetX": -0.26,
+	  "boxColliderOffsetY": 0.23,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": false,
+	  "tileSizeWidth": 0,
+	  "tileSizeHeight": 0
+	},
+	{
+	  "sceneObjectId": "building_1"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/building_1.png",
+	  "positionX": -10,
+	  "positionY": 5,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 6.96,
+	  "boxColliderSizeY": 6,
+	  "boxColliderOffsetX": -0.26,
+	  "boxColliderOffsetY": 0.23,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": false,
+	  "tileSizeWidth": 0,
+	  "tileSizeHeight": 0
+	},
+	{
+	  "sceneObjectId": "building_2"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/building_2.png",
+	  "positionX": 0,
+	  "positionY": 5,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 6.96,
+	  "boxColliderSizeY": 6,
+	  "boxColliderOffsetX": -0.26,
+	  "boxColliderOffsetY": 0.23,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": false,
+	  "tileSizeWidth": 0,
+	  "tileSizeHeight": 0
+	},
+	{
+	  "sceneObjectId": "building_3"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/building_1.png",
+	  "positionX": 10,
+	  "positionY": 5,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 6.96,
+	  "boxColliderSizeY": 6,
+	  "boxColliderOffsetX": -0.26,
+	  "boxColliderOffsetY": 0.23,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": false,
+	  "tileSizeWidth": 0,
+	  "tileSizeHeight": 0
+	},
+	{
+	  "sceneObjectId": "building_5"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/building_1.png",
+	  "positionX": 30,
+	  "positionY": 5,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 6.96,
+	  "boxColliderSizeY": 6,
+	  "boxColliderOffsetX": -0.26,
+	  "boxColliderOffsetY": 0.23,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": false,
+	  "tileSizeWidth": 0,
+	  "tileSizeHeight": 0
+	},
+	{
+	  "sceneObjectId": "building_6"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/building_1.png",
+	  "positionX": 40,
+	  "positionY": 5,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 6.96,
+	  "boxColliderSizeY": 6,
+	  "boxColliderOffsetX": -0.26,
+	  "boxColliderOffsetY": 0.23,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": false,
+	  "tileSizeWidth": 0,
+	  "tileSizeHeight": 0
+	},
+	{
+	  "sceneObjectId": "wall_north"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/wall_north.png",
+	  "positionX": 0,
+	  "positionY": 30.5,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 100,
+	  "boxColliderSizeY": 40,
+	  "boxColliderOffsetX": 0,
+	  "boxColliderOffsetY": 0,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": true,
+	  "tileSizeWidth": 100,
+	  "tileSizeHeight": 40
+	},
+	{
+	  "sceneObjectId": "wall_west"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/wall_west.png",
+	  "positionX": -48.5,
+	  "positionY": 0,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 3,
+	  "boxColliderSizeY": 58,
+	  "boxColliderOffsetX": 0,
+	  "boxColliderOffsetY": 0,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": true,
+	  "tileSizeWidth": 3,
+	  "tileSizeHeight": 58
+	},
+	{
+	  "sceneObjectId": "wall_east"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/wall_east.png",
+	  "positionX": 48.5,
+	  "positionY": 0,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 3,
+	  "boxColliderSizeY": 58,
+	  "boxColliderOffsetX": 0,
+	  "boxColliderOffsetY": 0,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": true,
+	  "tileSizeWidth": 3,
+	  "tileSizeHeight": 58
+	},
+	{
+	  "sceneObjectId": "wall_south"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Buildings/wall_south.png",
+	  "positionX": 0,
+	  "positionY": -30.5,
+	  "spriteRotation": 0,
+	  "isCollider": true,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 100,
+	  "boxColliderSizeY": 40,
+	  "boxColliderOffsetX": 0,
+	  "boxColliderOffsetY": 0,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": true,
+	  "tileSizeWidth": 100,
+	  "tileSizeHeight": 40
+	},
+	{
+	  "sceneObjectId": "street_1"
+	  "sceneObjectType": "Static",
+	  "sceneObjectSprite": "Streets/StreetStraight.png",
+	  "positionX": 0,
+	  "positionY": -5,
+	  "spriteRotation": 0,
+	  "isCollider": false,
+	  "colliderType": "box",
+	  "boxColliderSizeX": 6.96,
+	  "boxColliderSizeY": 6,
+	  "boxColliderOffsetX": -0.26,
+	  "boxColliderOffsetY": 0.23,
+	  "boxColliderEdgeRadius": 0,
+	  "isTiled": true,
+	  "tileSizeWidth": 94,
+	  "tileSizeHeight": 5
+	}
+  ],
+  "doors": [
+	{
+	  "modDoodId": "BestFriends_bus_station2",
+	  "modDoorPositionX":  0,
+	  "modDoorPositionY": 0,
+	  "modDoorRotation": 0,
+	  "doorSpawnPointDeltaX": 0,
+	  "doorSpawnPointDeltaY": 0,
+	  "doorColliderWidth": 1,
+	  "doorColliderHeight": 2,
+	  "doorColliderTrigger": true
+	}
+  ],
+  "shops": [
+	
+  ],
+  "spawners": [
+	{
+		"modSpawnerId": "trashbin",
+		"modSpawnerPositionX": -40,
+		"modSpawnerPositionY": -8,
+		"modSpawnerRotation": 0,
+		"spawnerColliderRadius": 0.5
+	},
+	{
+		"modSpawnerId": "trashbin",
+		"modSpawnerPositionX": -38,
+		"modSpawnerPositionY": -8,
+		"modSpawnerRotation": 0,
+		"spawnerColliderRadius": 0.5
+	},
+	{
+		"modSpawnerId": "trashbin",
+		"modSpawnerPositionX": -20,
+		"modSpawnerPositionY": -8,
+		"modSpawnerRotation": 0,
+		"spawnerColliderRadius": 0.5
+	},
+	{
+		"modSpawnerId": "trashbin",
+		"modSpawnerPositionX": -18,
+		"modSpawnerPositionY": -8,
+		"modSpawnerRotation": 0,
+		"spawnerColliderRadius": 0.5
+	},
+	{
+		"modSpawnerId": "trashbin",
+		"modSpawnerPositionX": 20,
+		"modSpawnerPositionY": -8,
+		"modSpawnerRotation": 0,
+		"spawnerColliderRadius": 0.5
+	},
+	{
+		"modSpawnerId": "trashbin",
+		"modSpawnerPositionX": 10,
+		"modSpawnerPositionY": -8,
+		"modSpawnerRotation": 0,
+		"spawnerColliderRadius": 0.5
+	},
+	{
+		"modSpawnerId": "trashbin",
+		"modSpawnerPositionX": 40,
+		"modSpawnerPositionY": -8,
+		"modSpawnerRotation": 0,
+		"spawnerColliderRadius": 0.5
+	},
+	{
+		"modSpawnerId": "trashbin",
+		"modSpawnerPositionX": 38,
+		"modSpawnerPositionY": -8,
+		"modSpawnerRotation": 0,
+		"spawnerColliderRadius": 0.5
+	},
+  ],
+  "fixedFurnitures": [
+	{
+		"modFixedFurnitureId": "nasone_furniture",
+		"modFixedFurnitureUniqueId": "SecretTown_Scene_nasone_1",
+		"modFixedFurniturePositionX": 45,
+		"modFixedFurniturePositionY": 0,
+		"modFixedFurnitureRotation": 0,
+		"isLocked": false,
+		"isPackable": false
+	},
+	{
+		"modFixedFurnitureId": "telephone_furniture",
+		"modFixedFurnitureUniqueId": "SecretTown_Scene_telephone_furniture_1",
+		"modFixedFurniturePositionX": -45,
+		"modFixedFurniturePositionY": 0,
+		"modFixedFurnitureRotation": 0,
+		"isLocked": false,
+		"isPackable": false
+	}
+  ],
+  "fishingSpots": [
+	
+  ]
+}

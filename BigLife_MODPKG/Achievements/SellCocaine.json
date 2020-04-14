@@ -1,0 +1,6 @@
+{
+  "achievementId": "SellCocaine",
+  "numberToUnlock": 50,
+  "voidSpriteName": "sell-cocaine_locked.png",
+  "fullSpriteName": "sell-cocaine_unlocked.png"
+}

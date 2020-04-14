@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-romana_quest_07",
+      "value": "Romana's Special Order"
+    },
+    {
+      "key": "bestfriend-romana_quest_07-TASK-DESCRIPTION",
+      "value": "Romana ordered strange Stuff from the Gang!"
+    },
+    {
+      "key": "bestfriend-romana_quest_07_start_dialogue-DESCRIPTION",
+      "value": "Hello nice to see you again!\nI am currently waiting for a delivery from the Gang that is around here. Apparently this People have great things for a Party!\n\nAnd what's new with you and your life?"
+    },
+	{
+      "key": "bestfriend-romana_quest_07_start_dialogue_btnA",
+      "value": "Haha.. yeh i am the supplier of your Order!"
+    },
+	{
+      "key": "bestfriend-romana_quest_07_start_dialogue_btnB",
+      "value": "Cool Story, yeh i am busy atm.. see you!"
+    },
+	{
+      "key": "bestfriend-romana_quest_07_ok_dialogue-DESCRIPTION",
+      "value": "Haha what a coincidence!\n\nAre you working for this Gang now? Wow...\nThis makes you look much more dangerous!\nIn the future I better not mess with you.\n\nYou get:\n€ 200"
+    },
+	{
+      "key": "bestfriend-romana_quest_07_ok_dialogue_btnC",
+      "value": "it was nice to see you again!"
+    },
+	{
+      "key": "bestfriend-romana_quest_07_ko_dialogue-DESCRIPTION",
+      "value": "It's a bad joke, isn't it?\nYou don't have the delivery in your inventory.\n\nYou shouldn't be kidding with something like that ..."
+    },
+	{
+      "key": "bestfriend-romana_quest_07_ko_dialogue_btnC",
+      "value": "Oh sorry, will not happen again!"
+    }
+	
+  ]
+}

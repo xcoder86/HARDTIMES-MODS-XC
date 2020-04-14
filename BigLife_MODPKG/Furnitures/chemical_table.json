@@ -1,0 +1,37 @@
+{
+  "furnitureId": "Chemical table",
+  "furnitureType": "CraftingStationFurniture",
+  "boxedItemAncestorName": "chemical_table_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "chemical_table.png",
+  "furnitureColliderRadius": 0.5,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": ["outdoor"],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "ChemicalTableRecipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "Chemical Table"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "Chemical Table Description"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "crafting_sound"
+    }
+  ]
+}

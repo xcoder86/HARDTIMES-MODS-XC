@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-sergio_quest_07",
+      "value": "Time for Business with Sergio (2/2)"
+    },
+    {
+      "key": "bestfriend-sergio_quest_07-TASK-DESCRIPTION",
+      "value": "its time for real Business my friend!"
+    },
+    {
+      "key": "bestfriend-sergio_quest_07_start_dialogue-DESCRIPTION",
+      "value": "Did you manage to grow?\nIf so, I will reward you abundantly!\n\nIf you give me 5x Ganja, you will get:\n1x Little Chemical People (book)\n1x Chemical Table (boxed)\n1x Ghettoblaster (boxed)\n\nMake sure you have 3x free slots in your inventory!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_07_start_dialogue_btnA",
+      "value": "i need to check my Inventory first!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_07_start_dialogue_btnB",
+      "value": "yes i have 5x Ganja and free space inside my Inv."
+    },
+	{
+      "key": "bestfriend-sergio_quest_07_ok_dialogue-DESCRIPTION",
+      "value": "Cool thing my friend!\nFrom now on you can run your own business.\nHere you will need these things:\n1x Little Chemical People (book)\n1x Chemical Table (boxed)\n1x Ghettoblaster (boxed)\n\nVisit me from time to time my friend!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_07_ok_dialogue_btnA",
+      "value": "you can count on that, see you soon!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_07_ok_dialogue_btnB",
+      "value": "it's a pleasure to work with you"
+    },
+	{
+      "key": "bestfriend-sergio_quest_07_ok_dialogue_btnC",
+      "value": "I think this business is too risky for me"
+    },
+	{
+      "key": "bestfriend-sergio_quest_07_ko_dialogue-DESCRIPTION",
+      "value": "I think, you misunderstood me!\nYou only get these things if you give me:\n5x Ganja\n\ncome back when you have it!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_07_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}

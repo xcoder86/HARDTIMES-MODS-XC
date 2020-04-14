@@ -1,0 +1,68 @@
+{
+  "questType": "BaseQuest",
+  "questId": "civilian_asks_for_cocaine",
+  "questSpriteName": "dealer_quest_img.png",
+  "isReoccurring": true,
+  "startingQuestDialogueId": "civilian_asks_for_Cocaine_start_dialogue",
+  "okQuestDialogueId": "civilian_asks_for_Cocaine_ok_dialogue",
+  "koQuestDialogueId": "civilian_asks_for_Cocaine_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "SellCocaine",
+"rewards": [
+	{
+      "questItemId": "",
+      "questItemType": "Money",
+      "questItemQuality": 1,
+      "questItemAmount": 100
+    }
+  ],
+  "prerequisites": [
+	{
+      "questItemId": "baggie_cocaine",
+      "questItemType": "Specialtem",
+      "questItemAmount": 1,
+      "isToDestroyOnUse": true
+    }
+   ],
+  "dialogues": [
+    {
+      "questDialogueId": "civilian_asks_for_Cocaine_start_dialogue",
+      "questDialogueTitle": "Do you have a Cocaine Baggie?",
+      "buttonAText": "civilian_asks_for_Cocaine_start_dialogue_btn_A",
+      "buttonAFunction": "EndQuest",
+      "buttonAParameter": "",
+      "buttonBText": "civilian_asks_for_Cocaine_start_dialogue_btn_B",
+      "buttonBFunction": "Abort",
+      "buttonBParameter": "",
+      "buttonCText": "civilian_asks_for_Cocaine_start_dialogue_btn_C",
+      "buttonCFunction": "Abort",
+      "buttonCParameter": ""
+    },
+	{
+      "questDialogueId": "civilian_asks_for_Cocaine_ko_dialogue",
+      "questDialogueTitle": "Do you have a Cocaine Baggie?",     
+	  "buttonAText": "",
+      "buttonAFunction": "",
+      "buttonAParameter": "",	
+	  "buttonBText": "",
+      "buttonBFunction": "",
+      "buttonBParameter": "",	
+      "buttonCText": "civilian_asks_for_Cocaine_ko_dialogue_btn_C",
+      "buttonCFunction": "Abort",
+      "buttonCParameter": ""
+    },
+	{
+      "questDialogueId": "civilian_asks_for_Cocaine_ok_dialogue",
+      "questDialogueTitle": "Do you have a Cocaine Baggie?",     
+	  "buttonAText": "",
+      "buttonAFunction": "",
+      "buttonAParameter": "",	
+	  "buttonBText": "",
+      "buttonBFunction": "",
+      "buttonBParameter": ""
+      "buttonCText": "civilian_asks_for_Cocaine_ok_dialogue_btn_C",
+      "buttonCFunction": "Abort",
+      "buttonCParameter": ""
+    }
+  ]
+}

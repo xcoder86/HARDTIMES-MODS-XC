@@ -1,0 +1,52 @@
+{
+  "furnitureId": "BF-Luxury_fountain",
+  "furnitureType": "HomeFountainFurniture",
+  "boxedItemAncestorName": "BF-Luxury_fountain_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Luxury_fountain.png",
+  "furnitureColliderRadius": 1,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "widgetLabelDx": "WASH",
+  "widgetIconIndexDx": 30,
+  
+  "achievementsOnUse": "",
+  "mass": 40,
+  "positionRestrictions": [],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "FountainRecipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "Luxury Fountain"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "Luxury Fountain Description"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+	{
+      "key": "timedActionEffect",
+      "stringValue": "public_washing_effect"
+    },
+    {
+      "key": "timedActionCooldown",
+      "intValue": 0
+    },
+    {
+      "key": "timedActionDuration",
+      "intValue": 5
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "water"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "BookItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "Donut Hoven Book",
+      "itemSpriteName": "donuthoven.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook",	  
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "Donut Hoven Knowledge"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "Home Phone Book",
+      "itemSpriteName": "homephone.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook",	  
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "Home Phone Knowledge"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "A man of the streets, Vol.1",
+      "itemSpriteName": "purple_book.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "begging_sign,Water Bottle,workbench,rat_trap_boxed"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "A Practical Man, Vol.2",
+      "itemSpriteName": "practical_man_vol1.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "Mimeograph,Wormfarm,Basic Stove,Medium Stove,Simple Tub,simple_bed_furniture,workbench_advanced,Cheese"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "Workbench_Advanced_Book",
+      "itemSpriteName": "purple_book.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "workbench_advanced"
+		}
+	  ]
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Luxury_Life_Book1",
+      "itemSpriteName": "luxurylife_book.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook,LuxuryHomeless",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "Luxury Chest Knowledge,Luxury Bench Knowledge,Luxury Bed Knowledge,Luxury Glass Table Knowledge,Luxury Fridge Knowledge"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "Luxury_Life_Book2",
+      "itemSpriteName": "luxurylife_book.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook,LuxuryHomeless",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "Luxury Fountain Knowledge,Luxury Marmor Table Knowledge,Luxury Christ. Oven Knowledge"
+		}
+	  ]
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Modern_Life_Book1",
+      "itemSpriteName": "modernlife_book.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook,ModernHomeless",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "Modern Table Knowledge,Modern Bed Knowledge,Modern Wall Picture Knowledge,Modern Wall Picture 2 Knowledge,Modern Wall Picture 3 Knowledge,Modern Wall Picture 4 Knowledge,Modern Pizza Oven Knowledge"
+		}
+	  ]
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Dealer_Life_Book",
+      "itemSpriteName": "dealerlife_book.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "Cannabis Seeds,Coca Seeds,Cocaine Powder,Ecstasy Paste,Ecstasy Pill,Baggie,Baggie (Ganja),Baggie (Cocaine),Baggie (Ecstasy),Special Delivery Box,unpack Ganja Baggie,unpack Cocaine Baggie,unpack Ecstasy Baggie"
+		}
+	  ]
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Business_Life_Book",
+      "itemSpriteName": "businesslife_book.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "achievementsOnUse": "ReadAllBooks,ReadBook",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"recipesIds",
+			"stringValue": "Business Vault Knowledge,Business Soundsystem Knowledge,Z-Trap Deluxe,Business Backpack,Business Trolley"
+		}
+	  ]
+    }
+	
+	
+	
+  ]
+}

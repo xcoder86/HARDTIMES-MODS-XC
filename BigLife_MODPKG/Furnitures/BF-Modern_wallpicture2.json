@@ -1,0 +1,16 @@
+{
+  "furnitureId": "BF-Modern_wallpicture2",
+  "furnitureType": "DescriptionFurniture",
+  "boxedItemAncestorName": "BF-Modern_wallpicture2_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Modern_wallpicture2.png",
+  "furnitureColliderRadius": 0.2,
+  "isPackable": true,
+  "freezePosition": true,
+  "furnitureUiPanelName": "FurnitureDescriptionPanel",
+  "achievementsOnUse": "",
+  "mass": 0,
+  "positionRestrictions": ["outdoor"],
+  "extras": []
+}

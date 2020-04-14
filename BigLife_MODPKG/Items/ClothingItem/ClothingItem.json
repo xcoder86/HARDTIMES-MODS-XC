@@ -1,0 +1,84 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "ClothingItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "xcoder_shirt",
+      "itemSpriteName": "xcoder.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "romana_shirt",
+      "itemSpriteName": "21.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "michael_shirt",
+      "itemSpriteName": "15.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "naked_shirt1",
+      "itemSpriteName": "naked_shirt1.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    }
+	
+	
+  ]
+}

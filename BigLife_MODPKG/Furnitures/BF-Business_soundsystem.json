@@ -1,0 +1,20 @@
+{
+  "furnitureId": "BF-Business_soundsystem",
+  "furnitureType": "StereoFurniture",
+  "boxedItemAncestorName": "BF-Business_soundsystem_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Business_soundsystem.png",
+  "furnitureColliderRadius": 0.8,
+  "isPackable": true,
+  "freezePosition": true,  
+  "achievementsOnUse": "",
+  "mass": 30,
+  "positionRestrictions": [],
+  "extras": [
+    {
+		"key":"effectOnListening",
+		"stringValue": "listen_music_effect"
+	}
+  ]
+}

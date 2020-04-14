@@ -1,0 +1,23 @@
+{
+  "doorId": "BestFriends_bus_station",
+  "closedSpriteName": "bus_stop.png",
+  "openSpriteName": "bus_stop.png",
+  "targetScene": "SecretTown_Scene",
+  "targetDoor": "BestFriends_bus_station2",
+  "objectToUnlock": "",
+  "unlockDestroysObject": false,
+  "effectOnUnlock": "",
+  "unlockIsPermanent": true,
+  "objectToBreak": "",
+  "breakDestroysObject": false,
+  "breakSound": "trash_search",
+  "breakDuration": 10,
+  "effectOnBreak": "break_door_effect",
+  "breakIsPermanent": true,
+  "isOpen": true,
+  "closedMessage": "You can't open it like this",
+  "achievementsOnUse": "",
+  "achievementsOnOpen": "",
+  "achievementsOnBreak": "BreakDoor",
+  "interactableDistance": 2
+}

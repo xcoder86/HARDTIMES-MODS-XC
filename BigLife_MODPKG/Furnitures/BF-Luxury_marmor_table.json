@@ -1,0 +1,16 @@
+{
+  "furnitureId": "BF-Luxury_marmor_table",
+  "furnitureType": "DescriptionFurniture",
+  "boxedItemAncestorName": "BF-Luxury_marmor_table_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Luxury_marmor_table.png",
+  "furnitureColliderRadius": 0.2,
+  "isPackable": true,
+  "freezePosition": true,
+  "furnitureUiPanelName": "FurnitureDescriptionPanel",
+  "achievementsOnUse": "",
+  "mass": 10,
+  "positionRestrictions": ["outdoor"],
+  "extras": []
+}

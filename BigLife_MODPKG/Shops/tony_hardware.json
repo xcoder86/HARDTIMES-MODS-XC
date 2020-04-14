@@ -1,0 +1,100 @@
+{
+  "shopId": "Tony Hardware",
+  "shopSpriteName": "vertical_shop.png",
+  "shopType": "Shop",
+  "openHour": 07,
+  "openMinute": 00,
+  "closeHour": 21,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 1,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "pen",
+      "itemType": "BaseItem",
+      "price": 5.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "cardboard",
+      "itemType": "BaseItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "umbrella",
+      "itemType": "BaseItem",
+      "price": 8.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+    {
+      "itemId": "crowbar",
+      "itemType": "BaseItem",
+      "price": 18.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+    {
+      "itemId": "spare_cardboard_box",
+      "itemType": "BaseItem",
+      "price": 8.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "pincers",
+      "itemType": "BaseItem",
+      "price": 10.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "nails",
+      "itemType": "BaseItem",
+      "price": 5.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 15
+    },
+    {
+      "itemId": "dutch_tape",
+      "itemType": "BaseItem",
+      "price": 8.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "hammer",
+      "itemType": "BaseItem",
+      "price": 8,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    }
+	
+	
+  ]
+}

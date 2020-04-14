@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-kelly_quest_03",
+      "value": "Special Fish Delivery for Kelly!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_03-TASK-DESCRIPTION",
+      "value": "Kelly is waiting for a Special Fish Delivery!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_03_start_dialogue-DESCRIPTION",
+      "value": "Interested on a freaky special fish delivery!?\n\nOrder:\n2x Donut Fish\n\nYou may can fish it at the pond! (Park)\nYou cant use Worms to catch it, you will need Donuts!\nThat is crazy i know but it works, trust me.\nI will pay you for this delivery!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_03_start_dialogue_btnA",
+      "value": "yes Kelly, i have the freaky Fish with me!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_03_start_dialogue_btnB",
+      "value": "i am busy, maybe later!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_03_ok_dialogue-DESCRIPTION",
+      "value": "Wonderful like last time!\nThank you again, please take this Earthworms and the filled Wallets.\n\nYou got:\n5x Earthworm\n2 x filled Wallet"
+    },
+	{
+      "key": "bestfriend-kelly_quest_03_ok_dialogue_btnC",
+      "value": "Thanks and see you soon Kelly!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_03_ko_dialogue-DESCRIPTION",
+      "value": "Um ...?\n\nI need the Fish for the Customer!!!!.\nOnly with the Fish we can continue...\n\nRequired:\n2x Donut Fish"
+    },
+	{
+      "key": "bestfriend-kelly_quest_03_ko_dialogue_btnC",
+      "value": "Err.. i will go fishing!"
+    }
+	
+  ]
+}

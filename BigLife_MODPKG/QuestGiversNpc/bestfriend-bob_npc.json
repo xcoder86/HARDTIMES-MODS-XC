@@ -1,0 +1,25 @@
+{
+  "questGiverNpcId": "bestfriend-bob_npc",
+  "scene": "zero",
+  "posX": 10,
+  "posY": -20,
+  "questList": [
+	"bestfriend-bob_quest_01",
+	"bestfriend-bob_quest_02",
+	"bestfriend-bob_quest_03",
+	"bestfriend-bob_quest_04",
+	"bestfriend-bob_quest_05",
+	"bestfriend-bob_quest_06"
+  ],
+  "bodyIndex": 2,
+  "hairIndex": 6,
+  "beardIndex": -1,
+  "dressId": "happy_jumper",
+  "dressType": "ClothingItem",
+  "hasBreast": false,
+  "hatId": "mountain_hat",
+  "hatType": "HatItem",
+  "proxyId": "",
+  "proxyType": "",
+  "wanderRange": 10
+}

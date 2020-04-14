@@ -1,0 +1,37 @@
+{
+  "furnitureId": "wormfarm_furniture",
+  "furnitureType": "CraftingStationFurniture",
+  "boxedItemAncestorName": "wormfarm_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "wormfarm.png",
+  "furnitureColliderRadius": 0.5,
+  "isPackable": true,
+  "freezePosition": false,
+  
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": [],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "WormfarmRecipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "wormfarm_furniture"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "Wormfarm Description"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "crafting_sound"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-ivan_quest_01",
+  "questSpriteName": "business_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-ivan_quest_01_start_dialogue",
+  "okQuestDialogueId": "bestfriend-ivan_quest_01_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-ivan_quest_01_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "Business_Life_Book",
+	  "questItemType": "BookItem",
+	  "questItemQuality": 4,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "business_backpack",
+	  "questItemType": "ContainerItem",
+	  "questItemQuality": 4,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [
+	{
+      "questItemId": "",
+      "questItemType": "Money",
+      "questItemAmount": 500,
+	  "isToDestroyOnUse": false
+    }
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_01_start_dialogue",
+	  "questDialogueTitle": "are you ready for Big Business?",
+	  "buttonAText": "bestfriend-ivan_quest_01_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-ivan_quest_01_dialogue2",
+	  "buttonBText": "bestfriend-ivan_quest_01_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_01_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_01_dialogue2",
+	  "questDialogueTitle": "are you ready for Big Business?",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-ivan_quest_01_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-ivan_quest_01_start_dialogue",
+	  "buttonCText": "bestfriend-ivan_quest_01_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_01_ok_dialogue",
+	  "questDialogueTitle": "are you ready for Big Business?",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_01_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_01_ko_dialogue",
+	  "questDialogueTitle": "are you ready for Big Business?",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_01_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

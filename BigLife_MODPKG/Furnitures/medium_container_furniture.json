@@ -1,0 +1,26 @@
+{
+  "furnitureId": "medium_container",
+  "furnitureType": "ContainerFurniture",
+  "boxedItemAncestorName": "medium_container_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "medium_container.png",
+  "furnitureColliderRadius": 0.3,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": ["outdoor"],
+  "extras": [
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+	{
+      "key": "slotsNum",
+      "intValue": 12
+    }
+	
+  ]
+}

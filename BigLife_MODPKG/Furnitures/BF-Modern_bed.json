@@ -1,0 +1,46 @@
+{
+  "furnitureId": "BF-Modern_bed",
+  "furnitureType": "SleepingStationFurniture",
+  "boxedItemAncestorName": "BF-Modern_bed_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Modern_bed.png",
+  "furnitureColliderRadius": 0.7,
+  "isPackable": true,
+  "freezePosition": true,  
+  "achievementsOnUse": "SleepBed",
+  "mass": 20,
+  "positionRestrictions": [
+    "outdoor"
+  ],
+  
+  "widgetLabelSx": "SLEEP",
+  "widgetIconIndexSx": 48,
+  
+  "extras": [
+    {
+      "key": "sleepingPositionDeltaX",
+      "floatValue": 0.0
+    },
+    {
+      "key": "sleepingPositionDeltaY",
+      "floatValue": -0.10
+    },
+    {
+      "key": "sleepingPositionRotation",
+      "floatValue": 0
+    },
+    {
+      "key": "comfortValue",
+      "floatValue": 3.25
+    },
+	{
+      "key": "showHead",
+      "intValue": 1
+    },
+	{
+      "key": "showBody",
+      "intValue": 0
+    }
+  ]
+}

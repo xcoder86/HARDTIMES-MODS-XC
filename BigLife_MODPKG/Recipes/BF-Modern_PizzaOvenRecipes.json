@@ -1,0 +1,145 @@
+{
+  "collectionId": "BF-Modern_PizzaOvenRecipes",
+  "recipes": [
+    {
+      "recipeId": "Pizza Piece",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Pizza Piece",
+          "itemType": "FoodItem",
+          "itemQuantity": 4
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "mushrooms",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Cheese",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Pizza",
+      "duration": 25,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Pizza",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "mushrooms",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Cheese",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Pizza Oven Bread",
+      "duration": 30,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Bread",
+          "itemType": "FoodItem",
+          "itemQuantity": 8
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Pizza Oven Pasta Alfredo",
+      "duration": 30,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Pasta Alfredo",
+          "itemType": "FoodItem",
+          "itemQuantity": 4
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Raw Pasta",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "mushrooms",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Onion",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Carrot",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	
+	
+	
+  ]
+}

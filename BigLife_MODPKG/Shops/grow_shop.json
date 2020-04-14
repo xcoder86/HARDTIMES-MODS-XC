@@ -1,0 +1,202 @@
+{
+  "shopId": "Bob Rock Grow Shop",
+  "shopSpriteName": "vertical_shop.png",
+  "shopType": "Shop",
+  "openHour": 07,
+  "openMinute": 00,
+  "closeHour": 22,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 10,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 0,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+	{
+      "itemId": "baggie_empty",
+      "itemType": "SpecialItem",
+      "price": 0.20,
+      "minQuality": 4,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+	
+    {
+      "itemId": "Smoking Papers",
+      "itemType": "BaseItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "soil",
+      "itemType": "BaseItem",
+      "price": 7.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 2
+    },
+    {
+      "itemId": "bombafert",
+      "itemType": "SpecialItem",
+      "price": 13,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "bioswift",
+      "itemType": "SpecialItem",
+      "price": 13,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "supercrop",
+      "itemType": "SpecialItem",
+      "price": 13,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 2
+    },
+    {
+      "itemId": "pumpkin_seed",
+      "itemType": "SeedItem",
+      "price": 1.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "carrot_seed",
+      "itemType": "SeedItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "onion_seed",
+      "itemType": "SeedItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "cannabis_seed",
+      "itemType": "SeedItem",
+      "price": 10,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "aloe_seed",
+      "itemType": "SeedItem",
+      "price": 2.3,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "wheat_seed",
+      "itemType": "SeedItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "coffee_seed",
+      "itemType": "SeedItem",
+      "price": 3.3,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "hops_seed",
+      "itemType": "SeedItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "tea_seed",
+      "itemType": "SeedItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "soy_seed",
+      "itemType": "SeedItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "cocaine_seed",
+      "itemType": "SeedItem",
+      "price": 15,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "tobacco_seed",
+      "itemType": "SeedItem",
+      "price": 1.0,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "mattock",
+      "itemType": "BaseItem",
+      "price": 18.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+	
+	{
+      "itemId": "Chemicals",
+      "itemType": "SpecialItem",
+      "price": 15,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    }
+	
+	
+	
+  ]
+}

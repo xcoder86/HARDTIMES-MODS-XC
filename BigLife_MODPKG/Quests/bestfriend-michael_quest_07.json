@@ -1,0 +1,81 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-michael_quest_07",
+  "questSpriteName": "gangbusiness_quest_img.png",
+  "isReoccurring": true,
+  "startingQuestDialogueId": "bestfriend-michael_quest_07_start_dialogue",
+  "okQuestDialogueId": "bestfriend-michael_quest_07_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-michael_quest_07_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "GangBusiness",
+"rewards": [
+	{
+      "questItemId": "",
+      "questItemType": "Money",
+      "questItemQuality": 1,
+      "questItemAmount": 450
+    }
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "baggie_ganja",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "baggie_cocaine",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 1,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "baggie_ecstasy",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-michael_quest_07_start_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (Rep.)",
+	  "buttonAText": "bestfriend-michael_quest_07_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-michael_quest_07_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_07_ok_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (Rep.)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_07_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_07_ko_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (Rep.)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_07_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

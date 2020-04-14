@@ -1,0 +1,109 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "MedicItem",
+  "items": [
+    {
+      "itemId": "gastro_boy",
+      "itemSpriteName": "gastro_boy.png",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "itemEffectOnUse": "gastro_boy_effect",
+	  "achievementsOnUse": "UseMedical",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key": "isDisposable",
+			"intValue": 1
+		}
+	  ]
+    },
+	{
+      "itemId": "plaster",
+      "itemSpriteName": "plaster.png",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "itemEffectOnUse": "cure_effect",
+	  "achievementsOnUse": "UseMedical",
+      "effectModifiers": [
+		{
+          "statId": "playerHealth",
+          "statModifier": 15
+        }
+	  ],
+	  "extras":[
+		{
+			"key": "isDisposable",
+			"intValue": 1
+		}
+	  ]
+    },
+	{
+      "itemId": "first_aid",
+      "itemSpriteName": "first_aid.png",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "itemEffectOnUse": "cure_effect",
+	  "achievementsOnUse": "UseMedical",
+      "effectModifiers": [
+		{
+          "statId": "playerHealth",
+          "statModifier": 50
+        }
+	  ],
+	  "extras":[
+		{
+			"key": "isDisposable",
+			"intValue": 1
+		}
+	  ]
+    },
+	{
+      "itemId": "crutch",
+      "itemSpriteName": "crutch.png",
+      "itemProxySprite": "crutch.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnEquip": "crutch_effect",
+	  "achievementsOnUse": "UseMedical",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key": "isDisposable",
+			"intValue": 0
+		}
+	  ]
+    },
+	{
+      "itemId": "maxidol",
+      "itemSpriteName": "maxidol.png",
+      "itemProxySprite": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "itemEffectOnUse": "maxidol_effect",
+	  "achievementsOnUse": "UseMedical",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key": "isDisposable",
+			"intValue": 1
+		}
+	  ]
+    },
+	{
+      "itemId": "scabydoo",
+      "itemSpriteName": "scabydoo.png",
+      "itemProxySprite": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "itemEffectOnUse": "scabydoo_effect",
+	  "achievementsOnUse": "UseMedical",
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key": "isDisposable",
+			"intValue": 1
+		}
+	  ]
+    }
+  ]
+}

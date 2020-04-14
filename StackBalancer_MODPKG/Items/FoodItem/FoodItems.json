@@ -1,0 +1,1046 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "FoodItem",
+  "items": [
+    {
+      "itemId": "food_cheeseburger",
+      "itemSpriteName": "cheeseburgher.png",
+      "itemExpiration": 43800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 40
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 20
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        }
+      ]
+    },
+    {
+      "itemId": "food_coffee",
+      "itemSpriteName": "coffee.png",
+      "itemExpiration": 43800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 10
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 30
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        }
+      ]
+    },
+    {
+      "itemId": "food_tea",
+      "itemSpriteName": "tea.png",
+      "itemExpiration": 43800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_temperature_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 5
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -10
+        }
+      ]
+    },
+    {
+      "itemId": "Water Bottle",
+      "itemSpriteName": "water_bottle_full.png",
+      "itemExpiration": 43800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_temperature_effect",
+	  "itemsLeftOnUse": [
+		{
+		  "questItemId": "Empty water bottle",
+		  "questItemType": "BaseItem",
+		  "questItemAmount": 1
+		}
+	  ]
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": -5
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -5
+        }
+      ]
+    },
+    {
+      "itemId": "Light the Bob Stout",
+      "itemSpriteName": "ltb_beer.png",
+      "itemExpiration": 43800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "alcohol_effect",
+	  "achievementsOnUse": "UseAlcohool",
+	  "achievementsOnCraft": "BrewAlcohol",
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		{
+          "statId": "playerClean",
+          "statModifier": -1
+        }, 
+		{
+		  "statId": "playerSpeed",
+		  "statModifier": -0.1
+		},
+		{
+		  "statId": "playerScandal",
+		  "statModifier": -1
+		}
+      ]
+    },
+    {
+      "itemId": "Old Goat liquor",
+      "itemSpriteName": "old_goat.png",
+      "itemExpiration": 43800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "alcohol_effect",
+	  "achievementsOnUse": "UseAlcohool",
+	  "achievementsOnCraft": "BrewAlcohol",
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 5
+        },
+		{
+          "statId": "playerClean",
+          "statModifier": -2
+        }, 
+		{
+		  "statId": "playerSpeed",
+		  "statModifier": -0.3
+		},
+		{
+		  "statId": "playerScandal",
+		  "statModifier": -2
+		}
+      ]
+    },
+    {
+     "itemId": "Pumpkin",
+      "itemSpriteName": "pumpkin.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 10
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -10
+        }
+      ]
+    },
+	{
+     "itemId": "Carrot",
+      "itemSpriteName": "carrot.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 5
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -5
+        }
+      ]
+    },
+	{
+     "itemId": "Onion",
+      "itemSpriteName": "onion.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 4
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 2
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -2
+        }
+      ]
+    },
+    {
+     "itemId": "roasted_rat",
+      "itemSpriteName": "roasted_rat.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 30
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        }
+      ]
+    },
+    {
+     "itemId": "roasted_cat",
+      "itemSpriteName": "roasted_cat.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 20
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -15
+        }
+      ]
+    },
+    {
+     "itemId": "roasted_dog",
+      "itemSpriteName": "roasted_dog.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 30
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -25
+        }
+      ]
+    },
+    {
+     "itemId": "roasted_greenbo",
+      "itemSpriteName": "roasted_greenbo.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 30
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 20
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -25
+        }
+      ]
+    },
+    {
+     "itemId": "roasted_flattula",
+      "itemSpriteName": "roasted_flattula.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 10
+        },
+		{
+          "statId": "playerStamina",
+          "statModifier": 30
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -15
+        }
+      ]
+    },
+    {
+     "itemId": "roasted_purploid",
+      "itemSpriteName": "roasted_purploid.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 40
+        },
+		{
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -25
+        }
+      ]
+    },
+    {
+     "itemId": "mushrooms",
+      "itemSpriteName": "mushrooms.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 10
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 20
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -5
+        }
+      ]
+    },
+    {
+     "itemId": "roasted_rat_a_la_manolao",
+      "itemSpriteName": "roasted_rat_a_la_manolao.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 80
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -40
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 15
+        }
+      ]
+    },
+    {
+     "itemId": "Vegetable Soup",
+      "itemSpriteName": "vegetable_soup.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 50
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 10
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -30
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 30
+        }
+      ]
+    },
+	{
+     "itemId": "Cheese",
+      "itemSpriteName": "cheese.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 35
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -25
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Wheat",
+      "itemSpriteName": "wheat.png",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 5
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -5
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Flour",
+      "itemSpriteName": "flour.png",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 0
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -35
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": -10
+        }
+      ]
+    },
+	{
+     "itemId": "Banana",
+      "itemSpriteName": "banana.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 15
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -10
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Apple",
+      "itemSpriteName": "apple.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 20
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -5
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 30
+        }
+      ]
+    },
+	{
+     "itemId": "Eggs",
+      "itemSpriteName": "eggs.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 10
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": -10
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -15
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 5
+        }
+      ]
+    },
+	{
+     "itemId": "Fried Egg",
+      "itemSpriteName": "fried_egg.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 20
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -10
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 10
+        }
+      ]
+    },
+	{
+     "itemId": "milk",
+      "itemSpriteName": "milk.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 15
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -25
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Butter",
+      "itemSpriteName": "butter.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 5
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": -10
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Apple Pie",
+      "itemSpriteName": "apple_pie.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 60
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 40
+        }
+      ]
+    },
+	{
+     "itemId": "Berry Pie",
+      "itemSpriteName": "berry_pie.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 50
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 50
+        }
+      ]
+    },
+	{
+     "itemId": "Bread",
+      "itemSpriteName": "bread.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 40
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -25
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 10
+        }
+      ]
+    },
+	{
+     "itemId": "blue_berries",
+      "itemSpriteName": "blue_berries.png",
+      "itemExpiration": 39800,
+      "maxStackable": 20,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 10
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 5
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -3
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 5
+        }
+      ]
+    },
+	{
+     "itemId": "Aloe",
+      "itemSpriteName": "aloe.png",
+      "itemExpiration": 39800,
+      "maxStackable": 20,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 1
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -40
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Chocolate Snack",
+      "itemSpriteName": "chocolate_snack.png",
+      "itemExpiration": 39800,
+      "maxStackable": 20,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 20
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 10
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 5
+        }
+      ]
+    },
+	{
+     "itemId": "Blue Cow",
+      "itemSpriteName": "energy_drink.png",
+      "itemExpiration": 39800,
+      "maxStackable": 10,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 5
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 80
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Meat",
+      "itemSpriteName": "meat.png",
+      "itemExpiration": 3440,
+      "maxStackable": 20,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 10
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": -5
+        }
+      ]
+    },
+	{
+     "itemId": "Steak",
+      "itemSpriteName": "steak.png",
+      "itemExpiration": 39800,
+      "maxStackable": 20,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 40
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 20
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -35
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": +10
+        }
+      ]
+    },
+	{
+     "itemId": "Coffee Beans",
+      "itemSpriteName": "coffee_beans.png",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 5
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 10
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -5
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Grounded Coffee",
+      "itemSpriteName": "coffee_grounded.png",
+      "itemExpiration": 0,
+      "maxStackable": 50,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 4
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 10
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -6
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Tea Leaves",
+      "itemSpriteName": "tea_leaves.png",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 4
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 15
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -6
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Hops",
+      "itemSpriteName": "hops.png",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 2
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 7
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -6
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Raw Pasta",
+      "itemSpriteName": "raw_pasta.png",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 2
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -6
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    },
+	{
+     "itemId": "Pasta Alfredo",
+      "itemSpriteName": "alfredo_pasta.png",
+      "itemExpiration": 39800,
+      "maxStackable": 5,
+      "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 60
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 30
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -20
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 30
+        }
+      ]
+    },
+	{
+     "itemId": "Soy",
+      "itemSpriteName": "soy.png",
+      "itemExpiration": 39800,
+      "maxStackable": 99,
+      "itemEffectOnUse": "food_eat_effect",
+      "effectModifiers": [
+        {
+          "statId": "playerHunger",
+          "statModifier": 5
+        },
+		 {
+          "statId": "playerStamina",
+          "statModifier": 0
+        },
+		{
+          "statId": "playerBowels",
+          "statModifier": -10
+        },
+		{
+          "statId": "playerHealth",
+          "statModifier": 0
+        }
+      ]
+    }
+  ]
+}

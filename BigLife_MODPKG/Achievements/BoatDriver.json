@@ -1,0 +1,6 @@
+{
+  "achievementId": "BoatDriver",
+  "numberToUnlock": 1,
+  "voidSpriteName": "boatdriver_locked.png",
+  "fullSpriteName": "boatdriver_unlocked.png"
+}

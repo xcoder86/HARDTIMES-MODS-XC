@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-michael_quest_07",
+      "value": "Michael and the Gang (Rep.)"
+    },
+    {
+      "key": "bestfriend-michael_quest_07-TASK-DESCRIPTION",
+      "value": "Michael and the Gang Business (Rep.)"
+    },
+    {
+      "key": "bestfriend-michael_quest_07_start_dialogue-DESCRIPTION",
+      "value": "There is currently not much to do with me!\nBut you can help the Gang, they always need:\n\n1x Cocaine Baggie\n5x Ganja Baggie\n5x Ecstasy Baggie\n\nIf you got the Stuff you will get:\n€ 450"
+    },
+	{
+      "key": "bestfriend-michael_quest_07_start_dialogue_btnA",
+      "value": "i have the Stuff with me!"
+    },
+	{
+      "key": "bestfriend-michael_quest_07_start_dialogue_btnB",
+      "value": "i will be back in a bit!"
+    },
+	{
+      "key": "bestfriend-michael_quest_07_ok_dialogue-DESCRIPTION",
+      "value": "You are so fast every time!\n\nI need to talk to my boss, maybe we'll pay you more soon! We need reliable members like you!\n\nTake care and come back when you have so much again!"
+    },
+	{
+      "key": "bestfriend-michael_quest_07_ok_dialogue_btnC",
+      "value": "sounds great, see ya!"
+    },
+	{
+      "key": "bestfriend-michael_quest_07_ko_dialogue-DESCRIPTION",
+      "value": "Sorry but you misunderstood me!\nOnly if you have..\n\n1x Cocaine Baggie\n5x Ganja Baggie\n5x Ecstasy Baggie\n\nin your Inventory, I can give you € 450!"
+    },
+	{
+      "key": "bestfriend-michael_quest_07_ko_dialogue_btnC",
+      "value": "Err.. ill be back!"
+    }
+	
+  ]
+}

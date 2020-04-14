@@ -1,0 +1,63 @@
+{
+  "shopId": "Apothekary",
+  "shopSpriteName": "kiosk.png",
+  "shopType": "Shop",
+  "openHour": 07,
+  "openMinute": 00,
+  "closeHour": 21,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 2,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "gastro_boy",
+      "itemType": "MedicItem",
+      "price": 8,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "plaster",
+      "itemType": "MedicItem",
+      "price": 3,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+	{
+      "itemId": "first_aid",
+      "itemType": "MedicItem",
+      "price": 35,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "crutch",
+      "itemType": "MedicItem",
+      "price": 65,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "maxidol",
+      "itemType": "MedicItem",
+      "price": 15,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    }
+
+  ]
+}

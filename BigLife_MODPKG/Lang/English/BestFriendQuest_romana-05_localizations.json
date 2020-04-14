@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-romana_quest_05",
+      "value": "Romana's missing friend (1/2)"
+    },
+    {
+      "key": "bestfriend-romana_quest_05-TASK-DESCRIPTION",
+      "value": "Romana is missing a friend and need your help again!"
+    },
+    {
+      "key": "bestfriend-romana_quest_05_start_dialogue-DESCRIPTION",
+      "value": "Hello Dude,\nI am looking for a friend who has not yet been invited to my Party.\nHowever, nobody knows where he is, can you look for him?\nI give you this Card and you give it to him when you find him.\n\nPlease come back to me when you find him.\nI'm very worried, he's wearing something blue and a Cap on.\nHis name is Michael and he was last seen in the Center."
+    },
+	{
+      "key": "bestfriend-romana_quest_05_start_dialogue_btnA",
+      "value": "i will try to find him for you!"
+    },
+	{
+      "key": "bestfriend-romana_quest_05_start_dialogue_btnB",
+      "value": "i am busy, maybe later!"
+    },
+	{
+      "key": "bestfriend-romana_quest_05_ok_dialogue-DESCRIPTION",
+	  "value": "Thank you for helping find Michael!\n\nAs I said, he wears a blue Shirt and has a Cap.\nYou will find it for sure!\n\nYou got:\n1x Birthday Invitation Card (for Michael)"
+    },
+	{
+      "key": "bestfriend-romana_quest_05_ok_dialogue_btnC",
+      "value": "i will try my best to find him!"
+    }
+	
+  ]
+}

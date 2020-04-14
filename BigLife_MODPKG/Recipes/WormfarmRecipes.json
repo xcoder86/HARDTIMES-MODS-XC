@@ -1,0 +1,27 @@
+{
+  "collectionId": "WormfarmRecipes",
+  "recipes": [
+    {
+      "recipeId": "earthworms",
+      "duration": 1440,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "earthworm",
+          "itemType": "BaseItem",
+          "itemQuantity": 50
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "food_cheeseburger|Pumpkin|Carrot|Onion|roasted_rat|roasted_cat|roasted_dog|roasted_greenbo|roasted_flattula|roasted_purploid|mushrooms|roasted_rat_a_la_manolao|Vegetable Soup|Cheese|Flour|Banana|Apple|Eggs|Fried Egg|Butter|Apple Pie|Bread|blue_berries|Aloe|Chocolate Snack",
+          "itemType": "FoodItem",
+          "itemQuantity": 4
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

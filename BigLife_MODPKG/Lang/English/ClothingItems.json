@@ -1,0 +1,38 @@
+{
+  "items": [
+    {
+      "key": "romana_shirt",
+      "value": "Romana's Shirt"
+    },
+    {
+      "key": "romana_shirt-DESCRIPTION",
+      "value": "Yeh its Romana's Shirt, nothing else."
+    },
+	{
+      "key": "michael_shirt",
+      "value": "Michael's Shirt"
+    },
+    {
+      "key": "michael_shirt-DESCRIPTION",
+      "value": "Yeh its Michael's Shirt, nothing else."
+    },
+	{
+      "key": "xcoder_shirt",
+      "value": "XCoder's Shirt"
+    },
+    {
+      "key": "xcoder_shirt-DESCRIPTION",
+      "value": "Yeh its XCoder's Shirt, nothing else."
+    },
+	{
+      "key": "naked_shirt1",
+      "value": "Rasta Fasta"
+    },
+    {
+      "key": "naked_shirt1-DESCRIPTION",
+      "value": "Chillax!"
+    }
+	
+	
+  ]
+}

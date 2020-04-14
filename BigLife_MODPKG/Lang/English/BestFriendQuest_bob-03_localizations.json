@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-bob_quest_03",
+      "value": "Bob wants a Joint, help him!"
+    },
+    {
+      "key": "bestfriend-bob_quest_03-TASK-DESCRIPTION",
+      "value": "If you bring me a Joint i will give you a good Gift..."
+    },
+    {
+      "key": "bestfriend-bob_quest_03_start_dialogue-DESCRIPTION",
+      "value": "Hey Buddy,\nthat Blue Cow was to strong for me...\nnow my heart is beating and i would like to smoke something!\n\nCould you may get me something to smoke?\nThat would be pretty cool!"
+    },
+	{
+      "key": "bestfriend-bob_quest_03_start_dialogue_btnA",
+      "value": "Cigarettes or what?"
+    },
+	{
+      "key": "bestfriend-bob_quest_03_start_dialogue_btnB",
+      "value": "Sure Bro, i have something with me..."
+    },
+	{
+      "key": "bestfriend-bob_quest_03_start_dialogue_btnC",
+      "value": "Nah... maybe later!"
+    },
+	{
+      "key": "bestfriend-bob_quest_03_dialogue2-DESCRIPTION",
+      "value": "Uhm... no!\n\nI mean something to relax.\nHave you ever heard of Cannabis?\nI just want something like that as a finished Joint (x1)!\n\nI know there are a few Dealers but there are none in this City!\nMay you need to search for them..."
+    },
+	{
+      "key": "bestfriend-bob_quest_03_dialogue2_btnB",
+      "value": "Uh... sounds forbidden?"
+    },
+	{
+      "key": "bestfriend-bob_quest_03_dialogue2_btnC",
+      "value": "i will be back in a bit!"
+    },
+	{
+      "key": "bestfriend-bob_quest_03_ok_dialogue-DESCRIPTION",
+      "value": "Ah how good it tastes and the effect is not that bad!\nHere is a little emergency care for you!\nAlso take this Bagpack, you will need it.\n\nVisit me again soon so we can start with one of my new ideas.\nThe donut project!\n\nYou got: 1x first Aid, 1x Plaster, 1x Backpack"
+    },
+	{
+      "key": "bestfriend-bob_quest_03_ok_dialogue_btnC",
+      "value": "Cool Bro! Will do..."
+    },
+	{
+      "key": "bestfriend-bob_quest_03_ko_dialogue-DESCRIPTION",
+      "value": "You dont have a Joint with you!\nplease come back as soon you got one..."
+    },
+	{
+      "key": "bestfriend-bob_quest_03_ko_dialogue_btnC",
+      "value": "Okay will do..."
+    }
+	
+  ]
+}

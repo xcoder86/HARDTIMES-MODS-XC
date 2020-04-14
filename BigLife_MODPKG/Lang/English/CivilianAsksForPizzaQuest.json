@@ -1,0 +1,40 @@
+{
+	"items": [
+		{
+			"key": "Do you have a piece of Pizza?",
+			"value": "I would like to get a piece of Pizza!"
+		},
+		{
+			"key": "civilian_asks_for_Pizza_start_dialogue-DESCRIPTION",
+			"value": "Hey, ehm... i am vry hungry!\nDo you happen to have..\n\n1x Pizza Piece to sell, maybe?"
+		},
+		{
+			"key": "civilian_asks_for_Pizza_start_dialogue_btn_A",
+			"value": "Sure i do!"
+		},
+		{
+			"key": "civilian_asks_for_Pizza_start_dialogue_btn_B",
+			"value": "Who did you take me for? That's incredible!"
+		},
+		{
+			"key": "civilian_asks_for_Pizza_start_dialogue_btn_C",
+			"value": "Nope."
+		},
+		{
+			"key": "civilian_asks_for_Pizza_ko_dialogue-DESCRIPTION",
+			"value": "So? Is this a scam or what? I can't see any Pizza."
+		},
+		{
+			"key": "civilian_asks_for_Pizza_ko_dialogue_btn_C",
+			"value": "Ops."
+		},
+		{
+			"key": "civilian_asks_for_Pizza_ok_dialogue-DESCRIPTION",
+			"value": "Cool, thank you!"
+		},
+		{
+			"key": "civilian_asks_for_Pizza_ok_dialogue_btn_C",
+			"value": "Yo."
+		}
+	]
+}

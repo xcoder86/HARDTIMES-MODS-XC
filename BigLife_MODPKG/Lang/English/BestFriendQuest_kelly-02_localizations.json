@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-kelly_quest_02",
+      "value": "Kelly is searching friends!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_02-TASK-DESCRIPTION",
+      "value": "You can be my friend if you are nice!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_02_start_dialogue-DESCRIPTION",
+      "value": "you seem to be a cool Person!\nI am searching for a smart Buddy...\n\nWould you like to be my friend?\nSometimes i also could need your help!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_02_start_dialogue_btnA",
+      "value": "cool hairs and yeh... tell me more"
+    },
+	{
+      "key": "bestfriend-kelly_quest_02_start_dialogue_btnB",
+      "value": "yes Kelly, we can be friends!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_02_start_dialogue_btnC",
+      "value": "i need to think about it"
+    },
+	{
+      "key": "bestfriend-kelly_quest_02_dialogue2-DESCRIPTION",
+      "value": "More? *turning red*\nWe hardly know each other yet!\n\nI'm a nice girl with lots of surprises!\nAnd if we are friends we will have fun :)"
+    },
+	{
+      "key": "bestfriend-kelly_quest_02_dialogue2_btnB",
+      "value": "sounds good, i am interested!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_02_dialogue2_btnC",
+      "value": "i am not interested! bye..."
+    },
+	{
+      "key": "bestfriend-kelly_quest_02_ok_dialogue-DESCRIPTION",
+      "value": "Yipiiiiii * hug *\nUhh.. you may should take a shower!\n\nHere take a wet Towel to clean yourself a little.\nIf you need a Job just come back to me!\nI always need good fish for my store!\n\nYou got: 1x wet Towel, 10x Church Ticket"
+    },
+	{
+      "key": "bestfriend-kelly_quest_02_ok_dialogue_btnC",
+      "value": "Thanks and see you soon Kelly!"
+    }
+	
+  ]
+}

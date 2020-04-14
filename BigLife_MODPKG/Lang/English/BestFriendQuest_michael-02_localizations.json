@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-michael_quest_02",
+      "value": "Michael is lost (2/3)"
+    },
+    {
+      "key": "bestfriend-michael_quest_02-TASK-DESCRIPTION",
+      "value": "Michael got lost at the Center!"
+    },
+    {
+      "key": "bestfriend-michael_quest_02_start_dialogue-DESCRIPTION",
+      "value": "nice to see you again!\nYou seem like a nice Guy.\nWould you like to be my friend and help me?\nAs soon as I have the situation under control here I will reward you!\n\nMichael needs:\n5x Rope\n5 x Dutch Tape\n\nCome back when you have the things!"
+    },
+	{
+      "key": "bestfriend-michael_quest_02_start_dialogue_btnA",
+      "value": "i can help you, here is the Stuff you need!"
+    },
+	{
+      "key": "bestfriend-michael_quest_02_start_dialogue_btnB",
+      "value": "i am sorry but i cant help you right now!"
+    },
+	{
+      "key": "bestfriend-michael_quest_02_ok_dialogue-DESCRIPTION",
+      "value": "You are great!\nThat really helps me to build my hiding place.\nI see you are friends with Sergio, please bring him these 6 special delivery boxes. He will reward you for that!\n\nYou get:\n6x Special Delivery Box (for Sergio)\n2x Metro ticket\n\nCome back when you visited Sergio! Take Donuts with you .."
+    },
+	{
+      "key": "bestfriend-michael_quest_02_ok_dialogue_btnC",
+      "value": "Thanks and see you soon Michael!"
+    },
+	{
+      "key": "bestfriend-michael_quest_02_ko_dialogue-DESCRIPTION",
+      "value": "Sorry but I need these things!\nI can't go on without these things.\n\nCome back when you have the things i need .."
+    },
+	{
+      "key": "bestfriend-michael_quest_02_ko_dialogue_btnC",
+      "value": "Aye Michael, will be back!"
+    }
+	
+  ]
+}

@@ -1,0 +1,47 @@
+{ 
+  "archetipusName": "baseItemArchetipus",
+  "category": "ContainerItem",
+  "items": [
+    {
+      "itemId": "business_backpack",
+      "itemSpriteName": "business_backpack.png",
+      "itemProxySprite": "business_backpack.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 12
+		},
+		{
+		  "key": "slotsNum",
+		  "intValue": 12
+		}
+	  ]
+    },
+	
+	{
+      "itemId": "business_trolley",
+      "itemSpriteName": "business_trolley.png",
+      "itemProxySprite": "business_trolley.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 15
+		},
+		{
+		  "key": "slotsNum",
+		  "intValue": 15
+		}
+	  ]
+    }
+	
+	
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "furnitureId": "Sewing table",
+  "furnitureType": "CraftingStationFurniture",
+  "boxedItemAncestorName": "sewing_table_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "sewing_table.png",
+  "furnitureColliderRadius": 0.5,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": ["outdoor"],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "SewingTableRecipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "Sewing Table"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "Sewing Table Description"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "crafting_sound"
+    }
+  ]
+}

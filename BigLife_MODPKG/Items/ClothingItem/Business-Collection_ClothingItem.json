@@ -1,0 +1,129 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "ClothingItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "business_black_shirt",
+      "itemSpriteName": "business_black_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_creepy_shirt",
+      "itemSpriteName": "business_creepy_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_fancy_shirt",
+      "itemSpriteName": "business_fancy_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_fancy2_shirt",
+      "itemSpriteName": "business_fancy2_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_moderndress_shirt",
+      "itemSpriteName": "business_moderndress_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_whitedress_shirt",
+      "itemSpriteName": "business_whitedress_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    }
+	
+		
+	
+	
+  ]
+}

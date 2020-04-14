@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-bob_quest_05",
+      "value": "Bob needs yours help!"
+    },
+    {
+      "key": "bestfriend-bob_quest_05-TASK-DESCRIPTION",
+      "value": "i need to get something from a friend!"
+    },
+    {
+      "key": "bestfriend-bob_quest_05_start_dialogue-DESCRIPTION",
+	"value": "Could you may help me one more time?\nA friend want to give me a Present.\n\nUnfortunately, he no longer has enough money for a train ticket. However, I have to stay here because I am waiting for a post office package!\n\nCould you go search for him and bring me the Present?"
+    },
+	{
+      "key": "bestfriend-bob_quest_05_start_dialogue_btnA",
+      "value": "where can i find your friend?"
+    },
+	{
+      "key": "bestfriend-bob_quest_05_start_dialogue_btnB",
+      "value": "i got the Present from Sergio!"
+    },
+	{
+      "key": "bestfriend-bob_quest_05_start_dialogue_btnC",
+      "value": "Sorry, maybe later!"
+    },
+	{
+      "key": "bestfriend-bob_quest_05_dialogue2-DESCRIPTION",
+      "value": "I am not sure about his location!\nMaybe he is at the Park or at the Market?\nHis Name is Sergio and he is wearing a Cowboy Hat!\n\nGood luck my friend..."
+    },
+	{
+      "key": "bestfriend-bob_quest_05_dialogue2_btnB",
+      "value": "Ok, i think i got the Present you want!"
+    },
+	{
+      "key": "bestfriend-bob_quest_05_dialogue2_btnC",
+      "value": "Okay, i will try to find Sergio!"
+    },
+	{
+      "key": "bestfriend-bob_quest_05_ok_dialogue-DESCRIPTION",
+      "value": "Cool! Sergio kept his promise...\nThis Bong looks really wonderful.\nThank you in any case!\n\nAs a reward i have something for you...\nPlease bring Sergio this Special Delivery Box for me!\nHe will be happy and you also will get some Gifts.\n\nYou got: 1x Crowbar, 1x Special Delivery"
+    },
+	{
+      "key": "bestfriend-bob_quest_05_ok_dialogue_btnC",
+      "value": "Haha... you are freaky, will do!"
+    },
+	{
+      "key": "bestfriend-bob_quest_05_ko_dialogue-DESCRIPTION",
+      "value": "you dont have the Present of Sergio!\nplease come back as soon you got it..."
+    },
+	{
+      "key": "bestfriend-bob_quest_05_ko_dialogue_btnC",
+      "value": "Mkay, i will find Sergio for you!"
+    }
+	
+  ]
+}

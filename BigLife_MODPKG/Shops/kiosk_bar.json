@@ -1,0 +1,100 @@
+{
+  "shopId": "Andy's Bar",
+  "shopSpriteName": "kiosk.png",
+  "shopType": "Shop",
+  "openHour": 09,
+  "openMinute": 00,
+  "closeHour": 23,
+  "closeMinute": 59,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 1,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "food_cheeseburger",
+      "itemType": "FoodItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "food_coffee",
+      "itemType": "FoodItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Water Bottle",
+      "itemType": "FoodItem",
+      "price": 1,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Light the Bob Stout",
+      "itemType": "FoodItem",
+      "price": 5.5,
+      "minQuality": 3,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Old Goat liquor",
+      "itemType": "FoodItem",
+      "price": 12.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "food_tea",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "milk",
+      "itemType": "FoodItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Chocolate Snack",
+      "itemType": "FoodItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Blue Cow",
+      "itemType": "FoodItem",
+      "price": 7,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    }
+	
+	
+  ]
+}

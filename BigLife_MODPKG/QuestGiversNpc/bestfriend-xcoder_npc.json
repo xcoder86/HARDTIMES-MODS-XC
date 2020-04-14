@@ -1,0 +1,22 @@
+{
+  "questGiverNpcId": "bestfriend-xcoder_npc",
+  "scene": "suburbs_sewers",
+  "posX": -16.40,
+  "posY": 0.4,
+  "questList": [
+	"bestfriend-xcoder_quest_01",
+	"bestfriend-xcoder_quest_02",
+	"bestfriend-xcoder_quest_03"
+  ],
+  "bodyIndex": 4,
+  "hairIndex": 11,
+  "beardIndex": -1,
+  "dressId": "xcoder_shirt",
+  "dressType": "ClothingItem",
+  "hasBreast": false,
+  "hatId": "bigdealer_hat",
+  "hatType": "HatItem",
+  "proxyId": "",
+  "proxyType": "",
+  "wanderRange": 0
+}

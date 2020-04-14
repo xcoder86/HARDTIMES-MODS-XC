@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-kelly_quest_07",
+      "value": "Daily Fish Job for Kelly"
+    },
+    {
+      "key": "bestfriend-kelly_quest_07-TASK-DESCRIPTION",
+      "value": "Daily Fish Job for Kelly's Store!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_07_start_dialogue-DESCRIPTION",
+      "value": "Hey Dude,\ncurrently i have no special tasks for you.\nbut you could run a daily fish job for my store!\n\nKelly needs:\n1x Blowfish\n1x Donut Fish\n1x Codfish\n\nYou will get: 10x Earthworm, 1x filled Wallet"
+    },
+	{
+      "key": "bestfriend-kelly_quest_07_start_dialogue_btnA",
+      "value": "of course, here are the fish you need!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_07_start_dialogue_btnB",
+      "value": "i am busy now but will come later"
+    },
+	{
+      "key": "bestfriend-kelly_quest_07_ok_dialogue-DESCRIPTION",
+      "value": "Thanks for the delivery!\nAs long as I don't have any new special tasks for you, you can often bring these fish over.\nTake care of my friend ..\n\nYou got: 10x Earthworm, 1x filled Wallet"
+    },
+	{
+      "key": "bestfriend-kelly_quest_07_ok_dialogue_btnC",
+      "value": "Cool! See you Kelly.."
+    },
+	{
+      "key": "bestfriend-kelly_quest_07_ko_dialogue-DESCRIPTION",
+      "value": "Kelly needs:\n1x Blowfish\n1x Donut Fish\n1x Codfish\n\nYou will get: 10x Earthworm, 1x filled Wallet"
+    },
+	{
+      "key": "bestfriend-kelly_quest_07_ko_dialogue_btnC",
+      "value": "okay okay.."
+    }
+	
+  ]
+}

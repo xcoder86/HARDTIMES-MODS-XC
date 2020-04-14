@@ -1,0 +1,88 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-sergio_quest_08",
+  "questSpriteName": "delivery_quest_img.png",
+  "isReoccurring": true,
+  "startingQuestDialogueId": "bestfriend-sergio_quest_08_start_dialogue",
+  "okQuestDialogueId": "bestfriend-sergio_quest_08_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-sergio_quest_08_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+  "rewards": [
+	{
+	  "questItemId": "cocaine_seed",
+	  "questItemType": "SeedItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 3
+	},
+	{
+	  "questItemId": "cannabis_seed",
+	  "questItemType": "SeedItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 3
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Special_Delivery",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 6,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_08_start_dialogue",
+	  "questDialogueTitle": "Yo Bro...",
+	  "buttonAText": "bestfriend-sergio_quest_08_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-sergio_quest_08_dialogue2",
+	  "buttonBText": "bestfriend-sergio_quest_08_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-sergio_quest_08_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_08_dialogue2",
+	  "questDialogueTitle": "Yo Bro...",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-sergio_quest_08_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-sergio_quest_08_start_dialogue",
+	  "buttonCText": "bestfriend-sergio_quest_08_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_08_ok_dialogue",
+	  "questDialogueTitle": "Yo Bro...",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-sergio_quest_08_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_08_ko_dialogue",
+	  "questDialogueTitle": "Yo Bro...",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-sergio_quest_08_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

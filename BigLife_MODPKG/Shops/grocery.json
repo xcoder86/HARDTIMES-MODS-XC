@@ -1,0 +1,215 @@
+{
+  "shopId": "Alfredo's Grocery",
+  "shopSpriteName": "shop.png",
+  "shopType": "Shop",
+  "openHour": 07,
+  "openMinute": 00,
+  "closeHour": 21,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 1,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "pen",
+      "itemType": "BaseItem",
+      "price": 5.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "cardboard",
+      "itemType": "BaseItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "umbrella",
+      "itemType": "BaseItem",
+      "price": 12.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+    {
+      "itemId": "crowbar",
+      "itemType": "BaseItem",
+      "price": 12.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+    {
+      "itemId": "spare_cardboard_box",
+      "itemType": "BaseItem",
+      "price": 8.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "blanket",
+      "itemType": "BaseItem",
+      "price": 8.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "Broom",
+      "itemType": "BaseItem",
+      "price": 12.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "rope",
+      "itemType": "BaseItem",
+      "price": 10,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "soil",
+      "itemType": "BaseItem",
+      "price": 5.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "wet_towels",
+      "itemType": "CleaningItem",
+      "price": 8.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "backpack",
+      "itemType": "ContainerItem",
+      "price": 35,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "plastic_bag",
+      "itemType": "ContainerItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 5
+    },
+    {
+      "itemId": "dye_blue",
+      "itemType": "BaseItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+    {
+      "itemId": "dye_black",
+      "itemType": "BaseItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+    {
+      "itemId": "dye_green",
+      "itemType": "BaseItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+    {
+      "itemId": "dye_red",
+      "itemType": "BaseItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+    {
+      "itemId": "dye_yellow",
+      "itemType": "BaseItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+    {
+      "itemId": "dye_purple",
+      "itemType": "BaseItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+    {
+      "itemId": "dutch_tape",
+      "itemType": "BaseItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+    {
+      "itemId": "Bleach",
+      "itemType": "BaseItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 5
+    },
+    {
+      "itemId": "Bucket",
+      "itemType": "BaseItem",
+      "price": 5.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 3
+    },
+    {
+      "itemId": "Bucket",
+      "itemType": "BaseItem",
+      "price": 5.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 3
+    }
+  ]
+}

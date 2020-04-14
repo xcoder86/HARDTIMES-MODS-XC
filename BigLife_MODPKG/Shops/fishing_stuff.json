@@ -1,0 +1,100 @@
+{
+  "shopId": "Fishing Stuff",
+  "shopSpriteName": "vertical_shop.png",
+  "shopType": "Shop",
+  "openHour": 08,
+  "openMinute": 00,
+  "closeHour": 21,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 3,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+	{
+      "itemId": "fishingpole",
+      "itemType": "BaseItem",
+      "price": 100,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "fishing_reel",
+      "itemType": "BaseItem",
+      "price": 30,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "fishing_float",
+      "itemType": "BaseItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "fishing_pole_raw",
+      "itemType": "BaseItem",
+      "price": 30,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "fishing_wire",
+      "itemType": "BaseItem",
+      "price": 10,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "earthworm",
+      "itemType": "BaseItem",
+      "price": 1,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "wet_towels",
+      "itemType": "CleaningItem",
+      "price": 15,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "Condom Rumsfield's book of the fish gourmet",
+      "itemType": "BookItem",
+      "price": 35,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "Fishing in the dungeons",
+      "itemType": "BookItem",
+      "price": 35,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    }
+	
+	
+  ]
+}

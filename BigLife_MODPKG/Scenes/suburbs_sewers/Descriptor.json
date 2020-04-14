@@ -1,0 +1,22 @@
+{
+  "sceneId": "suburbs_sewers",
+  "sceneDirectory": {},
+  "doOverwriteBaseproperties": false,
+  "pavementSpriteName": "Pavement/pavement1.png",
+  "objects": [ ],
+  "doors": [
+	{
+	  "modDoodId": "BestFriends_suburbs-sewers_boat",
+	  "modDoorPositionX":  -1,
+	  "modDoorPositionY": -1,
+	  "modDoorRotation": 0,
+	  "doorSpawnPointDeltaX": 0,
+	  "doorSpawnPointDeltaY": 0,
+	  "doorColliderWidth": 1,
+	  "doorColliderHeight": 2,
+	  "doorColliderTrigger": true
+	}
+  ],
+  "shops": [ ],
+  "spawners": [ ]
+}

@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "key": "bigdealer_hat",
+      "value": "BigDealer Hat"
+    },
+    {
+      "key": "bigdealer_hat-DESCRIPTION",
+      "value": "You think you are the Big Dealer? Do you also have the Reward for it? Check it out!"
+    },
+	
+	{
+      "key": "business_blackgold",
+      "value": "Retro Business"
+    },
+    {
+      "key": "business_blackgold-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_blueblack",
+      "value": "Blue Business Hat"
+    },
+    {
+      "key": "business_blueblack-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_cowboy",
+      "value": "Business Cowboy Hat"
+    },
+    {
+      "key": "business_cowboy-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_greygreen",
+      "value": "Smart Business Hat"
+    },
+    {
+      "key": "business_greygreen-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_natural",
+      "value": "Natural Business Hat"
+    },
+    {
+      "key": "business_natural-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_orangeblack",
+      "value": "Orange Business Hat"
+    },
+    {
+      "key": "business_orangeblack-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_redblack",
+      "value": "Red Business Hat"
+    },
+    {
+      "key": "business_redblack-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_redflower",
+      "value": "Red Flower Hat"
+    },
+    {
+      "key": "business_redflower-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_redwhite",
+      "value": "Austria Business Hat"
+    },
+    {
+      "key": "business_redwhite-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_undercover",
+      "value": "Undercover Business Hat"
+    },
+    {
+      "key": "business_undercover-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "business_whiteblue",
+      "value": "White Business Hat"
+    },
+    {
+      "key": "business_whiteblue-DESCRIPTION",
+      "value": "a Hat of the Business Collection"
+    },
+	
+	{
+      "key": "secret_homeless",
+      "value": "Homeless Hat"
+    },
+    {
+      "key": "secret_homeless-DESCRIPTION",
+      "value": "a Hat of a Homeless named JR? Jack the Rippes?! oO"
+    }
+	
+	
+  ]
+}

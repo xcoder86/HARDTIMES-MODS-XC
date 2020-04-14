@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-romana_quest_02",
+      "value": "Romana need Help (1/3)"
+    },
+    {
+      "key": "bestfriend-romana_quest_02-TASK-DESCRIPTION",
+      "value": "Romana needs your help!"
+    },
+    {
+      "key": "bestfriend-romana_quest_02_start_dialogue-DESCRIPTION",
+      "value": "Hello my buddy,\nyou come as called, I'm in the ink!\nThere are more guests coming to my birthday party than I thought.\nCan you please find the following for me:\n5x Coffee\n5x Tea\n5x Donut\n\nGet sure you have 3x free Slot for your Rewards!"
+    },
+	{
+      "key": "bestfriend-romana_quest_02_start_dialogue_btnA",
+      "value": "i have 3x free Inventory Slot and the Stuff!"
+    },
+	{
+      "key": "bestfriend-romana_quest_02_start_dialogue_btnB",
+      "value": "i am busy but i will come back!"
+    },
+	{
+      "key": "bestfriend-romana_quest_02_ok_dialogue-DESCRIPTION",
+      "value": "You can really be trusted!\nAs a Reward you get from me:\n\n1x A Practical Man Vol.2 (Book)\n1x Simple Tub (boxed)\n1x Sewing Table (boxed)\n\nTake care and come back soon!"
+    },
+	{
+      "key": "bestfriend-romana_quest_02_ok_dialogue_btnC",
+      "value": "wow thanks, i will come back!"
+    },
+	{
+      "key": "bestfriend-romana_quest_02_ko_dialogue-DESCRIPTION",
+      "value": "Oh...\nand I thought you were done :(\nCome back when you have the goods!\n\nAnd please hurry;)\nThe birthday party starts soon .."
+    },
+	{
+      "key": "bestfriend-romana_quest_02_ko_dialogue_btnC",
+      "value": "Ugh.. sry, i will try my best!"
+    }
+	
+  ]
+}

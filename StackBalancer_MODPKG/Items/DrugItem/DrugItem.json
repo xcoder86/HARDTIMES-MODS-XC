@@ -1,0 +1,36 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "DrugItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "Joint",
+      "itemSpriteName": "joint.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+	  "itemEffectOnUse": "joint_smoke_effect",
+	  "achievementsOnUse": "GetHigh",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": [],
+	   "extras": [
+		{
+			"key":"smokable",
+			"intValue": 1
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "Da Bomb",
+      "itemSpriteName": "dabomb.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+	  "itemEffectOnUse": "da_bomb_effect",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": []
+    }
+	
+  ]
+}

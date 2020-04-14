@@ -1,0 +1,67 @@
+{
+  "items": [
+	{
+      "key": "Advanced Workbench-DESCRIPTION",
+      "value": "A super freaky Workbench with special Recipes!\nThis Furniture is part of the BestFriends Mod!"
+    },
+	
+	
+	{
+      "key": "Pizza Oven-DESCRIPTION",
+      "value": "a Pizza Oven! Use it to craft Pizza?!\nYou may need to unlock Recipes first.."
+    },
+	
+	
+	{
+      "key": "Popcorn Maschine-DESCRIPTION",
+      "value": "a Popcorn Maschine!\nUse it to make Popcorn?!"
+    },
+	
+	{
+      "key": "Luxury Fountain-DESCRIPTION",
+      "value": "a luxury Fountain!\nSo you are still Homeless???"
+    },
+	
+	{
+      "key": "Chemical Table-DESCRIPTION",
+      "value": "have you always wanted your own laboratory?\nNow it is time!"
+    },
+	
+	{
+      "key": "CatPetNpcManager-REMAINS",
+      "value": "Cat remains"
+    },
+	{
+      "key": "CatPetNpcManager-REMAINS-DESCRIPTION",
+      "value": "Cat remains that can be used for crafting!"
+    },
+	
+	{
+      "key": "DogPetNpcManager-REMAINS",
+      "value": "Dog remains"
+    },
+	{
+      "key": "DogPetNpcManager-REMAINS-DESCRIPTION",
+      "value": "Dog remains that can be used for crafting!"
+    },
+	
+	{
+      "key": "RatPetNpcManager-REMAINS",
+      "value": "Rat remains"
+    },
+	{
+      "key": "RatPetNpcManager-REMAINS-DESCRIPTION",
+      "value": "Rat remains that can be used for crafting!"
+    },
+	{
+      "key": "CatPetNpcManager-REMAINS|RatPetNpcManager-REMAINS",
+      "value": "Cat/Rat remains"
+    },
+	{
+      "key": "CatPetNpcManager-REMAINS|RatPetNpcManager-REMAINS-DESCRIPTION",
+      "value": "Cat/Rat remains that can be used for crafting!"
+    }
+	
+	
+  ]
+}

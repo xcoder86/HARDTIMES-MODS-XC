@@ -1,0 +1,288 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "ClothingItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "fancy_bluerasta_shirt",
+      "itemSpriteName": "fancy_bluerasta_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_cross_shirt",
+      "itemSpriteName": "fancy_cross_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_flower_shirt",
+      "itemSpriteName": "fancy_flower_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_goldart_shirt",
+      "itemSpriteName": "fancy_goldart_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_greenline_shirt",
+      "itemSpriteName": "fancy_greenline_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_greenstar_shirt",
+      "itemSpriteName": "fancy_greenstar_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_lion_shirt",
+      "itemSpriteName": "fancy_lion_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_pikachu_shirt",
+      "itemSpriteName": "fancy_pikachu_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_rainbow_shirt",
+      "itemSpriteName": "fancy_rainbow_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_rasta_shirt",
+      "itemSpriteName": "fancy_rasta_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_rastaman_shirt",
+      "itemSpriteName": "fancy_rastaman_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_tbn_shirt",
+      "itemSpriteName": "fancy_tbn_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_wassup_shirt",
+      "itemSpriteName": "fancy_wassup_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "fancy_whiteart_shirt",
+      "itemSpriteName": "fancy_whiteart_shirt.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "clothing_temperature_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+	  "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 2
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 2
+        }
+      ]
+    }
+		
+	
+	
+  ]
+}

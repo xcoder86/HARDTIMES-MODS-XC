@@ -1,0 +1,17 @@
+{
+  "effectId": "cart_proximity_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 0,
+  "effectIntervalMinutes": 0,
+  "lastEffectCheckMinutes": 0,
+  "effectPlaySound": "",
+  "antidoteStatModifier": "",
+  "isPassive": true,
+  "statModifiers": [
+    {
+      "statId": "playerSpeed",
+      "statModifier": +20.25
+    }
+  ]
+}

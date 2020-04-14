@@ -1,0 +1,65 @@
+{
+  "shopId": "ganja_smuggler_shop",
+  "shopSpriteName": "trans_dot.png",
+  "shopType": "Shop",
+  "openHour": 00,
+  "openMinute": 00,
+  "closeHour": 23,
+  "closeMinute": 59,
+  "refillIntervalMins": 30,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "effectNeededToRob": "cantrobmebaby",
+  "shoppables": [
+    {
+      "itemId": "Joint",
+      "itemType": "DrugItem",
+      "price": 8,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 10
+    },
+	
+	{
+      "itemId": "Chemicals",
+      "itemType": "SpecialItem",
+      "price": 15,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	
+	{
+      "itemId": "baggie_cocaine",
+      "itemType": "SpecialItem",
+      "price": 110,
+      "minQuality": 2,
+      "maxQuality": 3,
+      "minQuantity": 1,
+      "maxQuantity": 3
+    },
+	
+	{
+      "itemId": "baggie_ecstasy",
+      "itemType": "SpecialItem",
+      "price": 60,
+      "minQuality": 2,
+      "maxQuality": 3,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    },
+	
+	{
+      "itemId": "baggie_ganja",
+      "itemType": "SpecialItem",
+      "price": 60,
+      "minQuality": 2,
+      "maxQuality": 3,
+      "minQuantity": 1,
+      "maxQuantity": 5
+    }	
+	
+  ]
+}

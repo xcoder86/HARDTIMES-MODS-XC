@@ -1,0 +1,6 @@
+{
+  "achievementId": "BeLoyal",
+  "numberToUnlock": 5,
+  "voidSpriteName": "beloyal_locked.png",
+  "fullSpriteName": "beloyal_unlocked.png"
+}

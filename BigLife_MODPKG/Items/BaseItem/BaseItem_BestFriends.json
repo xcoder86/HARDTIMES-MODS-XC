@@ -1,0 +1,58 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "BaseItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "Stone",
+      "itemSpriteName": "stone.png",
+      "itemProxySprite": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Obsidian",
+      "itemSpriteName": "obsidian.png",
+      "itemProxySprite": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_metrocard",
+      "itemSpriteName": "business_metrocard.png",
+      "itemProxySprite": "business_metrocard.png",
+	  "itemEffectOnEquip": "metro_ticket_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "extras": [
+		{
+			"key":"maxUses",
+			"intValue": 50
+		}
+	  ]
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_key",
+      "itemSpriteName": "business_key.png",
+      "itemProxySprite": "business_key.png",
+	  "itemEffectOnEquip": "business_key_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "extras": []
+    }
+
+
+	
+  ]
+}

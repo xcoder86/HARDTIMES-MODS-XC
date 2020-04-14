@@ -1,0 +1,82 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-xcoder_quest_01",
+  "questSpriteName": "bestfriend-otherside_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-xcoder_quest_01_start_dialogue",
+  "okQuestDialogueId": "bestfriend-xcoder_quest_01_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-xcoder_quest_01_ko_dialogue",
+  "achievementsOnStart": "FoundXCoder",
+  "achievementsOnComplete": "BigDealer",
+"rewards": [
+	{
+	  "questItemId": "wallet",
+	  "questItemType": "WalletItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 3
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Ganja",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-xcoder_quest_01_start_dialogue",
+	  "questDialogueTitle": "83483874 - WTF YOU DOIN HERE!?!",
+	  "buttonAText": "bestfriend-xcoder_quest_01_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-xcoder_quest_01_dialogue2",
+	  "buttonBText": "bestfriend-xcoder_quest_01_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-xcoder_quest_01_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-xcoder_quest_01_dialogue2",
+	  "questDialogueTitle": "83483874 - WTF YOU ARE DOING HERE!?!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-xcoder_quest_01_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-xcoder_quest_01_start_dialogue",
+	  "buttonCText": "bestfriend-xcoder_quest_01_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-xcoder_quest_01_ok_dialogue",
+	  "questDialogueTitle": "83483874 - WTF YOU ARE DOING HERE!?!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-xcoder_quest_01_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-xcoder_quest_01_ko_dialogue",
+	  "questDialogueTitle": "83483874 - WTF YOU ARE DOING HERE!?!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-xcoder_quest_01_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

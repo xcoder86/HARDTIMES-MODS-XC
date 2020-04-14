@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-bob_quest_02",
+      "value": "Bob needs a Blue Cow, quickly!"
+    },
+    {
+      "key": "bestfriend-bob_quest_02-TASK-DESCRIPTION",
+      "value": "If you bring me a Blue Cow i will give you a good Gift.."
+    },
+    {
+      "key": "bestfriend-bob_quest_02_start_dialogue-DESCRIPTION",
+      "value": "Hey Buddy,\ni am tired and would like to drink a Blue Cow!\nCould you may get me one?\n\nI will give you the Money after it!\nYou may get it within the Metro...\n\nBob need:\n1x Blue Cow"
+    },
+	{
+      "key": "bestfriend-bob_quest_02_start_dialogue_btnA",
+      "value": "Err... what is a Blue Cow?"
+    },
+	{
+      "key": "bestfriend-bob_quest_02_start_dialogue_btnB",
+      "value": "sure, i have one in my Inventory!"
+    },
+	{
+      "key": "bestfriend-bob_quest_02_start_dialogue_btnC",
+      "value": "i am currently busy, may later!"
+    },
+	{
+      "key": "bestfriend-bob_quest_02_dialogue2-DESCRIPTION",
+      "value": "Uhm...\nit is a good and common Energy Drink!\nMay check a Store or the Metro Vendors to get one!"
+    },
+	{
+      "key": "bestfriend-bob_quest_02_dialogue2_btnB",
+      "value": "ok... where did we stop?"
+    },
+	{
+      "key": "bestfriend-bob_quest_02_dialogue2_btnC",
+      "value": "Oh... ok! I will get you one..."
+    },
+	{
+      "key": "bestfriend-bob_quest_02_ok_dialogue-DESCRIPTION",
+      "value": "Yummi how delicious!\nThank you that's really nice.\n\nI give you these wallets that I found in other people's pants. ;)\nBy the way: a Blue Cow makes you faster!\n\nYou got: 2x filled Wallet"
+    },
+	{
+      "key": "bestfriend-bob_quest_02_ok_dialogue_btnC",
+      "value": "good to know... see you Bob!"
+    },
+	{
+      "key": "bestfriend-bob_quest_02_ko_dialogue-DESCRIPTION",
+      "value": "You dont have a Blue Cow :(\nplease come back as soon you got one..."
+    },
+	{
+      "key": "bestfriend-bob_quest_02_ko_dialogue_btnC",
+      "value": "Okay ill try my best..."
+    }
+	
+  ]
+}

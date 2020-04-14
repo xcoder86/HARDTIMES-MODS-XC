@@ -1,0 +1,16 @@
+{
+  "cropId": "tobacco_crop",
+  "quality": 2,
+  "growingInterval": 900,
+  "spoilThreshold": 3500,
+  "smallSpriteName": "tobacco_s.png",
+  "mediumSpriteName": "tobacco_m.png",
+  "bigSpriteName": "tobacco_l.png",
+  "results": [
+    {
+      "questItemId": "tobacco_leaves",
+      "questItemType": "SpecialItem",
+      "questItemAmount": 5
+    }
+  ]
+}

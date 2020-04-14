@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-romana_quest_08",
+      "value": "Romana's Birthday Party! (Rep.)"
+    },
+    {
+      "key": "bestfriend-romana_quest_08-TASK-DESCRIPTION",
+      "value": "Romana and here Birthday Party! (Rep.)"
+    },
+    {
+      "key": "bestfriend-romana_quest_08_start_dialogue-DESCRIPTION",
+      "value": "Hello my friend,\nI don't have much to do at the moment.\nBut you are welcome to get more food:\n\n10x Fortune Cookie\n3x Pizza\n3x Popcorn\n\nYou get:\n € 150"
+    },
+	{
+      "key": "bestfriend-romana_quest_08_start_dialogue_btnA",
+      "value": "okay you can have the needed Stuff!"
+    },
+	{
+      "key": "bestfriend-romana_quest_08_start_dialogue_btnB",
+      "value": "i am busy, maybe later!"
+    },
+	{
+      "key": "bestfriend-romana_quest_08_ok_dialogue-DESCRIPTION",
+      "value": "Cool,\nthat was faster than I thought!\nThank you for your delivery.\n\nYou get:\n € 150"
+    },
+	{
+      "key": "bestfriend-romana_quest_08_ok_dialogue_btnC",
+      "value": "thank you Romana and see you soon!"
+    },
+	{
+      "key": "bestfriend-romana_quest_08_ko_dialogue-DESCRIPTION",
+      "value": "Oh...\nand I thought you were done :(\nCome back when you got the Stuff!\n\nAnd please hurry;)\nThe birthday party starts soon .."
+    },
+	{
+      "key": "bestfriend-romana_quest_08_ko_dialogue_btnC",
+      "value": "Err... i will come back!"
+    }
+	
+  ]
+}

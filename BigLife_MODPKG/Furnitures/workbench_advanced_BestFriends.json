@@ -1,0 +1,38 @@
+{
+  "furnitureId": "workbench_advanced_BestFriends",
+  "furnitureType": "CraftingStationFurniture",
+  "boxedItemAncestorName": "workbench_advanced_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "workbench_advanced.png",
+  "furnitureColliderRadius": 0.5,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": ["outdoor"],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "Workbench_Advanced-Recipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "Advanced Workbench"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "this is a cool modern Workbench with special Recipes!"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "crafting_sound"
+    }
+	
+  ]
+}

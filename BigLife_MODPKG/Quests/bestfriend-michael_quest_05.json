@@ -1,0 +1,87 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-michael_quest_05",
+  "questSpriteName": "gangbusiness_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-michael_quest_05_start_dialogue",
+  "okQuestDialogueId": "bestfriend-michael_quest_05_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-michael_quest_05_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "GangBusiness",
+"rewards": [
+	{
+	  "questItemId": "Home Phone Book",
+	  "questItemType": "BookItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "The Aracnist Tisanes Book",
+	  "questItemType": "BookItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "Blue Cow",
+	  "questItemType": "FoodItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 5
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Special_Delivery",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 3,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "Ganja",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 3,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-michael_quest_05_start_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (1/2)",
+	  "buttonAText": "bestfriend-michael_quest_05_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-michael_quest_05_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_05_ok_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (1/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_05_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_05_ko_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (1/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_05_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

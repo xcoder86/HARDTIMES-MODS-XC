@@ -1,0 +1,87 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-michael_quest_03",
+  "questSpriteName": "michael-lost_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-michael_quest_03_start_dialogue",
+  "okQuestDialogueId": "bestfriend-michael_quest_03_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-michael_quest_03_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "BeLoyal",
+"rewards": [
+	{
+	  "questItemId": "simple_bed_boxed",
+	  "questItemType": "BoxedFurnituresItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "wallet",
+	  "questItemType": "WalletItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 2
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "first_aid",
+	  "questItemType": "MedicItem",
+	  "questItemAmount": 1,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "crutch",
+	  "questItemType": "MedicItem",
+	  "questItemAmount": 1,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "Donut",
+	  "questItemType": "FoodItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-michael_quest_03_start_dialogue",
+	  "questDialogueTitle": "Michael is lost (3/3)",
+	  "buttonAText": "bestfriend-michael_quest_03_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-michael_quest_03_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_03_ok_dialogue",
+	  "questDialogueTitle": "Michael is lost (3/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_03_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_03_ko_dialogue",
+	  "questDialogueTitle": "Michael is lost (3/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_03_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

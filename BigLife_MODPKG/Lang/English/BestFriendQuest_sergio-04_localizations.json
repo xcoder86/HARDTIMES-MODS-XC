@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-sergio_quest_04",
+      "value": "fishing with Sergio can be useful (1/2)"
+    },
+    {
+      "key": "bestfriend-sergio_quest_04-TASK-DESCRIPTION",
+      "value": "how do you like your new fishing tool?"
+    },
+    {
+      "key": "bestfriend-sergio_quest_04_start_dialogue-DESCRIPTION",
+      "value": "*eating* how do you like the fishing rod?\nYou can try it out by the pond in the park!\n\nOh... you cant use it, right!.\nHere take this Book and the Reel, you will need it!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_04_start_dialogue_btnA",
+      "value": "what should i do with the fish?"
+    },
+	{
+      "key": "bestfriend-sergio_quest_04_start_dialogue_btnB",
+      "value": "ok, please give me the stuff!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_04_start_dialogue_btnC",
+      "value": "wait, i need to check my Inventory first!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_04_dialogue2-DESCRIPTION",
+      "value": "Oh there are many options!\nBeing able to fish definitely pays off.\n\nYou can cook the fish or feed it to animals to tame them.\nIf you want to know more about fish visit Kelly at the Market!\n\nYou can also eat cooked fish, really delicious!\nOver time, you will find many recipes."
+    },
+	{
+      "key": "bestfriend-sergio_quest_04_dialogue2_btnB",
+      "value": "ok, please give me the stuff!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_04_dialogue2_btnC",
+      "value": "wait, i need to check my Inventory first!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_04_ok_dialogue-DESCRIPTION",
+      "value": "Here you go!\n\nYou got:\n1x Fishing in the Dungeons (Book)\n1x fishing Reel\n\nYou can also use the pickaxe to search for worms!\nNow read the Book and craft your fishing Pole to continue!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_04_ok_dialogue_btnC",
+      "value": "good to know, thanks for the stuff!"
+    }	
+  ]
+}

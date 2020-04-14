@@ -1,0 +1,6 @@
+{
+  "achievementId": "ModernHomeless",
+  "numberToUnlock": 1,
+  "voidSpriteName": "modernhomeless_locked.png",
+  "fullSpriteName": "modernhomeless_unlocked.png"
+}

@@ -1,0 +1,107 @@
+{
+  "shopId": "Veggies Nature",
+  "shopSpriteName": "vertical_shop.png",
+  "shopType": "Shop",
+  "openHour": 07,
+  "openMinute": 00,
+  "closeHour": 22,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 3,
+  "shopMaxItemsDropOnRob": 5,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "Pumpkin",
+      "itemType": "FoodItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "mushrooms",
+      "itemType": "FoodItem",
+      "price": 3,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Eggs",
+      "itemType": "FoodItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Apple",
+      "itemType": "FoodItem",
+      "price": 1,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Carrot",
+      "itemType": "FoodItem",
+      "price": 1,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Onion",
+      "itemType": "FoodItem",
+      "price": 1,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Banana",
+      "itemType": "FoodItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Flour",
+      "itemType": "FoodItem",
+      "price": 3,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+	{
+      "itemId": "Aloe",
+      "itemType": "FoodItem",
+      "price": 3,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Soy",
+      "itemType": "FoodItem",
+      "price": 1,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 2,
+      "maxQuantity": 10
+    }
+  ]
+}

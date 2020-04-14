@@ -1,0 +1,6 @@
+{
+  "achievementId": "BigDealer",
+  "numberToUnlock": 20,
+  "voidSpriteName": "bigdealer_locked.png",
+  "fullSpriteName": "bigdealer_unlocked.png"
+}

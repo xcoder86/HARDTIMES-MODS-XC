@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "key": "Cigarette",
+      "value": "Cigarette"
+    },
+    {
+      "key": "Cigarette-DESCRIPTION",
+      "value": "Ara Gamera rich blend sigarette. For the adventurer blah blah blah"
+    },
+    {
+      "key": "Joint",
+      "value": "Cannabis Joint"
+    },
+    {
+      "key": "Joint-DESCRIPTION",
+      "value": "A big cannabis joint rolled in a king size rolling paper."
+    },
+    {
+      "key": "Da Bomb",
+      "value": "Da Bomb"
+    },
+    {
+      "key": "Da Bomb-DESCRIPTION",
+      "value": "Da Bomb is a misterious beverage which can give you the sprint you lack to survive your daily challenges."
+    }
+  ]
+}

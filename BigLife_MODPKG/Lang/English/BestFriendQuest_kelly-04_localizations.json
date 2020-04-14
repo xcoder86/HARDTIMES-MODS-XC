@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-kelly_quest_04",
+      "value": "another Fish Delivery for Kelly!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_04-TASK-DESCRIPTION",
+      "value": "Kelly needs more fish!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_04_start_dialogue-DESCRIPTION",
+      "value": "Hey Buddy, do you need another Job?\n\nOrder:\n1x Blowfish\n1x Flattula\n\nYou find this kind of fish at the sea!\nBut please hurry, the Customer is stressed!\nI will pay you for this delivery!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_04_start_dialogue_btnA",
+      "value": "i have the requiered fish with me!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_04_start_dialogue_btnB",
+      "value": "Aye... may i can catch them!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_04_ok_dialogue-DESCRIPTION",
+      "value": "Wonderful like ever!\nThank you again..\n\nYou got:\n1x Condom Rumsfield's book of the fish gourmet\n2 x filled Wallet"
+    },
+	{
+      "key": "bestfriend-kelly_quest_04_ok_dialogue_btnC",
+      "value": "Thanks and see you soon Kelly!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_04_ko_dialogue-DESCRIPTION",
+      "value": "Um ...?\n\nI need the Fish for the Customer!\nOnly with the Fish we can continue...\n\nRequired:\n1x Blowfish\n1x Flattula"
+    },
+	{
+      "key": "bestfriend-kelly_quest_04_ko_dialogue_btnC",
+      "value": "okay, will be back!"
+    }
+	
+  ]
+}

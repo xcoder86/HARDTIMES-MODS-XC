@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-xcoder_quest_02",
+      "value": "BUS1N3SS with XCoder"
+    },
+    {
+      "key": "bestfriend-xcoder_quest_02-TASK-DESCRIPTION",
+      "value": "Make Business together with XCoder!"
+    },
+    {
+      "key": "bestfriend-xcoder_quest_02_start_dialogue-DESCRIPTION",
+      "value": "So before we continue our Business.\nI have 5x Bong with me that i need to sell.\n\nYou will need them in time! (Michael's Jobs)\nIf you buy them right now we can continue our Green Business!\n\nPrice: 10x Ganja"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_start_dialogue_btnA",
+      "value": "why i should buy them?"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_start_dialogue_btnB",
+      "value": "i take them and will give you 10x Ganja"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_start_dialogue_btnC",
+      "value": "Wait.. i dont have Ganja with me!"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_dialogue2-DESCRIPTION",
+      "value": "Why? Hmmm .. good Question!\nJust buy it, you ask far too much. :o)\n\nMichael will definitely take it from you.\nYou will find Michael at the Center!"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_dialogue2_btnB",
+      "value": "i see! Where did we stop?"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_dialogue2_btnC",
+      "value": "ok but i need to go.."
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_ok_dialogue-DESCRIPTION",
+      "value": "I love to inspect the harvest of others.\nYours is especially beautiful!\n\nYou get:\n5x Bong\n\nCome back if you want to sell something.\nHave a nice day!"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_ok_dialogue_btnC",
+      "value": "thank you Bro! see ya..."
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_ko_dialogue-DESCRIPTION",
+      "value": "Unfortunately you have nothing suitable with you!\nCome back if you have smelly Ganja :o)\n\nTake care o7"
+    },
+	{
+      "key": "bestfriend-xcoder_quest_02_ko_dialogue_btnC",
+      "value": "Uhmm.. okay!"
+    }
+	
+  ]
+}

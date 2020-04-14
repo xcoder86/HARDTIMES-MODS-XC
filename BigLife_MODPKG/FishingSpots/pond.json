@@ -1,0 +1,13 @@
+{
+  "fishingSpotId": "pond",
+  "successPercentage": 35,
+  "minQuality": 0,
+  "maxQuality": 2,
+  "effectOnFish": "",
+  "achievementsOnCatch": "CatchFish",
+  "fishableIds": [
+	"greenbo",
+	"purploid",
+	"Donut_Fish"
+  ]
+}

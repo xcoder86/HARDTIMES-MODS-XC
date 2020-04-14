@@ -1,0 +1,43 @@
+{
+  "furnitureId": "BF-popcorncart",
+  "furnitureType": "CraftingStationFurniture",
+  "boxedItemAncestorName": "BF-popcorncart_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-popcorncart.png",
+  "furnitureColliderRadius": 0.3,
+  "isPackable": true,
+  "freezePosition": true,
+ 
+  "achievementsOnUse": "",
+  "mass": 40,
+  "animatronic": {
+	"frameInterval": 0,
+	"frameNames":[]
+  },
+  "audioClip" : "",
+  "positionRestrictions": ["outdoor"],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "BF-Modern_PopcornMaschineRecipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "Popcorn Maschine"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "Popcorn Maschine Description"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "cooking"
+    }
+	
+  ]
+}

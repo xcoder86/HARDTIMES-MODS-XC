@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-michael_quest_05",
+      "value": "Michael and the Gang (1/2)"
+    },
+    {
+      "key": "bestfriend-michael_quest_05-TASK-DESCRIPTION",
+      "value": "Michael and the Gang Business"
+    },
+    {
+      "key": "bestfriend-michael_quest_05_start_dialogue-DESCRIPTION",
+      "value": "I found a way to get you to the Gang!\nThere is a book that learns some Clothes, including Gang Clothes.\nI can get you this Book but we need something for that.\n\nGet Michael:\n3x Special Delivery Box (for the gang)\n3x Ganja (for the gang)\n\nThe Gang absolutely wants these Boxes and the Ganja, get them!"
+    },
+	{
+      "key": "bestfriend-michael_quest_05_start_dialogue_btnA",
+      "value": "i have the Stuff and 3x free Inv. Slots!"
+    },
+	{
+      "key": "bestfriend-michael_quest_05_start_dialogue_btnB",
+      "value": "i will get the Stuff!"
+    },
+	{
+      "key": "bestfriend-michael_quest_05_ok_dialogue-DESCRIPTION",
+      "value": "You are really fast, amazing!\nI give the things to the Gang Leader.\n\nHere's your Reward:\n1x Home Phone (Book)\n1x The Aracnist Tisanes Book (Book)\n5x Blue Cow (Energydrink)\n\nCome back when you dressed like a Gang Member.\nYou may need a Sewing Table for that!"
+    },
+	{
+      "key": "bestfriend-michael_quest_05_ok_dialogue_btnC",
+      "value": "Roger, will be back soon.."
+    },
+	{
+      "key": "bestfriend-michael_quest_05_ko_dialogue-DESCRIPTION",
+      "value": "Sorry but we need things for the Gang!\nCome back when you have the things.\n\nThe Gang Boss is really into Sergio's Stuff, Sergio is my best friend but we have to do it to survive!\n\nWe'll take things back to Sergio later .."
+    },
+	{
+      "key": "bestfriend-michael_quest_05_ko_dialogue_btnC",
+      "value": "Mkay.. will be back!"
+    }
+	
+  ]
+}

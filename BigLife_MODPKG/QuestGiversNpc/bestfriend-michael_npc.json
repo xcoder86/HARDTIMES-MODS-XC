@@ -1,0 +1,26 @@
+{
+  "questGiverNpcId": "bestfriend-michael_npc",
+  "scene": "center",
+  "posX": 4,
+  "posY": -3,
+  "questList": [
+	"bestfriend-michael_quest_01",
+	"bestfriend-michael_quest_02",
+	"bestfriend-michael_quest_03",
+	"bestfriend-michael_quest_04",
+	"bestfriend-michael_quest_05",
+	"bestfriend-michael_quest_06",
+	"bestfriend-michael_quest_07"
+  ],
+  "bodyIndex": 4,
+  "hairIndex": 1,
+  "beardIndex": -1,
+  "dressId": "michael_shirt",
+  "dressType": "ClothingItem",
+  "hasBreast": false,
+  "hatId": "Skeleton Skate Cap",
+  "hatType": "HatItem",
+  "proxyId": "",
+  "proxyType": "",
+  "wanderRange": 14
+}

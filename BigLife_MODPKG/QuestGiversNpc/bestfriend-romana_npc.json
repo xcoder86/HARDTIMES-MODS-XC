@@ -1,0 +1,27 @@
+{
+  "questGiverNpcId": "bestfriend-romana_npc",
+  "scene": "seaside",
+  "posX": 2,
+  "posY": -3,
+  "questList": [
+	"bestfriend-romana_quest_01",
+	"bestfriend-romana_quest_02",
+	"bestfriend-romana_quest_03",
+	"bestfriend-romana_quest_04",
+	"bestfriend-romana_quest_05",
+	"bestfriend-romana_quest_06",
+	"bestfriend-romana_quest_07",
+	"bestfriend-romana_quest_08"
+  ],
+  "bodyIndex": 4,
+  "hairIndex": 1,
+  "beardIndex": -1,
+  "dressId": "romana_shirt",
+  "dressType": "ClothingItem",
+  "hasBreast": true,
+  "hatId": "",
+  "hatType": "",
+  "proxyId": "",
+  "proxyType": "",
+  "wanderRange": 4
+}

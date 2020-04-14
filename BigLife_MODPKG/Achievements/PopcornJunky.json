@@ -1,0 +1,6 @@
+{
+  "achievementId": "PopcornJunky",
+  "numberToUnlock": 100,
+  "voidSpriteName": "popcornjunky_locked.png",
+  "fullSpriteName": "popcornjunky_unlocked.png"
+}

@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-kelly_quest_06",
+      "value": "Romana's Birthday (3/3)"
+    },
+    {
+      "key": "bestfriend-kelly_quest_06-TASK-DESCRIPTION",
+      "value": "Romana's Birthday Party is coming!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_06_start_dialogue-DESCRIPTION",
+      "value": "There you are again!\nWas Romana happy about the cake?\n\nPlease give me the invitation card she gave you !!!\nI'm really looking forward to Romona's birthday party ..."
+    },
+	{
+      "key": "bestfriend-kelly_quest_06_start_dialogue_btnA",
+      "value": "yes she was happy, here is the Card!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_06_start_dialogue_btnB",
+      "value": "no but i will visit here soon!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_06_ok_dialogue-DESCRIPTION",
+      "value": "Yeyyy the party is rising soon!\nMaybe I can take you with us, let's see.\n\nNow I have to keep working.\nIf you need a job, drop by!\n\nYou got: 1x A Practical Man, Vol.1, 1x filled Wallet"
+    },
+	{
+      "key": "bestfriend-kelly_quest_06_ok_dialogue_btnC",
+      "value": "Cool! See you Kelly.."
+    },
+	{
+      "key": "bestfriend-kelly_quest_06_ko_dialogue-DESCRIPTION",
+      "value": "You don't have the card yet: (((\nPlease visit Romana and give her the cake.\nShe will give you a card that I urgently need!\n\nKelly needs:\n1x Birthday Invitation Card"
+    },
+	{
+      "key": "bestfriend-kelly_quest_06_ko_dialogue_btnC",
+      "value": "okay, i will visit here!"
+    }
+	
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "effectId": "caught_stealing_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 60,
+  "effectIntervalMinutes": 0,
+  "lastEffectCheckMinutes": 0,
+  "maxMinutesDuration": 20,
+  "antidoteStatModifier": "",
+  "isPassive": true,
+  "statModifiers": [
+    {
+      "statId": "playerScandal",
+      "statModifier": -50
+    }
+  ]
+}

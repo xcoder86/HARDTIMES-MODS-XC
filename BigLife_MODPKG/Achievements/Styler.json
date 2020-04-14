@@ -1,0 +1,6 @@
+{
+  "achievementId": "Styler",
+  "numberToUnlock": 1,
+  "voidSpriteName": "styler_locked.png",
+  "fullSpriteName": "styler_unlocked.png"
+}

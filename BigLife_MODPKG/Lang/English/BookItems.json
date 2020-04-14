@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "key": "Home Phone Book",
+      "value": "Home Phone Book"
+    },
+    {
+      "key": "Home Phone Book-DESCRIPTION",
+      "value": "This Book will teach you how to build a Home Phone with your Workbench!"
+    },
+	
+	
+	{
+      "key": "Donut Hoven Book",
+      "value": "Donut Hoven Book"
+    },
+    {
+      "key": "Donut Hoven Book-DESCRIPTION",
+      "value": "This Book will teach you how to build a Donut Hoven with your Workbench!"
+    },
+	
+	
+	{
+      "key": "Workbench_Advanced_Book",
+      "value": "Adv. Workbench Book"
+    },
+    {
+      "key": "Workbench_Advanced_Book-DESCRIPTION",
+      "value": "Knowledge about crafting a advanced Workbench!"
+    },
+	
+	
+	{
+      "key": "Luxury_Life_Book1",
+      "value": "Luxury Life Edition 1"
+    },
+    {
+      "key": "Luxury_Life_Book1-DESCRIPTION",
+      "value": "Knowledge about a luxury Life (Edition 1)"
+    },
+	
+	{
+      "key": "Luxury_Life_Book2",
+      "value": "Luxury Life Edition 2"
+    },
+    {
+      "key": "Luxury_Life_Book2-DESCRIPTION",
+      "value": "Knowledge about a luxury Life (Edition 2)"
+    },
+	
+	{
+      "key": "Modern_Life_Book1",
+      "value": "Modern Life Edition 1"
+    },
+    {
+      "key": "Modern_Life_Book1-DESCRIPTION",
+      "value": "Knowledge about a Modern Life (Edition 1)"
+    },
+	
+	{
+      "key": "Dealer_Life_Book",
+      "value": "Dealer Life"
+    },
+    {
+      "key": "Dealer_Life_Book-DESCRIPTION",
+      "value": "Knowledge about a Dealer's Life"
+    },
+	
+	{
+      "key": "Business_Life_Book",
+      "value": "Business Life"
+    },
+    {
+      "key": "Business_Life_Book-DESCRIPTION",
+      "value": "Knowledge about a Business Life"
+    }
+	
+	
+  ]
+}

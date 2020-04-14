@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-michael_quest_06",
+      "value": "Michael and the Gang (2/2)"
+    },
+    {
+      "key": "bestfriend-michael_quest_06-TASK-DESCRIPTION",
+      "value": "Michael and the Gang Business"
+    },
+    {
+      "key": "bestfriend-michael_quest_06_start_dialogue-DESCRIPTION",
+      "value": "You are back in time!\nI need you for a Special Order.\nDo you know XCoder? He's hiding somewhere Underground.\nAt the moment nobody really knows where he is.\nFind him and see that he does Business with you.\n\nBuy from XCoder: 5x Bong (for the Gang)\n\nand then come back to me!"
+    },
+	{
+      "key": "bestfriend-michael_quest_06_start_dialogue_btnA",
+      "value": "i have the Bongs and 3x free Slots at my Inventory!"
+    },
+	{
+      "key": "bestfriend-michael_quest_06_start_dialogue_btnB",
+      "value": "i will find XCoder and geht them!"
+    },
+	{
+      "key": "bestfriend-michael_quest_06_ok_dialogue-DESCRIPTION",
+      "value": "Great that you found XCoder!\nI hope he wasn't too rude;)\n\nYou get:\n6x Special Delivery (for Sergio, you know ..)\n1x Brewery (boxed)\n\nI think XCoder is now also a kind of friend.\nYou can definitely visit him more often to do jobs!"
+    },
+	{
+      "key": "bestfriend-michael_quest_06_ok_dialogue_btnC",
+      "value": "sounds good, see ya Michael!"
+    },
+	{
+      "key": "bestfriend-michael_quest_06_ko_dialogue-DESCRIPTION",
+      "value": "Sorry but we need the Bongs for the Gang!\nCome back when you have them.\n\nThe Gang Boss loves to smoke with his best friends!"
+    },
+	{
+      "key": "bestfriend-michael_quest_06_ko_dialogue_btnC",
+      "value": "Yaya, ill be back!"
+    }
+	
+  ]
+}

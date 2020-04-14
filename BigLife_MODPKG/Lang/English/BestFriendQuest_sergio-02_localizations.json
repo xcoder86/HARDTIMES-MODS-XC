@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-sergio_quest_02",
+      "value": "a Present for Bob (2/2)"
+    },
+    {
+      "key": "bestfriend-sergio_quest_02-TASK-DESCRIPTION",
+      "value": "We can be friends if you give me the Special Delivery!"
+    },
+    {
+      "key": "bestfriend-sergio_quest_02_start_dialogue-DESCRIPTION",
+      "value": "Hey Mate,\ndid you got the Special Delivery Box from Bob?\n\nI can't wait to finally open it, there are important fertilizers in it!\nI will give you a Present for your help..."
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_start_dialogue_btnA",
+      "value": "Uh.. Fertilizers? What do you do with it?"
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_start_dialogue_btnB",
+      "value": "Yes, i got the Special Delivery Box for you!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_start_dialogue_btnC",
+      "value": "Nah, not now! May later..."
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_dialogue2-DESCRIPTION",
+      "value": "You're really curious!\nBut because you're Bob's best friend, I'll tell you.\nI'm in the green business, do you understand?\n\nI grow beautiful flowers that bring me some money.\nVisit the grow shop if you want to do something like that!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_dialogue2_btnB",
+      "value": "Uh... Oh... Ah... okay!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_dialogue2_btnC",
+      "value": "i will come back later..."
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_ok_dialogue-DESCRIPTION",
+      "value": "Thank you so much,\nfrom now on you can call me your friend.\nI will help you during your difficult time on the street.\n\nVisit me if you need a task!\nOf course I will pay you for your services.\n\nYou got: 1x A Countryside Gentleman (Vol.1), 1x Mattock"
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_ok_dialogue_btnC",
+      "value": "Cool! will do... bye Dude"
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_ko_dialogue-DESCRIPTION",
+      "value": "you dont have the Special Delivery of Bob!\nplease come back as soon you got it..."
+    },
+	{
+      "key": "bestfriend-sergio_quest_02_ko_dialogue_btnC",
+      "value": "Mkay, i will visit Bob for you!"
+    }
+	
+  ]
+}

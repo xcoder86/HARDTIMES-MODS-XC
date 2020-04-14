@@ -1,0 +1,25 @@
+{
+  "furnitureId": "BF-Luxury_moneychestsculp",
+  "furnitureType": "ContainerFurniture",
+  "boxedItemAncestorName": "BF-Luxury_moneychestsculp_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Luxury_MoneySculpture.png",
+  "furnitureColliderRadius": 0.5,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "achievementsOnUse": "",
+  "mass": 40,
+  "positionRestrictions": [],
+  "extras": [
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+	{
+      "key": "slotsNum",
+      "intValue": 15
+    }
+  ]
+}

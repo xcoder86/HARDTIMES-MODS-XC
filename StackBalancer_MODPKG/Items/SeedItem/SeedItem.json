@@ -1,0 +1,166 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "SeedItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "pumpkin_seed",
+      "itemSpriteName": "pumpkin_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "pumpkin_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "carrot_seed",
+      "itemSpriteName": "carrot_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "carrot_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "onion_seed",
+      "itemSpriteName": "onion_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "onion_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "aloe_seed",
+      "itemSpriteName": "aloe_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "aloe_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "cannabis_seed",
+      "itemSpriteName": "cannabis_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "cannabis_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "wheat_seed",
+      "itemSpriteName": "wheat_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "wheat_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "coffee_seed",
+      "itemSpriteName": "coffee_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "coffee_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "hops_seed",
+      "itemSpriteName": "hops_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "hops_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "tea_seed",
+      "itemSpriteName": "tea_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "tea_crop"
+		}
+	  ]
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "soy_seed",
+      "itemSpriteName": "soy.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "soy_crop"
+		}
+	  ]
+    }
+  ]
+}

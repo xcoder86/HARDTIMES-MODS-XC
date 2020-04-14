@@ -1,0 +1,6 @@
+{
+  "achievementId": "LuxuryHomeless",
+  "numberToUnlock": 2,
+  "voidSpriteName": "luxuryhomeless_locked.png",
+  "fullSpriteName": "luxuryhomeless_unlocked.png"
+}

@@ -1,0 +1,492 @@
+{
+  "collectionId": "ChemicalTableRecipes",
+  "recipes": [
+	{
+      "recipeId": "selfmade Smoking Papers",
+      "duration": 30,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Smoking Papers",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Newspaper",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Bleach",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Special Delivery Box",
+      "duration": 20,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "Special_Delivery",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "supercrop",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "spare_cardboard_box",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "dutch_tape",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Cocaine Powder",
+      "duration": 20,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "Cocaine",
+          "itemType": "DrugItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "coca_leaves",
+          "itemType": "SpecialItem",
+          "itemQuantity": 10
+        },
+		{
+          "itemId": "Chemicals",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	
+	{
+      "recipeId": "Ecstasy Paste",
+      "duration": 10,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "ecstasy_paste",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Chemicals",
+          "itemType": "SpecialItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Ecstasy Pill",
+      "duration": 30,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "Ecstasy",
+          "itemType": "DrugItem",
+          "itemQuantity": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "ecstasy_paste",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Baggie",
+      "duration": 30,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "baggie_empty",
+          "itemType": "SpecialItem",
+          "itemQuantity": 10
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Baggie (Ganja)",
+      "duration": 10,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "baggie_ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "baggie_empty",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Baggie (Cocaine)",
+      "duration": 10,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "baggie_cocaine",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cocaine",
+          "itemType": "DrugItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "baggie_empty",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Baggie (Ecstasy)",
+      "duration": 10,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "baggie_ecstasy",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Ecstasy",
+          "itemType": "DrugItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "baggie_empty",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+  
+  
+    {
+      "recipeId": "Bombafert",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "bombafert",
+          "itemType": "SpecialItem",
+          "itemQuantity": 3
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "shit",
+          "itemType": "SpecialItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Light the Bob Stout",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Bioswift",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+	    {
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "bioswift",
+          "itemType": "SpecialItem",
+          "itemQuantity": 3
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Carrot",
+          "itemType": "FoodItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Onion",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Supercrop",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+	  {
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "supercrop",
+          "itemType": "SpecialItem",
+          "itemQuantity": 3
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "milk",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "shit",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Gastro Boy",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "gastro_boy",
+          "itemType": "MedicItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "pumpkin_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "mushrooms",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Maxidol",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+	    {
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "maxidol",
+          "itemType": "MedicItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+		  "itemId": "Aloe",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "scabydoo",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+	    {
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "scabydoo",
+          "itemType": "MedicItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+		  "itemId": "Banana",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Blue Cow",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+	    {
+          "itemId": "Blue Cow",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+		  "itemId": "food_coffee",
+          "itemType": "FoodItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": true
+        },
+		{
+          "itemId": "Aloe",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+		  "itemId": "food_tea",
+          "itemType": "FoodItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": true
+        },
+		{
+		  "itemId": "Light the Bob Stout",
+          "itemType": "FoodItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": true
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

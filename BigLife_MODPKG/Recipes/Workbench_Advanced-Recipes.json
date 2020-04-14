@@ -1,0 +1,581 @@
+{
+  "collectionId": "Workbench_Advanced-Recipes",
+  "recipes": [
+	{
+      "recipeId": "Business Vault Knowledge",
+      "duration": 60,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Business_vault_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+		{
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 18
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 20
+        },
+		{
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Business Soundsystem Knowledge",
+      "duration": 60,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Business_soundsystem_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+		{
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 6
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        },
+		{
+          "itemId": "Obsidian",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        }
+		
+      ]
+    },
+	
+	{
+      "recipeId": "Popcorn Maschine Knowledge",
+      "duration": 45,
+      "isPublic": true,
+      "result": [
+        {
+          "itemId": "BF-popcorncart_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+		{
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 8
+        },
+		{
+          "itemId": "dutch_tape",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Luxury Fountain Knowledge",
+      "duration": 45,
+      "isPublic": false,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+        {
+          "itemId": "BF-Luxury_fountain_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Stone",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        }
+      ]
+    },
+
+	
+	{
+      "recipeId": "Luxury Chest Knowledge",
+      "duration": 25,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Luxury_moneychestsculp_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "rope",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+
+	
+	{
+      "recipeId": "Luxury Bench Knowledge",
+      "duration": 30,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Luxury_bench_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 6
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Luxury Bed Knowledge",
+      "duration": 30,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Luxury_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 6
+        }
+      ]
+    },
+		
+	{
+      "recipeId": "Luxury Glass Table Knowledge",
+      "duration": 30,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Luxury_glass_table_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 6
+        }
+      ]
+    },
+
+
+	{
+      "recipeId": "Luxury Marmor Table Knowledge",
+      "duration": 30,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Luxury_marmor_table_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Stone",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 6
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Luxury Fridge Knowledge",
+      "duration": 30,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Luxury_fridge_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "soil",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },	
+	
+	
+	{
+      "recipeId": "Luxury Christ. Oven Knowledge",
+      "duration": 45,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Luxury_christmasoven_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Stone",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        },
+		{
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        }
+      ]
+    },
+	
+
+	{
+      "recipeId": "Modern Table Knowledge",
+      "duration": 20,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Modern_table_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Modern Bed Knowledge",
+      "duration": 30,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Modern_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 6
+        },
+		{
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Modern Wall Picture Knowledge",
+      "duration": 10,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Modern_wallpicture_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "pen",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Modern Wall Picture 2 Knowledge",
+      "duration": 10,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Modern_wallpicture2_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "pen",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Modern Wall Picture 3 Knowledge",
+      "duration": 10,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Modern_wallpicture3_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "pen",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Modern Wall Picture 4 Knowledge",
+      "duration": 10,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Modern_wallpicture4_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "pen",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Modern Pizza Oven Knowledge",
+      "duration": 45,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "BF-Modern_pizzaoven_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Stone",
+          "itemType": "BaseItem",
+          "itemQuantity": 20
+        },
+		{
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Z-Trap Deluxe",
+      "duration": 30,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "z-trap_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "dutch_tape",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    }
+	
+	
+  ]
+}

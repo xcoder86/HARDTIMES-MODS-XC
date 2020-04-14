@@ -1,0 +1,63 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-ivan_quest_02",
+  "questSpriteName": "businesscontracts_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-ivan_quest_02_start_dialogue",
+  "okQuestDialogueId": "bestfriend-ivan_quest_02_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-ivan_quest_02_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "business_key",
+	  "questItemType": "BaseItem",
+	  "questItemQuality": 1,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_02_start_dialogue",
+	  "questDialogueTitle": "Mailboxes and Contracts!",
+	  "buttonAText": "bestfriend-ivan_quest_02_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-ivan_quest_02_dialogue2",
+	  "buttonBText": "bestfriend-ivan_quest_02_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_02_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_02_dialogue2",
+	  "questDialogueTitle": "Mailboxes and Contracts!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-ivan_quest_02_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-ivan_quest_02_start_dialogue",
+	  "buttonCText": "bestfriend-ivan_quest_02_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_02_ok_dialogue",
+	  "questDialogueTitle": "Mailboxes and Contracts!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_02_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+	
+  ]
+}

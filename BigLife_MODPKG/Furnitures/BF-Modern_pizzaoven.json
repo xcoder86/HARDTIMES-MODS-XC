@@ -1,0 +1,45 @@
+{
+  "furnitureId": "BF-Modern_pizzaoven",
+  "furnitureType": "FirebinFurniture",
+  "boxedItemAncestorName": "BF-Modern_pizzaoven_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Modern_pizzaoven.png",
+  "furnitureColliderRadius": 0.7,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "widgetLabelDx": ":|:DISABLED:|:",
+  
+  "achievementsOnUse": "PizzaProduction",
+  "mass": 60,
+  "animatronic": {
+	"frameInterval": 0,
+	"frameNames":[]
+  },
+  "audioClip" : "fire",
+  "positionRestrictions": ["outdoor"],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "BF-Modern_PizzaOvenRecipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "Pizza Oven"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "Pizza Oven Description"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "cooking"
+    }
+	
+  ]
+}

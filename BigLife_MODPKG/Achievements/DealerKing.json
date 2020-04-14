@@ -1,0 +1,6 @@
+{
+  "achievementId": "DealerKing",
+  "numberToUnlock": 100,
+  "voidSpriteName": "dealerking_locked.png",
+  "fullSpriteName": "dealerking_unlocked.png"
+}

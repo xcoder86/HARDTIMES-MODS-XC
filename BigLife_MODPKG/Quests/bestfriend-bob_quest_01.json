@@ -1,0 +1,88 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-bob_quest_01",
+  "questSpriteName": "bestfriend_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-bob_quest_01_start_dialogue",
+  "okQuestDialogueId": "bestfriend-bob_quest_01_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-bob_quest_01_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "GetaBestFriend,GetAllBestFriends",
+"rewards": [
+	{
+	  "questItemId": "Vegetable Soup",
+	  "questItemType": "FoodItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "A man of the streets, Vol.1",
+	  "questItemType": "BookItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Fortune Cookie",
+	  "questItemType": "HintGiverItem",
+	  "questItemAmount": 3,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-bob_quest_01_start_dialogue",
+	  "questDialogueTitle": "be my best friend!",
+	  "buttonAText": "bestfriend-bob_quest_01_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-bob_quest_01_dialogue2",
+	  "buttonBText": "bestfriend-bob_quest_01_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-bob_quest_01_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-bob_quest_01_dialogue2",
+	  "questDialogueTitle": "be my best friend!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-bob_quest_01_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-bob_quest_01_start_dialogue",
+	  "buttonCText": "bestfriend-bob_quest_01_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-bob_quest_01_ok_dialogue",
+	  "questDialogueTitle": "be my best friend!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-bob_quest_01_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-bob_quest_01_ko_dialogue",
+	  "questDialogueTitle": "be my best friend!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-bob_quest_01_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

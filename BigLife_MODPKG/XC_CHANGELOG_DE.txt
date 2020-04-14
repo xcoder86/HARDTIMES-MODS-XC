@@ -1,0 +1,230 @@
+**********************************
+******     BIG LIFE MOD     ******
+**********************************
+******    by XCoder 2020    ****** 
+**********************************
+
+Folgendes ist derzeit geplant(tm):
+- neue versteckte Räume / Ortschaften
+- neue "Geheime" NPC mit mehr Aufträgen
+- Fahrzeuge (Skateboard etc., noch unklar)
+
+
+##################################
+# 0?.04.2020 | Mod Version: 1.2  #
+##################################
+# THEMA: Business & Dealer Update#
+##################################
+
+**** BIG MONEY BALANCING UPDATE ****
+****  BIG BUSINESS LIFE UDATE   ****
+****     BIG OUTFIT UPDATE      ****
+
+Bei diesem Mod Update wurde das Gesamte Geld System neu balanciert.
+Viele neue Gegenstände, Einrchtungen und Allgemeine Fähigkeiten wurden eingeführt.
+Allgemein kann man jetzt viel tiefer eintauchen, es macht Spass!
+
+Es geht darum, ein realistischeres Wirtschaftssystem zu erzeugen.
+Das bedeutet auch die Preise für diverse Dinge wurden angepasst.
+Wie immer solltest du deine alte Mod Version ohne Probleme ersetzen können!
+
+Neue NPC's (2):
+- Ivan (Business Man, 5 Aufgaben / 1 wiederholend) <<<<<<<<<<< FEHLT
+- Capone (Dealer Boss, 5 Aufgaben / 1 wiederholend) <<<<<<<<<<< FEHLT
+
+Neue Gegenstände (13):
+- Business Backpack (12 Slots Backpack, Sewing Table) <<<<<<<<<<< FUNKTIONIERT NICHT RICHTIG
+- Business Trolley (15 Slots Backpack, Sewing Table) <<<<<<<<<<< FUNKTIONIERT NICHT RICHTIG
+- Cigarette Filter (Crafting, Char. Crafting)
+- Tobacco Seeds +Plant (Growing)
+- Coca Seeds +Plant (Growing)
+- Tobacco Leaves (Crafting)
+- Coca Leaves (Crafting)
+- Cocaine Powder (Chemical Table, useable / sellable)
+- Ecstasy Paste (Crafting, Chemical Table)
+- Ecstasy Pill (Chemical Table, useable / sellable)
+- Chemicals (Crafting, can be buyd)
+- Baggie (Crafting)
+- Metro Card (prepeared - not yet implemented) <<<<<<<<< FUNKTIONIERT NICHT RICHTIG
+
+Neue Einrichtungen (5):
+- Z-Trap (Adv. Workbench, Meat Farming > Cooking)
+- Medium Storage (handed over to Vanilla Update, Workbench)
+- Large Storage (handed over to Vanilla Update, Workbench)
+- Business Vault (XL Secure Storage with 30 Slots, Adv. Workbench)
+- Business Soundsystem (Adv. Workbench)
+
+Global Business (4):
+- ab sofort kannst du selber Zigaretten herstellen!
+- Shop Öffnungszeiten verbessert
+- Shop Angebote & Mengen verbessert
+- Shop Preise angepasst (Balancing)
+
+Neue Erfolge (9):
+- Business Man
+- Contract Master <<<<<<<<<<<<<<<<<<<<<< FUNKTIONIERT NOCH NICHT
+- be a Dealer
+- Dealer King
+- sell * Baggie's x3
+- Styler
+
+Neue Kleidung (17):
+- Business Hat Collection hinzugefügt (12 Hüte)
+- Business Dress Collection hinzugefügt (6 Shirts/Anzüge)
+
+Neue Rezept Bücher (2, 17 neue Rezepte):
+- Business Life (Advanced Workbench Recipes, 5 neue Fähigkeiten)
+- Dealer Life (Chemical Table & Base Recipes, 12 neue Fähigkeiten)
+
+NPC Orientiert (7):
+- XCoder's Dauerauftrag (Best Friends) hat sich geändert (verbessert)
+- Michael's Dauerauftrag (Best Friends) hat sich geändert (verbessert)
+- Romana's Dauerauftrag (Best Friends) hat sich geändert (verbessert) +1 Mission
+- XCoder's Dauerlauf wurde beendet und er befindet sich nun an einer fixierten Position
+- der Schmuggler verkauft nun auch die neuen im Dealer Update enthaltenen Substanzen
+- Auf Events wird nun nach unterschiedlichen Substanzen & Pizza, Popcorn gefragt! (Dealer Life)
+- Zivilisten laufen nun in einer größeren vielfalt an Kleidung herum
+
+Sonstiges (3):
+- Special Delivery Pakete können nun hergestellt werden (Dealer Life, Chem. Table)
+- Grafikfehler bei "Chemical Table" wurde behoben
+- weitere kleinere Fehler behoben
+
+
+##################################
+# 08.04.2020 | Mod Version: 1.1  #
+##################################
+# THEMA: XL Luxury Update	 #
+##################################
+
+Neue Rezept Bücher (5):
+- Advanced Workbench Book
+- Luxury Life Book (Edition 1)
+- Luxury Life Book (Edition 2)
+- Modern Life Book (Edition 1)
+- Modern Life Book (Edition 2) *soon(tm), vorbereitet
+
+
+Neue Gegenstände (5):
+- Stein (Handwerk)
+- Obsidian (Handwerk)
+- Popcorn (Lebensmittel)
+- Pizza Piece (Lebensmittel)
+- Pizza (ganze Pizza, Lebensmittel)
+
+
+Neue Einrichtungen (9, Modern Edition):
+- Advanced Workbench (für die neuen Rezepte)
+- Modern Popcorn Maschine
+- Modern Pizza Oven
+- Modern Wall Picture 1
+- Modern Wall Picture 2
+- Modern Wall Picture 3
+- Mdoern Wall Picture 4
+- Modern Wood Table
+- Modern Bed
+
+
+Neue Einrichtungen (8, Luxury Edition):
+- Luxury Chest & Sculpture
+- Luxury Christmas Oven
+- Luxury Glass Table
+- Luxury Marmor Table
+- Luxury Fountain
+- Luxury Fridge
+- Luxury Bench
+- Luxury Bed
+
+
+Neue Einrichtungen (2, Sonstige):
+- Medium Storage Box (prepeared, currently not the correct Slot Amount, dont use!)
+- Large Storage Box (prepeared, currently not the correct Slot Amount, dont use!)
+
+
+Neue Erfolge (6):
+- Popcorn Junky
+- Modern Homeless
+- Luxury Homeless
+- Graffiti Sprayer
+- Pizza Production
+- Boat Driver
+- Pizza King
+
+
+Sonstiges (8):
+- Fancy Clothes (17 neue Shirts für dich und NPC's)
+- Einkaufswagen Grafik wurde geändert (Testweise)
+- Krapfen Ofen gibt nun mehr Donuts (+Flasche Retour)
+- Geheimer Reiseweg zwischen Suburbs <> Center eingeführt
+- Cannabis sieht nun im Wachstum auch nach Cannabis aus (+Spoilzeit verlängert)
+- Item "Home Phone" kann ab sofort auch wieder aufgehoben werden!
+- Allgemein wurden einige Standard Grafiken erneuert
+- fixed a few Visual Bugs
+- neue Eastereggs
+
+
+
+##################################
+# 02.04.2020 | Mod Version: 1.0  #
+##################################
+
+1.) Neue NPC's (5, beste Freunde):
+- Bob (6 Aufgaben, 1 wiederholende)
+- Sergio (8 Aufgaben, 1 wdh.)
+- Kelly (7 Aufgaben, 1 wdh.)
+- Romana (7 Aufgaben, 1 wdh.)
+- Michael (7 Aufgaben, 1 wdh.)
+
+
+2.) Neue NPC's (Sonstige):
+- XCoder (3 Aufgaben, eine wiederholende & bald mehr!)
+
+
+3.) Neue Erfolge (9):
+- finde einen besten Freund
+- finde alle besten Freunde
+- teile einen Joint mit jemand
+- starte eine Krapfen Produktion
+- Gang Business
+- finde XCoder
+- großer Dealer
+- Krapfen Fisch
+- sei loyal
+
+
+4.) Neue Items (11):
+- Krapfen
+- Krapfen Buch (Buch Rezept)
+- Heim Telefon (Buch Rezept)
+- Bong (Auftragsgegenstand)
+- Spezial Lieferung Box (Auftragsgegenstand)
+- Geburtstagstorte (--//--)
+- Geburtstags Einladung Karte (--//--)
+- Michael's Shirt (Clothes)
+- Romana's Shirt (Clothes)
+- XCoder's Shirt (Clothes)
+- BigDealer Hat (Clothes)
+
+
+5.) Neue Fische:
+- Krapfen Fisch
+
+
+6.) Neue Gegenstände (2):
+- Heim Telefon (zum speichern)
+- Krapfen Ofen
+
+
+7.) Neue Aufgaben zusammengefasst: 38 Stück (mehr folgen)
+8.) Alle BestFriends Aufgaben Fenster haben jetzt direkte "Schließ" Buttons
+9.) Cultivation Plots können nun auch Indoor platziert werden (Achtung vor Putzfrauen!)
+10.) Wasser Flaschen (x5) können nun in der Werkbank anhand von 2x Plastik Teilen Standardmäßig hergestellt werden
+11.) Heim Telefon kann mit entsprechendem Buch (bekommt man von Michael) nun in der Werkbank hergestellt werden
+12.) Cannabis züchten ist jetzt nicht mehr ganz so hart wie bisher! (+Grafiken verbessert)
+
+
+
+
+---------------------
+by xcoder 2020
+

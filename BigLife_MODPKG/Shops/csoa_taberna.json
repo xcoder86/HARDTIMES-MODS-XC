@@ -1,0 +1,109 @@
+{
+  "shopId": "Taberna",
+  "shopSpriteName": "vertical_shop.png",
+  "shopType": "Shop",
+  "openHour": 08,
+  "openMinute": 30,
+  "closeHour": 20,
+  "closeMinute": 00,
+  "refillIntervalMins": 30,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 1,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "food_cheeseburger",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 10,
+      "maxQuantity": 20
+    },
+	{
+      "itemId": "Pizza",
+      "itemType": "FoodItem",
+      "price": 16,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 3
+    },
+	{
+      "itemId": "food_coffee",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Water Bottle",
+      "itemType": "FoodItem",
+      "price": 0.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Light the Bob Stout",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 3,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Old Goat liquor",
+      "itemType": "FoodItem",
+      "price": 7.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "food_tea",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Vegetable Soup",
+      "itemType": "FoodItem",
+      "price": 4.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Cheese",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Fried Egg",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    }
+	
+	
+  ]
+}

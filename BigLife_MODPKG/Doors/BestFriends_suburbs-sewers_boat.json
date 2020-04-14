@@ -1,0 +1,23 @@
+{
+  "doorId": "BestFriends_suburbs-sewers_boat",
+  "closedSpriteName": "boat.png",
+  "openSpriteName": "boat.png",
+  "targetScene": "center_sewers",
+  "targetDoor": "BestFriends_center-sewers_boat",
+  "objectToUnlock": "",
+  "unlockDestroysObject": false,
+  "effectOnUnlock": "",
+  "unlockIsPermanent": true,
+  "objectToBreak": "",
+  "breakDestroysObject": false,
+  "breakSound": "water",
+  "breakDuration": 10,
+  "effectOnBreak": "break_door_effect",
+  "breakIsPermanent": true,
+  "isOpen": true,
+  "closedMessage": "You can't open it like this",
+  "achievementsOnUse": "BoatDriver",
+  "achievementsOnOpen": "",
+  "achievementsOnBreak": "BreakDoor",
+  "interactableDistance": 2
+}

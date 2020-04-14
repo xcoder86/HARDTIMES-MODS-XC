@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-romana_quest_03",
+      "value": "Romana need Help (2/3)"
+    },
+    {
+      "key": "bestfriend-romana_quest_03-TASK-DESCRIPTION",
+      "value": "Romana needs your help!"
+    },
+    {
+      "key": "bestfriend-romana_quest_03_start_dialogue-DESCRIPTION",
+      "value": "I need your help again!\nSergio told me you're in the Green Business.\nI would need some entertainment for my party Guests.\n\n1x Space Cake\n20x Cigarette\n5x Joint\n\nI will give you 4 bulging Wallets and my dear!"
+    },
+	{
+      "key": "bestfriend-romana_quest_03_start_dialogue_btnA",
+      "value": "i have 4x free Inventory Slot and the Stuff!"
+    },
+	{
+      "key": "bestfriend-romana_quest_03_start_dialogue_btnB",
+      "value": "i am busy but i will come back!"
+    },
+	{
+      "key": "bestfriend-romana_quest_03_ok_dialogue-DESCRIPTION",
+      "value": "As always, you are great!\nNow I can continue planning my birthday party.\n\nyou get:\n4x bulging Wallet\n\nCheck back if you need work or want to talk about pets :)"
+    },
+	{
+      "key": "bestfriend-romana_quest_03_ok_dialogue_btnC",
+      "value": "sounds good, i will come back!"
+    },
+	{
+      "key": "bestfriend-romana_quest_03_ko_dialogue-DESCRIPTION",
+      "value": "Oh...\nand I thought you were done :(\nCome back when you have the goods!\n\nAnd please hurry;)\nThe birthday party starts soon .."
+    },
+	{
+      "key": "bestfriend-romana_quest_03_ko_dialogue_btnC",
+      "value": "Ugh.. sry, i will try my best!"
+    }
+	
+  ]
+}

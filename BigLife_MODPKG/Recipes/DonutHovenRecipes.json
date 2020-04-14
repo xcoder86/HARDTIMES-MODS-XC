@@ -1,0 +1,42 @@
+{
+  "collectionId": "DonutHovenRecipes",
+  "recipes": [
+	{
+	  "recipeId": "Donut Hoven Knowledge",
+	  "duration": 20,
+	  "isPublic": false,
+	  "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+		  "itemId": "Donut",
+		  "itemType": "FoodItem",
+		  "itemQuantity": 4
+		}
+	  ],
+	  "ingredients": [
+		{
+		  "itemId": "Flour",
+		  "itemType": "FoodItem",
+		  "itemQuantity": 1
+		},
+		{
+		  "itemId": "Butter",
+		  "itemType": "FoodItem",
+		  "itemQuantity": 1
+		},
+		{
+		  "itemId": "Water Bottle",
+		  "itemType": "FoodItem",
+		  "itemQuantity": 2
+		}
+	  ]
+	}
+	
+	
+	
+  ]
+}

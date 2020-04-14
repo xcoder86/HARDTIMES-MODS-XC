@@ -1,0 +1,225 @@
+{
+  "items": [
+    {
+      "key": "GetaBestFriend",
+      "value": "get a best friend!"
+    },
+    {
+      "key": "GetaBestFriend-DESCRIPTION",
+      "value": "Find someone who wants to be your best friend!"
+    },
+	
+	
+	{
+      "key": "GetAllBestFriends",
+      "value": "find all best friends!"
+    },
+	{
+      "key": "GetAllBestFriends-DESCRIPTION",
+      "value": "find all friends of the BestFriends Mod!"
+    },
+	
+	
+	{
+      "key": "DonutProduction",
+      "value": "start a Donut Production!"
+    },
+    {
+      "key": "DonutProduction-DESCRIPTION",
+      "value": "crafting 100 Donuts sounds like a real Production or? Yummi..."
+    },
+	
+	
+	{
+      "key": "JointSharing",
+      "value": "share a joint with someone!"
+    },
+    {
+      "key": "JointSharing-DESCRIPTION",
+      "value": "Share a joint or get one as Present!"
+    },
+	
+	
+	{
+      "key": "BeLoyal",
+      "value": "be loyal to your friends!"
+    },
+    {
+      "key": "BeLoyal-DESCRIPTION",
+      "value": "try to make your best friends happy and finish tasks for them to get this reward!"
+    },
+	
+	
+	{
+      "key": "DonutFish",
+      "value": "Catch the Donut Fish!"
+    },
+    {
+      "key": "DonutFish-DESCRIPTION",
+      "value": "a freaky fish, catch it... how ever!\nYou need to deliver the Donut Fish (x2) to Kelly (Market) to get this Reward."
+    },
+	
+	
+	{
+      "key": "FoundXCoder",
+      "value": "find XCoder!"
+    },
+    {
+      "key": "FoundXCoder-DESCRIPTION",
+      "value": "find XCoder the Modder of BestFriends"
+    },
+	
+	
+	{
+      "key": "BigDealer",
+      "value": "be a big Dealer!"
+    },
+    {
+      "key": "BigDealer-DESCRIPTION",
+      "value": "be a good Green Business Man! Sell much Ganja to a Person that is called *Secret*! Err.."
+    },
+	
+	
+	{
+      "key": "GangBusiness",
+      "value": "Inside Gang Business"
+    },
+    {
+      "key": "GangBusiness-DESCRIPTION",
+      "value": "be within the Gang and do Jobs for them!"
+    },
+	
+	
+	{
+      "key": "ModernHomeless",
+      "value": "Modern Homeless"
+    },
+    {
+      "key": "ModernHomeless-DESCRIPTION",
+      "value": "be a modern Homeless!"
+    },
+	{
+      "key": "LuxuryHomeless",
+      "value": "Luxury Homeless"
+    },
+    {
+      "key": "LuxuryHomeless-DESCRIPTION",
+      "value": "learn how to be a luxury Homeless!"
+    },
+	
+	
+	{
+      "key": "PizzaProduction",
+      "value": "Pizza for ever!"
+    },
+    {
+      "key": "PizzaProduction-DESCRIPTION",
+      "value": "you are a real Italiano Pizza Cook!"
+    },
+	{
+      "key": "PizzaKing",
+      "value": "Pizza King"
+    },
+    {
+      "key": "PizzaKing-DESCRIPTION",
+      "value": "you are a real Italiano making Pizza like a crazy Horse!"
+    },
+	
+	
+	{
+      "key": "PopcornJunky",
+      "value": "Popcorn Junky"
+    },
+    {
+      "key": "PopcornJunky-DESCRIPTION",
+      "value": "you are a real Popcorn Junky!"
+    },
+	
+	
+	{
+      "key": "GraffitiSprayer",
+      "value": "Graffiti Sprayer"
+    },
+    {
+      "key": "GraffitiSprayer-DESCRIPTION",
+      "value": "be a mad Boy and spray a Graffitti!"
+    },
+	
+	
+	{
+      "key": "BoatDriver",
+      "value": "Boat Driver"
+    },
+    {
+      "key": "BoatDriver-DESCRIPTION",
+      "value": "find a Boat and use it!"
+    },
+	
+	
+	{
+      "key": "SellGanja",
+      "value": "sell Ganja"
+    },
+    {
+      "key": "SellGanja-DESCRIPTION",
+      "value": "sell a Ganja Baggie!"
+    },	
+	
+	{
+      "key": "SellCocaine",
+      "value": "sell Coca"
+    },
+    {
+      "key": "SellCocaine-DESCRIPTION",
+      "value": "sell Coca Baggie's!"
+    },
+	
+	{
+      "key": "SellEcstasy",
+      "value": "sell Ecstasy"
+    },
+    {
+      "key": "SellEcstasy-DESCRIPTION",
+      "value": "sell Ecstasy Baggie's!"
+    },
+	
+	{
+      "key": "DealerKing",
+      "value": "Dealer King!"
+    },
+    {
+      "key": "DealerKing-DESCRIPTION",
+      "value": "be the Hero of each Party!"
+    },
+	
+	{
+      "key": "BusinessMan",
+      "value": "Business Man"
+    },
+    {
+      "key": "BusinessMan-DESCRIPTION",
+      "value": "be a real Business man!"
+    },
+	
+	{
+      "key": "Styler",
+      "value": "have Style!"
+    },
+    {
+      "key": "Styler-DESCRIPTION",
+      "value": "dont show others that you are homeless.\nMake yourself great again!"
+    },
+	
+	{
+      "key": "ContractMaster",
+      "value": "Contract Master"
+    },
+    {
+      "key": "ContractMaster-DESCRIPTION",
+      "value": "get a Business Key and open all this Mailboxes, many times!"
+    }
+	
+	
+	
+  ]
+}

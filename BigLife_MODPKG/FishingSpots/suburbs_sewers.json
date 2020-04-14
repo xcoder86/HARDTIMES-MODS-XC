@@ -1,0 +1,12 @@
+{
+  "fishingSpotId": "suburbs_sewers",
+  "successPercentage": 25,
+  "minQuality": 0,
+  "maxQuality": 2,
+  "effectOnFish": "",
+  "achievementsOnCatch": "CatchFish",
+  "fishableIds": [
+	"Padulo",
+	"Donut_Fish"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "effectId": "cigarette_smoke_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 20,
+  "maxMinutesDuration": 720,
+  "effectIntervalMinutes": 0,
+  "lastEffectCheckMinutes": 0,
+  "effectPlaySound": "",
+  "antidoteStatModifier": "",
+  "isPassive": true,
+  "statModifiers": [
+    {
+      "statId": "playerStamina",
+      "statModifier": 20
+    }, 
+	{
+      "statId": "playerHunger",
+      "statModifier": +20
+    }, 
+	{
+      "statId": "playerClean",
+      "statModifier": -2
+    }, 
+	{
+      "statId": "playerSpeed",
+      "statModifier": +0.15
+    },
+	{
+      "statId": "playerHealth",
+      "statModifier": -6
+    }
+  ]
+}

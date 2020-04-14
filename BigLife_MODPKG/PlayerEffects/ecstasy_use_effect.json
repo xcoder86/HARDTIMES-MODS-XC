@@ -1,0 +1,34 @@
+{
+  "effectId": "ecstasy_use_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 180,
+  "maxMinutesDuration": 720,
+  "effectIntervalMinutes": 0,
+  "lastEffectCheckMinutes": 0,
+  "effectPlaySound": "",
+  "antidoteStatModifier": "",
+  "isPassive": true,
+  "statModifiers": [
+    {
+      "statId": "playerStamina",
+      "statModifier": 100
+    }, 
+	{
+      "statId": "playerHunger",
+      "statModifier": -50
+    }, 
+	{
+      "statId": "playerClean",
+      "statModifier": -50
+    }, 
+	{
+      "statId": "playerSpeed",
+      "statModifier": +4.0
+    },
+	{
+      "statId": "playerHealth",
+      "statModifier": -50
+    }
+  ]
+}

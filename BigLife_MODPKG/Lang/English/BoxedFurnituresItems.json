@@ -1,0 +1,239 @@
+{
+  "items": [
+	{
+	  "key": "BF-popcorncart_boxed",
+	  "value": "Popcorn Maschine"
+	},
+	{
+	  "key": "BF-popcorncart_boxed-DESCRIPTION",
+	  "value": "A Popcorn Maschine that can be used to make Popcorn!"
+	},
+	
+	
+	{
+	  "key": "donut_hoven_boxed",
+	  "value": "A Donut Hoven"
+	},
+	{
+	  "key": "donut_hoven_boxed-DESCRIPTION",
+	  "value": "A great Donut Hoven to start your own Donut Production!"
+	},
+	
+	
+	{
+	  "key": "home_phone_boxed",
+	  "value": "Home Phone"
+	},
+	{
+	  "key": "home_phone_boxed-DESCRIPTION",
+	  "value": "a Phone for your warm Home! (Indoor Only)"
+	},
+	
+	
+	{
+	  "key": "medium_container_boxed",
+	  "value": "Medium Storage"
+	},
+	{
+	  "key": "medium_container_boxed-DESCRIPTION",
+	  "value": "a medium sized Storage for your Stuff! (Indoor only)"
+	},
+	{
+	  "key": "large_container_boxed",
+	  "value": "Large Storage"
+	},
+	{
+	  "key": "large_container_boxed-DESCRIPTION",
+	  "value": "a large sized Storage for your Stuff! (Indoor only)"
+	},
+	{
+	  "key": "BF-Business_vault_boxed",
+	  "value": "Business Vault"
+	},
+	{
+	  "key": "BF-Business_vault_boxed-DESCRIPTION",
+	  "value": "a oversized Business Vault with 30 Slots!"
+	},
+	
+	
+	{
+	  "key": "workbench_advanced_boxed",
+	  "value": "Advanced Workbench"
+	},
+	{
+	  "key": "workbench_advanced_boxed-DESCRIPTION",
+	  "value": "a modern Workbench with special Recipes!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_fountain_boxed",
+	  "value": "Luxury Fountain"
+	},
+	{
+	  "key": "BF-Luxury_fountain_boxed-DESCRIPTION",
+	  "value": "a luxury Fountain for $$$ People!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_moneychestsculp_boxed",
+	  "value": "Luxury Chest"
+	},
+	{
+	  "key": "BF-Luxury_moneychestsculp_boxed-DESCRIPTION",
+	  "value": "a luxury Chest and Sculpture for rich People!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_bench_boxed",
+	  "value": "Luxury Bench"
+	},
+	{
+	  "key": "BF-Luxury_bench_boxed-DESCRIPTION",
+	  "value": "a luxury Bench for rich People!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_bed_boxed",
+	  "value": "Luxury Bed"
+	},
+	{
+	  "key": "BF-Luxury_bed_boxed-DESCRIPTION",
+	  "value": "a luxury Bed for rich People!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_glass_table_boxed",
+	  "value": "Luxury Glass Table"
+	},
+	{
+	  "key": "BF-Luxury_glass_table_boxed-DESCRIPTION",
+	  "value": "a luxury Glass Table!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_marmor_table_boxed",
+	  "value": "Luxury Marmor Table"
+	},
+	{
+	  "key": "BF-Luxury_marmor_table_boxed-DESCRIPTION",
+	  "value": "a luxury Marmor Table!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_fridge_boxed",
+	  "value": "Luxury Fridge"
+	},
+	{
+	  "key": "BF-Luxury_fridge_boxed-DESCRIPTION",
+	  "value": "a luxury Fridge to store Organics!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_christmasoven_boxed",
+	  "value": "Luxury Christmas Oven"
+	},
+	{
+	  "key": "BF-Luxury_christmasoven_boxed-DESCRIPTION",
+	  "value": "a luxury Christmas Oven!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_table_boxed",
+	  "value": "Modern Table"
+	},
+	{
+	  "key": "BF-Modern_table_boxed-DESCRIPTION",
+	  "value": "a modern Table!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_bed_boxed",
+	  "value": "Modern Bed"
+	},
+	{
+	  "key": "BF-Modern_bed_boxed-DESCRIPTION",
+	  "value": "a modern Bed!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_wallpicture_boxed",
+	  "value": "Modern Wall Picture"
+	},
+	{
+	  "key": "BF-Modern_wallpicture_boxed-DESCRIPTION",
+	  "value": "a modern Wall Picture!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_wallpicture2_boxed",
+	  "value": "Modern Wall Picture 2"
+	},
+	{
+	  "key": "BF-Modern_wallpicture2_boxed-DESCRIPTION",
+	  "value": "a Gang Wall Picture!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_wallpicture3_boxed",
+	  "value": "Modern Wall Picture 3"
+	},
+	{
+	  "key": "BF-Modern_wallpicture3_boxed-DESCRIPTION",
+	  "value": "a Grafitti Wall Picture!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_wallpicture4_boxed",
+	  "value": "Modern Wall Picture 4"
+	},
+	{
+	  "key": "BF-Modern_wallpicture4_boxed-DESCRIPTION",
+	  "value": "a Graffiti Wall Picture!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_pizzaoven_boxed",
+	  "value": "Modern Pizza Oven"
+	},
+	{
+	  "key": "BF-Modern_pizzaoven_boxed-DESCRIPTION",
+	  "value": "a Pizza Oven... yummi!"
+	},
+	
+	
+	{
+	  "key": "BF-Business_soundsystem_boxed",
+	  "value": "Business Soundsystem"
+	},
+	{
+	  "key": "BF-Business_soundsystem_boxed-DESCRIPTION",
+	  "value": "a Business Soundsystem with extreme good Sound! ;)"
+	},
+	
+	{
+	  "key": "z-trap_boxed",
+	  "value": "Z-Trap"
+	},
+	{
+	  "key": "z-trap_boxed-DESCRIPTION",
+	  "value": "a Trap to catch wild Animals to gain Meat!"
+	}
+	
+	
+  ]
+}

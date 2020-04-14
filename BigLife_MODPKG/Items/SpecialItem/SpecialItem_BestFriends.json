@@ -1,0 +1,175 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "SpecialItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "Bong",
+      "itemSpriteName": "bong.png",
+      "itemProxySprite": "bong.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Special_Delivery",
+      "itemSpriteName": "special_delivery.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 2,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Special_Delivery_Dealer",
+      "itemSpriteName": "special_delivery_dealer.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 6,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Birthday_invitation_card",
+      "itemSpriteName": "Birthday_invitation_card.png",
+      "itemProxySprite": "Birthday_invitation_card.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Birthday_Cake",
+      "itemSpriteName": "birthdaycake.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "coca_leaves",
+      "itemSpriteName": "coca_leaves.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "tobacco_leaves",
+      "itemSpriteName": "tobacco_leaves.png",
+      "itemProxySprite": "tobacco_leaves.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Chemicals",
+      "itemSpriteName": "chemicals.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "ecstasy_paste",
+      "itemSpriteName": "ecstasy_paste.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "baggie_empty",
+      "itemSpriteName": "baggie_empty.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "baggie_ganja",
+      "itemSpriteName": "baggie_ganja.png",
+      "itemProxySprite": "baggie_ganja.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "baggie_cocaine",
+      "itemSpriteName": "baggie_cocaine.png",
+      "itemProxySprite": "baggie_cocaine.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "baggie_ecstasy",
+      "itemSpriteName": "baggie_ecstasy.png",
+      "itemProxySprite": "baggie_ecstasy.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+
+	{
+      "itemRootPath": "",
+      "itemId": "cigarette_filter",
+      "itemSpriteName": "cigarette_filter.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 200,
+      "effectModifiers": []
+    },
+
+	{
+      "itemRootPath": "",
+      "itemId": "business_contracts",
+      "itemSpriteName": "business_contracts.png",
+      "itemProxySprite": "business_contracts.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 100,
+      "effectModifiers": []
+    }	
+	
+	
+	
+  ]
+}

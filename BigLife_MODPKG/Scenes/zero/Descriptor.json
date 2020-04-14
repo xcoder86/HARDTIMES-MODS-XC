@@ -1,0 +1,21 @@
+{
+  "sceneId": "zero",
+  "sceneDirectory": {},
+  "doOverwriteBaseproperties": false,
+  "pavementSpriteName": "",
+  "objects": [ ],
+  "doors": [ ],
+  "shops": [ {
+  "modShopId": "Business Mailbox",
+  "shopInteractableDistance": 2,
+  "modShopPositionX": -14.00,
+  "modShopPositionY": -5.7,
+  "shopColliderWidth": 1,
+  "shopColliderHeight": 1,
+  "shopColliderTrigger": false,
+  "shopColliderOffsetX": 0,
+  "shopColliderOffsetY": 0,
+  "modShopRotation": 0
+}],
+  "spawners": [ ]
+}

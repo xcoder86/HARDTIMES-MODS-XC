@@ -1,0 +1,50 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "CorpseItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "Bones",
+      "itemSpriteName": "bones.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": [],
+	  "extras":[]
+    },
+	 {
+      "itemRootPath": "",
+      "itemId": "CatPetNpcManager-REMAINS",
+      "itemSpriteName": "bones.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": [],
+	  "extras":[]
+    },
+	 {
+      "itemRootPath": "",
+      "itemId": "DogPetNpcManager-REMAINS",
+      "itemSpriteName": "bones.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": [],
+	  "extras":[]
+    },
+	 {
+      "itemRootPath": "",
+      "itemId": "RatPetNpcManager-REMAINS",
+      "itemSpriteName": "bones.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": [],
+	  "extras":[]
+    }
+  ]
+}

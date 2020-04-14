@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-sergio_quest_06",
+      "value": "Time for Business with Sergio (1/2)"
+    },
+    {
+      "key": "bestfriend-sergio_quest_06-TASK-DESCRIPTION",
+      "value": "its time for real Business my friend!"
+    },
+    {
+      "key": "bestfriend-sergio_quest_06_start_dialogue-DESCRIPTION",
+      "value": "nice to see you again Bro!\n\nNow that you have a lot of experience, it's time for business!\nI will help you build your own grow business.\nTake the following things you will need:\n1x Civilsation plot\n5x Cannabis Seed\n\nYou also need Fertilizer, you can buy it!\nI'll give you Little Chemical People (book) later."
+    },
+	{
+      "key": "bestfriend-sergio_quest_06_start_dialogue_btnA",
+      "value": "wait, i need to check my Inventory first!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_06_start_dialogue_btnB",
+      "value": "Great, i have two free Slots inside my Inventory!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_06_ok_dialogue-DESCRIPTION",
+      "value": "Welcome to the world of growing!\n\nYou can also grow other things but the cannabis seeds will of course bring you the most money in the end. Get Fertilizer and start your first try.\n\nAs soon as you have success come to me with the final product!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_06_ok_dialogue_btnA",
+      "value": "sounds great, see you soon!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_06_ok_dialogue_btnB",
+      "value": "sounds illegal, may i dont come back!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_06_ok_dialogue_btnC",
+      "value": "what a freakin game.."
+    }	
+  ]
+}

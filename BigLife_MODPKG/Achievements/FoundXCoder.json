@@ -1,0 +1,6 @@
+{
+  "achievementId": "FoundXCoder",
+  "numberToUnlock": 1,
+  "voidSpriteName": "xcoder_locked.png",
+  "fullSpriteName": "xcoder_unlocked.png"
+}

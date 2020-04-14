@@ -1,0 +1,30 @@
+{
+  "effectId": "sewers_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 0,
+  /*"maxMinutesDuration": 0,*/
+  "effectIntervalMinutes": 30,
+  "lastEffectCheckMinutes": 0,
+  "effectPlaySound": "",
+  "antidoteStatModifier": "",
+  "isPassive": false,
+  "statModifiers": [
+    {
+      "statId": "playerClean",
+      "statModifier": +1
+    },
+	{
+	  "key": "isDisposable",
+	  "intValue": 1
+	},
+	{
+      "statId": "playerHealth",
+      "statModifier": +1
+    },
+	{
+	  "statId": "playerStamina",
+      "statModifier": +1
+    }
+  ]
+}

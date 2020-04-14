@@ -1,0 +1,29 @@
+{
+  "effectId": "firebin_proximity_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 0,
+  "effectIntervalMinutes": 0,
+  "lastEffectCheckMinutes": 0,
+  "effectPlaySound": "",
+  "antidoteStatModifier": "",
+  "isPassive": true,
+  "statModifiers": [
+    {
+      "statId": "playerTemperature",
+      "statModifier": 10
+    }, 
+	{
+      "statId": "playerScandal",
+      "statModifier": +10
+    },
+	{
+      "statId": "playerStamina",
+      "statModifier": +10
+    },
+	{
+      "statId": "playerClean",
+      "statModifier": -2
+    }
+  ]
+}

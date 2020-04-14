@@ -1,0 +1,6 @@
+{
+  "achievementId": "GangBusiness",
+  "numberToUnlock": 20,
+  "voidSpriteName": "gangbusiness_locked.png",
+  "fullSpriteName": "gangbusiness_unlocked.png"
+}

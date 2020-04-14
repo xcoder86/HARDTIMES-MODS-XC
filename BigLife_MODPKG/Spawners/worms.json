@@ -1,0 +1,45 @@
+{
+  "spawnerId": "worms_spawner",
+  "fullSpriteName": "worms_spawner_full.png",
+  "emptySpriteName": "worms_spawner_empty.png",  
+  "spawnerUseSound": "inventory",
+  "spawnerUseEffect": "thrash_searching_effect",
+  "cooldownMinutes": 1500,
+  "spawnerUsageDuration": 3,
+  "minItemsSpawnable": 3,
+  "maxItemsSpawnable": 8,
+  "spawnRadius": 3.5,
+  "interactableDistance": 1.5,	
+  "spawnerRequiredObject": "mattock",
+  "fixedPosition": true,
+  "isObstructing": false,
+  "activeWhenEmpty": false,
+  "spawnableItems": [
+    {
+      "itemId": "earthworm",
+      "itemType": "BaseItem",
+      "minQuality": 1,
+      "maxQuality": 3
+    },
+	{
+      "itemId": "Dirt",
+      "itemType": "BaseItem",
+      "minQuality": 1,
+      "maxQuality": 3
+    },
+	{
+      "itemId": "Stone",
+      "itemType": "BaseItem",
+      "minQuality": 1,
+      "maxQuality": 3
+    },
+	{
+      "itemId": "Obsidian",
+      "itemType": "BaseItem",
+      "minQuality": 1,
+      "maxQuality": 3
+    }
+	
+	
+  ]
+}

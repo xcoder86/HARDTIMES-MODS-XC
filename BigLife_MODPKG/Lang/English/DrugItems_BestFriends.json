@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "key": "Cocaine",
+      "value": "Cocaine Powder"
+    },
+    {
+      "key": "Cocaine-DESCRIPTION",
+      "value": "Cocaine Powder! WTF?!\nThat must be illegal!\nestimated value: € 100"
+    },
+	
+	
+	{
+      "key": "Ecstasy",
+      "value": "Ecstasy Pill"
+    },
+	{
+      "key": "Ecstasy-DESCRIPTION",
+      "value": "a Ecstasy Pill!\nThat must be illegal!\nestimated value: € 10"
+    }
+	
+	
+  ]
+}

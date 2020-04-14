@@ -1,0 +1,49 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-romana_quest_05",
+  "questSpriteName": "bestfriend_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-romana_quest_05_start_dialogue",
+  "okQuestDialogueId": "bestfriend-romana_quest_05_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-romana_quest_05_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "Birthday_invitation_card",
+	  "questItemType": "SpecialItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-romana_quest_05_start_dialogue",
+	  "questDialogueTitle": "Romana's missing friend (1/2)",
+	  "buttonAText": "bestfriend-romana_quest_05_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-romana_quest_05_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-romana_quest_05_ok_dialogue",
+	  "questDialogueTitle": "Romana's missing friend (1/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-romana_quest_05_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

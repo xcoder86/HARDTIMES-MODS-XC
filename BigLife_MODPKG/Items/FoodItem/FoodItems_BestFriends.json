@@ -1,0 +1,113 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "FoodItem",
+  "items": [	
+	{
+	  "itemId": "Donut",
+	  "itemSpriteName": "donut.png",
+	  "itemExpiration": 0,
+	  "maxStackable": 10,
+	  "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft",
+	  "effectModifiers": [
+		{
+		  "statId": "playerHealth",
+		  "statModifier": 20
+		},
+		{
+		  "statId": "playerHunger",
+		  "statModifier": 30
+		},
+		 {
+		  "statId": "playerStamina",
+		  "statModifier": 25
+		},
+		{
+		  "statId": "playerBowels",
+		  "statModifier": -10
+		}
+	  ]
+	},
+	
+	{
+	  "itemId": "Pizza Piece",
+	  "itemSpriteName": "pizza_small.png",
+	  "itemExpiration": 56000,
+	  "maxStackable": 8,
+	  "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft,PizzaKing",
+	  "effectModifiers": [
+		{
+		  "statId": "playerHealth",
+		  "statModifier": 40
+		},
+		{
+		  "statId": "playerHunger",
+		  "statModifier": 50
+		},
+		 {
+		  "statId": "playerStamina",
+		  "statModifier": 30
+		},
+		{
+		  "statId": "playerBowels",
+		  "statModifier": -15
+		}
+	  ]
+	},
+	{
+	  "itemId": "Pizza",
+	  "itemSpriteName": "pizza_full.png",
+	  "itemExpiration": 0,
+	  "maxStackable": 4,
+	  "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft,PizzaKing",
+	  "effectModifiers": [
+		{
+		  "statId": "playerHealth",
+		  "statModifier": 100
+		},
+		{
+		  "statId": "playerHunger",
+		  "statModifier": 100
+		},
+		 {
+		  "statId": "playerStamina",
+		  "statModifier": 100
+		},
+		{
+		  "statId": "playerBowels",
+		  "statModifier": -25
+		}
+	  ]
+	},
+	{
+	  "itemId": "Popcorn",
+	  "itemSpriteName": "popcorn.png",
+	  "itemExpiration": 0,
+	  "maxStackable": 5,
+	  "itemEffectOnUse": "food_eat_effect",
+	  "achievementsOnCraft": "MealCraft,PopcornJunky",
+	  "effectModifiers": [
+		{
+		  "statId": "playerHunger",
+		  "statModifier": 35
+		},
+		 {
+		  "statId": "playerStamina",
+		  "statModifier": 25
+		},
+		{
+		  "statId": "playerBowels",
+		  "statModifier": -5
+		}
+	  ]
+	}
+	
+	
+	
+	
+	  ]
+	}
+  ]
+}

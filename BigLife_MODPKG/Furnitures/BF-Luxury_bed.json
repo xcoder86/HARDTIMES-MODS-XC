@@ -1,0 +1,45 @@
+{
+  "furnitureId": "BF-Luxury_bed",
+  "furnitureType": "SleepingStationFurniture",
+  "boxedItemAncestorName": "BF-Luxury_bed_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Luxury_bed.png",
+  "furnitureColliderRadius": 0.5,
+  "isPackable": true,  
+  "freezePosition": true,
+  
+  "widgetLabelSx": "SLEEP",
+  "widgetIconIndexSx": 48,
+  "widgetLabelDx": ":|:DISABLED:|:",
+  
+  "achievementsOnUse": "SleepBed",
+  "mass": 20,
+  "positionRestrictions": ["outdoor"],
+  "extras": [
+    {
+      "key": "sleepingPositionDeltaX",
+      "floatValue": 0.05
+    },
+    {
+      "key": "sleepingPositionDeltaY",
+      "floatValue": 0.0
+    },
+    {
+      "key": "sleepingPositionRotation",
+      "floatValue": 90
+    },
+    {
+      "key": "comfortValue",
+      "floatValue": 4.0
+    },
+	{
+      "key": "showHead",
+      "intValue": 1
+    },
+	{
+      "key": "showBody",
+      "intValue": 1
+    }
+  ]
+}

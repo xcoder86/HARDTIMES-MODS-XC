@@ -1,0 +1,41 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "SeedItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "cocaine_seed",
+      "itemSpriteName": "cocaine_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "cocaine_crop"
+		}
+	  ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "tobacco_seed",
+      "itemSpriteName": "tobacco_seed.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": [],
+	  "extras":[
+		{
+			"key":"linkedCrop",
+			"stringValue": "tobacco_crop"
+		}
+	  ]
+    }
+	
+	
+  ]
+}

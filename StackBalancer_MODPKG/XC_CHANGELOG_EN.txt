@@ -1,0 +1,40 @@
+**********************************
+****** STACK BALANCER SYSTEM *****
+**********************************
+******    by XCoder 2020    ****** 
+**********************************
+
+Below the changelog of this mod.
+Changes are always added with the date.
+
+##################################
+# 09.04.2020 | Mod Version: 1.1  #
+##################################
+
+- Food Items > balanced
+
+
+##################################
+# 05.04.2020 | Mod Version: 1.0  #
+##################################
+
+1.) The following item types were balanced (stack limits & expiration date)
+- Base items
+- Cleaning items
+- Container items
+- Corpse items
+- Drug items
+- Food items
+- Hint giver items
+- Medical items
+- Seed items
+- Special items
+- Wallet items
+
+
+
+
+
+---------------------
+by xcoder 2020
+

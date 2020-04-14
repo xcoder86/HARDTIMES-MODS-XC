@@ -1,0 +1,75 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-michael_quest_06",
+  "questSpriteName": "gangbusiness_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-michael_quest_06_start_dialogue",
+  "okQuestDialogueId": "bestfriend-michael_quest_06_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-michael_quest_06_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "GangBusiness",
+"rewards": [
+	{
+	  "questItemId": "Special_Delivery",
+	  "questItemType": "SpecialItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 6
+	},
+	{
+	  "questItemId": "brewery_boxed",
+	  "questItemType": "BoxedFurnituresItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Bong",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-michael_quest_06_start_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (2/2)",
+	  "buttonAText": "bestfriend-michael_quest_06_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-michael_quest_06_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_06_ok_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (2/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_06_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_06_ko_dialogue",
+	  "questDialogueTitle": "Michael and the Gang (2/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_06_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

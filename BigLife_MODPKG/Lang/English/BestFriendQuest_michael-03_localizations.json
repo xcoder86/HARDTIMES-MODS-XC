@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-michael_quest_03",
+      "value": "Michael is lost (3/3)"
+    },
+    {
+      "key": "bestfriend-michael_quest_03-TASK-DESCRIPTION",
+      "value": "Michael got lost at the Center!"
+    },
+    {
+      "key": "bestfriend-michael_quest_03_start_dialogue-DESCRIPTION",
+      "value": "Nice to see you again my friend!\nThese guys who run here are really aggro!\nI need something to heal and Donuts to bribe the bad boys.\n\nMichael need:\n1x First Aid\n1x Crutch\n5x Donut\n\nthen maybe I can finally get out of here and build my hiding place!"
+    },
+	{
+      "key": "bestfriend-michael_quest_03_start_dialogue_btnA",
+      "value": "i have the Medical Stuff with me, take it!"
+    },
+	{
+      "key": "bestfriend-michael_quest_03_start_dialogue_btnB",
+      "value": "i will come back as fast as possible!"
+    },
+	{
+      "key": "bestfriend-michael_quest_03_ok_dialogue-DESCRIPTION",
+      "value": "Thank you very much!\nNow I can bribe the boys and maybe continue building undisturbed at my hiding place. Do you already have a good bed?\n\nMichael give you:\n1x Simple Bed (boxed)\n2x filled Wallet\n\nI hope we'll see each other again soon!"
+    },
+	{
+      "key": "bestfriend-michael_quest_03_ok_dialogue_btnC",
+      "value": "Cool! Will be back soon.."
+    },
+	{
+      "key": "bestfriend-michael_quest_03_ko_dialogue-DESCRIPTION",
+      "value": "Sorry but I need these things!\nI can't continue without these things.\n\nCome back when you have them .."
+    },
+	{
+      "key": "bestfriend-michael_quest_03_ko_dialogue_btnC",
+      "value": "Err.. ill do my best!"
+    }
+	
+  ]
+}

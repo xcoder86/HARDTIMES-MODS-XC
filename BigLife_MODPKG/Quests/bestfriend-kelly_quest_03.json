@@ -1,0 +1,75 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-kelly_quest_03",
+  "questSpriteName": "fishing_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-kelly_quest_03_start_dialogue",
+  "okQuestDialogueId": "bestfriend-kelly_quest_03_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-kelly_quest_03_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "DonutFish",
+"rewards": [
+	{
+	  "questItemId": "earthworm",
+	  "questItemType": "BaseItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 5
+	},
+	{
+	  "questItemId": "wallet",
+	  "questItemType": "WalletItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 2
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Donut_Fish",
+	  "questItemType": "FishItem",
+	  "questItemAmount": 2,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-kelly_quest_03_start_dialogue",
+	  "questDialogueTitle": "Special Fish Delivery!",
+	  "buttonAText": "bestfriend-kelly_quest_03_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-kelly_quest_03_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-kelly_quest_03_ok_dialogue",
+	  "questDialogueTitle": "Special Fish Delivery!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-kelly_quest_03_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-kelly_quest_03_ko_dialogue",
+	  "questDialogueTitle": "Special Fish Delivery!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-kelly_quest_03_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

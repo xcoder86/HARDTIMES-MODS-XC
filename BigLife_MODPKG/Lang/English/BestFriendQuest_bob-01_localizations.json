@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-bob_quest_01",
+      "value": "Bob wants a friend and needs help!"
+    },
+    {
+      "key": "bestfriend-bob_quest_01-TASK-DESCRIPTION",
+      "value": "You can be my friend and i will help you in the future!"
+    },
+    {
+      "key": "bestfriend-bob_quest_01_start_dialogue-DESCRIPTION",
+      "value": "Hello my Name is Bob,\nwould you like to be my best friend?\nSince i lost my job and wife, i am looking for people i can trust.\nI also would help you survive if you could bring me:\n\n3x Fortune Cookie\n\nIt should only serve as a symbolic sign of friendship! * clears throat *"
+    },
+	{
+      "key": "bestfriend-bob_quest_01_start_dialogue_btnA",
+      "value": "Really? Don't you just want to rob me?"
+    },
+	{
+      "key": "bestfriend-bob_quest_01_start_dialogue_btnB",
+      "value": "Okay, lets be friends..."
+    },
+	{
+      "key": "bestfriend-bob_quest_01_start_dialogue_btnC",
+      "value": "Mhhh... maybe later Bob!"
+    },
+	{
+      "key": "bestfriend-bob_quest_01_dialogue2-DESCRIPTION",
+      "value": "Why should I do that?\n\nI would never steal from you, I bet my last pubic hair!"
+    },
+	{
+      "key": "bestfriend-bob_quest_01_dialogue2_btnB",
+      "value": "ok, well i hope so ... where did we stop?"
+    },
+	{
+      "key": "bestfriend-bob_quest_01_dialogue2_btnC",
+      "value": "I do not trust you! I prefer to go on ..."
+    },
+	{
+      "key": "bestfriend-bob_quest_01_ok_dialogue-DESCRIPTION",
+      "value": "I see you have heart and mind!\nTake these items and take care of yourself...\n\nCheck back soon so that our friendship will last.\nMaybe I will also find great things for you!\n\nYou got: 1x A man of the streets (Vol.1), 1x Vegetable Soup"
+    },
+	{
+      "key": "bestfriend-bob_quest_01_ok_dialogue_btnC",
+      "value": "thank you buddy! see ya soon..."
+    },
+	{
+      "key": "bestfriend-bob_quest_01_ko_dialogue-DESCRIPTION",
+      "value": "You dont have 3x Fortune Cookie with you!\nplease come back as soon you got them...\n\nIt should only serve as a symbolic sign of friendship! * clears throat *"
+    },
+	{
+      "key": "bestfriend-bob_quest_01_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}

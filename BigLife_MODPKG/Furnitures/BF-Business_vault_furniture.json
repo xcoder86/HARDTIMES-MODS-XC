@@ -1,0 +1,25 @@
+{
+  "furnitureId": "BF-Business_vault",
+  "furnitureType": "ContainerFurniture",
+  "boxedItemAncestorName": "BF-Business_vault_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Business_vault.png",
+  "furnitureColliderRadius": 0.3,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "achievementsOnUse": "BusinessMan",
+  "mass": 50,
+  "positionRestrictions": [],
+  "extras": [
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+	{
+      "key": "slotsNum",
+      "intValue": 30
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-romana_quest_02",
+  "questSpriteName": "birthday_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-romana_quest_02_start_dialogue",
+  "okQuestDialogueId": "bestfriend-romana_quest_02_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-romana_quest_02_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "A Practical Man, Vol.2",
+	  "questItemType": "BookItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "simple_tub_boxed",
+	  "questItemType": "BoxedFurnituresItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "sewing_table_boxed",
+	  "questItemType": "BoxedFurnituresItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "food_coffee",
+	  "questItemType": "FoodItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "food_tea",
+	  "questItemType": "FoodItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "Donut",
+	  "questItemType": "FoodItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-romana_quest_02_start_dialogue",
+	  "questDialogueTitle": "Romana need Help (1/3)",
+	  "buttonAText": "bestfriend-romana_quest_02_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-romana_quest_02_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-romana_quest_02_ok_dialogue",
+	  "questDialogueTitle": "Romana need Help (1/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-romana_quest_02_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-romana_quest_02_ko_dialogue",
+	  "questDialogueTitle": "Romana need Help (1/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-romana_quest_02_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-sergio_quest_01",
+      "value": "a Present for Bob (1/2)"
+    },
+    {
+      "key": "bestfriend-sergio_quest_01-TASK-DESCRIPTION",
+      "value": "You can be my friend if you help me and deliver Bob the Present..."
+    },
+    {
+      "key": "bestfriend-sergio_quest_01_start_dialogue-DESCRIPTION",
+      "value": "Hey i am Sergio!\nWould you help me deliver a present?\nIt is for Bob and he is in the first city! (Suburbs)\n\nHe will ask you for it, dont lose it...\nI will not give you any more tasks if you fail with this!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_01_start_dialogue_btnA",
+      "value": "i dont know Bob, how can i find him?"
+    },
+	{
+      "key": "bestfriend-sergio_quest_01_start_dialogue_btnB",
+      "value": "yes, i'll bring the Present to Bob!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_01_start_dialogue_btnC",
+      "value": "i am busy, maybe later Sergio!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_01_dialogue2-DESCRIPTION",
+      "value": "You can find him at the City you started at. (Suburbs)\nIf Bob is not your friend yet, you will need to do a few tasks for him!\n\nDefinitely keep the Bong safe and deliver it!\nIf you do not deliver it correctly, i will not give you any new tasks!\n\nNOTE:\nget sure you have at least 1 free Slot inside your Inventory!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_01_dialogue2_btnB",
+      "value": "ok, may i will do it for you!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_01_dialogue2_btnC",
+      "value": "i am not interested... bye!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_01_ok_dialogue-DESCRIPTION",
+      "value": "You are a great Person!\nHere is the Bong for Bob...\n\nIf you brought it over, he will give you something for me.\nBring me the Special Delivery of Bob and we're definitely friends!\n\nYou got: 1x Bong"
+    },
+	{
+      "key": "bestfriend-sergio_quest_01_ok_dialogue_btnC",
+      "value": "Roger! see ya soon..."
+    }
+	
+  ]
+}

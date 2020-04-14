@@ -1,0 +1,38 @@
+{
+  "effectId": "joint_smoke_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 120,
+  "maxMinutesDuration": 720,
+  "effectIntervalMinutes": 0,
+  "lastEffectCheckMinutes": 0,
+  "effectPlaySound": "",
+  "antidoteStatModifier": "",
+  "isPassive": true,
+  "statModifiers": [
+	{
+      "statId": "playerHealth",
+      "statModifier": +20
+    }, 
+    {
+      "statId": "playerClean",
+      "statModifier": -5
+    }, 
+	{
+      "statId": "playerSpeed",
+      "statModifier": -0.10
+    },
+	{
+      "statId": "craftingSpeed",
+      "statModifier": +15
+    },
+	{
+      "statId": "craftingQuality",
+      "statModifier": +5
+    }, 
+	{
+      "statId": "playerStamina",
+      "statModifier": 30
+    }
+  ]
+}

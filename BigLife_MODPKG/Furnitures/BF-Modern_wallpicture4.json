@@ -1,0 +1,16 @@
+{
+  "furnitureId": "BF-Modern_wallpicture4",
+  "furnitureType": "DescriptionFurniture",
+  "boxedItemAncestorName": "BF-Modern_wallpicture4_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Modern_wallpicture4.png",
+  "furnitureColliderRadius": 0.2,
+  "isPackable": true,
+  "freezePosition": true,
+  "furnitureUiPanelName": "FurnitureDescriptionPanel",
+  "achievementsOnUse": "GraffitiSprayer",
+  "mass": 0,
+  "positionRestrictions": [],
+  "extras": []
+}

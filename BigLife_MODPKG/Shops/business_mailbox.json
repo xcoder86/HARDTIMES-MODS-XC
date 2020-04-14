@@ -1,0 +1,27 @@
+{
+  "shopId": "Business Mailbox",
+  "shopSpriteName": "business_mailbox.png",
+  "shopType": "Shop",
+  "openHour": 23,
+  "openMinute": 59,
+  "closeHour": 00,
+  "closeMinute": 00,
+  "refillIntervalMins": 60,
+  "robberyDuration": 10,
+  "robberyRecoveryMins": 500,
+  "effectNeededToRob": "business_key_effect",
+  "robberyEffect": "business_mailbox_effect",
+  "shopMinItemsDropOnRob": 5,
+  "shopMaxItemsDropOnRob": 5,
+  "shoppables": [
+    {
+      "itemId": "business_contracts",
+      "itemType": "SpecialItem",
+      "price": 1000,
+      "minQuality": 4,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 5
+    }	
+  ]
+}

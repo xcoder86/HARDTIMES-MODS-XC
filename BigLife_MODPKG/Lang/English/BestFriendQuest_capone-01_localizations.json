@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-capone_quest_01",
+      "value": "Ci conosciamo?"
+    },
+    {
+      "key": "bestfriend-capone_quest_01-TASK-DESCRIPTION",
+      "value": "Ci conosciamo? / Do we know us?"
+    },
+    {
+      "key": "bestfriend-capone_quest_01_start_dialogue-DESCRIPTION",
+      "value": "Mi chiamo Capone!,\noh ... you don't speak italian?\nNo problem, I also speak English!\n\nWho are you? I've never seen you here before!\nI'm the Dealer Boss of this Gang. Would you like to work for me? If yes, get sure you have at least one free Slot within your Inventory!"
+    },
+	{
+      "key": "bestfriend-capone_quest_01_start_dialogue_btnA",
+      "value": "I'm new to the gang, tell me more ..."
+    },
+	{
+      "key": "bestfriend-capone_quest_01_start_dialogue_btnB",
+      "value": "Of course, I love dirty Jobs!"
+    },
+	{
+      "key": "bestfriend-capone_quest_01_start_dialogue_btnC",
+      "value": "Mhhh.. maybe later Capone!"
+    },
+	{
+      "key": "bestfriend-capone_quest_01_dialogue2-DESCRIPTION",
+      "value": "Welcome in the Family,\nwith us everything is different than up there.\n\nIf you want to survive here you have to help your Gang Members and make sure they are always well kept.\n\nIn the beginning you can help get Drugs, in time I will teach you how to make different Substances! After that you can also do other Business."
+    },
+	{
+      "key": "bestfriend-capone_quest_01_dialogue2_btnB",
+      "value": "sounds good, where did we stop?"
+    },
+	{
+      "key": "bestfriend-capone_quest_01_dialogue2_btnC",
+      "value": "Err.. i will come back later!"
+    },
+	{
+      "key": "bestfriend-capone_quest_01_ok_dialogue-DESCRIPTION",
+      "value": "Excellent!\n\nYour first order is already waiting for you.\nPlease visit Romana at the small Town by the Sea.\nShe ordered a package of fun from us!\n\nWhen you have delivered the package, come back to me! I took € 100 from you, Romana will pay you € 200 and € 100 are for you!"
+    },
+	{
+      "key": "bestfriend-capone_quest_01_ok_dialogue_btnC",
+      "value": "Roger, will do!"
+    },
+	{
+      "key": "bestfriend-capone_quest_01_ko_dialogue-DESCRIPTION",
+      "value": "Stop!\n\nI can't just give you the package.\nCome back when you have a deposit of € 100.\n\nYou will get the money back after completing the order!"
+    },
+	{
+      "key": "bestfriend-capone_quest_01_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "achievementId": "PizzaProduction",
+  "numberToUnlock": 1,
+  "voidSpriteName": "pizza_production_locked.png",
+  "fullSpriteName": "pizza_production_unlocked.png"
+}

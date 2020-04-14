@@ -1,0 +1,89 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "SpecialItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "begging_sign",
+      "itemSpriteName": "begging_sign.png",
+      "itemProxySprite": "begging_sign.png",
+      "itemEffectOnEquip": "begging_sign_effect",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "shit",
+      "itemSpriteName": "shit.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 43800,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "plant_fibers",
+      "itemSpriteName": "plant_fibers.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "bombafert",
+      "itemSpriteName": "bombafert.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+	  "achievementsOnCraft": "FertilizersCraft",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "bioswift",
+      "itemSpriteName": "bioswift.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+	  "achievementsOnCraft": "FertilizersCraft",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "supercrop",
+      "itemSpriteName": "supercrop.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+	  "achievementsOnCraft": "FertilizersCraft",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Ganja",
+      "itemSpriteName": "ganja.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Church Ticket",
+      "itemSpriteName": "church_ticket.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    }
+  ]
+}

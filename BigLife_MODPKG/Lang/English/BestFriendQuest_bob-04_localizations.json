@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-bob_quest_04",
+      "value": "Friendship Project: Donut Production"
+    },
+    {
+      "key": "bestfriend-bob_quest_04-TASK-DESCRIPTION",
+      "value": "I can learn you how to craft a Donut Hoven!"
+    },
+    {
+      "key": "bestfriend-bob_quest_04_start_dialogue-DESCRIPTION",
+      "value": "Are you ready for our donut project?\nI want to start as soon as possible!\n\nHowever, we need the following:\n2x Plastic Scrap\n2x Metal Scrap\n\nGet sure you have 3 free Slots for your Gifts!\nAs soon as you have these things in your inventory come back to me..."
+    },
+	{
+      "key": "bestfriend-bob_quest_04_start_dialogue_btnA",
+      "value": "where can i find these materials?"
+    },
+	{
+      "key": "bestfriend-bob_quest_04_start_dialogue_btnB",
+      "value": "Sure Bro, i have the Items with me..."
+    },
+	{
+      "key": "bestfriend-bob_quest_04_start_dialogue_btnC",
+      "value": "i am busy, i will come back later!"
+    },
+	{
+      "key": "bestfriend-bob_quest_04_dialogue2-DESCRIPTION",
+      "value": "It's best to search the bins.\nHowever, you can also buy this things.\nI don't know where to buy them!"
+    },
+	{
+      "key": "bestfriend-bob_quest_04_dialogue2_btnB",
+      "value": "Ok, i think i have the Items with me"
+    },
+	{
+      "key": "bestfriend-bob_quest_04_dialogue2_btnC",
+      "value": "Roger... i will come back!"
+    },
+	{
+      "key": "bestfriend-bob_quest_04_ok_dialogue-DESCRIPTION",
+      "value": "Excellent!\n\nNow I can finally build my printer to print a book for the donut Hoven.\nBy the way you also got a Hoven and a Donut!\n\nSo now I have to continue ...\nvisit me if you want another task!\n\nYou got: 1x Donut, 1x Donut Hoven Book, 1x Donut Hoven"
+    },
+	{
+      "key": "bestfriend-bob_quest_04_ok_dialogue_btnC",
+      "value": "Yeh Bro! Will do and thanks for the Book!"
+    },
+	{
+      "key": "bestfriend-bob_quest_04_ko_dialogue-DESCRIPTION",
+      "value": "You dont have the Materials with you!\nplease come back as soon you got them..."
+    },
+	{
+      "key": "bestfriend-bob_quest_04_ko_dialogue_btnC",
+      "value": "Arr... i'll get them quickly"
+    }
+	
+  ]
+}

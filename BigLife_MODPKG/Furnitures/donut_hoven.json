@@ -1,0 +1,36 @@
+{
+  "furnitureId": "Donut Hoven",
+  "furnitureType": "CraftingStationFurniture",
+  "boxedItemAncestorName": "donut_hoven_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "donut_hoven.png",
+  "furnitureColliderRadius": 0.2,
+  "isPackable": true,
+  "freezePosition": true,  
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": [],
+  "extras": [
+	{
+	  "key": "recipesCollection",
+	  "stringValue": "DonutHovenRecipes"
+	},
+	{
+	  "key": "panelTitle",
+	  "stringValue": "Base Donut Hoven"
+	},
+	{
+	  "key": "panelDescription",
+	  "stringValue": "Base Donut Hoven Description"
+	},
+	{
+	  "key": "craftingPaletteModule",
+	  "stringValue": "FloatingCraftingPanel"
+	},
+	{
+	  "key": "craftingSound",
+	  "stringValue": "cooking"
+	}
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "achievementId": "DonutProduction",
+  "numberToUnlock": 100,
+  "voidSpriteName": "donut_production_locked.png",
+  "fullSpriteName": "donut_production_unlocked.png"
+}

@@ -1,0 +1,79 @@
+{
+  "shopId": "Salty Fish",
+  "shopSpriteName": "kiosk.png",
+  "shopType": "Shop",
+  "openHour": 07
+  "openMinute": 00,
+  "closeHour": 22,
+  "closeMinute": 00,
+  "refillIntervalMins": 30,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "greenbo",
+      "itemType": "FishItem",
+      "price": 7.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+	{
+      "itemId": "purploid",
+      "itemType": "FishItem",
+      "price": 9.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+	{
+      "itemId": "flattula",
+      "itemType": "FishItem",
+      "price": 13,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+	{
+      "itemId": "Blowfish",
+      "itemType": "FishItem",
+      "price": 19.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+	{
+      "itemId": "Codfish",
+      "itemType": "FishItem",
+      "price": 10.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+	{
+      "itemId": "purploid",
+      "itemType": "FishItem",
+      "price": 9.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+	{
+      "itemId": "Padulo",
+      "itemType": "FishItem",
+      "price": 17.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    }
+  ]
+}

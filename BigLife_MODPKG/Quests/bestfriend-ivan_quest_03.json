@@ -1,0 +1,88 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-ivan_quest_03",
+  "questSpriteName": "businesscontracts_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-ivan_quest_03_start_dialogue",
+  "okQuestDialogueId": "bestfriend-ivan_quest_03_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-ivan_quest_03_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "large_container_boxed",
+	  "questItemType": "BoxedFurnituresItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "business_metrocard",
+	  "questItemType": "BaseItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [
+	{
+      "questItemId": "business_contracts",
+      "questItemType": "SpecialItem",
+      "questItemAmount": 25,
+	  "isToDestroyOnUse": true
+    }
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_03_start_dialogue",
+	  "questDialogueTitle": "did you got the Contracts?",
+	  "buttonAText": "bestfriend-ivan_quest_03_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-ivan_quest_03_dialogue2",
+	  "buttonBText": "bestfriend-ivan_quest_03_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_03_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_03_dialogue2",
+	  "questDialogueTitle": "did you got the Contracts?",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-ivan_quest_03_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-ivan_quest_03_start_dialogue",
+	  "buttonCText": "bestfriend-ivan_quest_03_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_03_ok_dialogue",
+	  "questDialogueTitle": "did you got the Contracts?",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_03_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_03_ko_dialogue",
+	  "questDialogueTitle": "did you got the Contracts?",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_03_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

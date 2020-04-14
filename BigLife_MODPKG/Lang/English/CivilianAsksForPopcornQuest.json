@@ -1,0 +1,40 @@
+{
+	"items": [
+		{
+			"key": "Do you have Popcorn?",
+			"value": "I would like to get some Popcorn!"
+		},
+		{
+			"key": "civilian_asks_for_Popcorn_start_dialogue-DESCRIPTION",
+			"value": "Hey, ehm... i am vry hungry!\nDo you happen to have..\n\n1x Popcorn to sell, maybe?"
+		},
+		{
+			"key": "civilian_asks_for_Popcorn_start_dialogue_btn_A",
+			"value": "Sure i do!"
+		},
+		{
+			"key": "civilian_asks_for_Popcorn_start_dialogue_btn_B",
+			"value": "Who did you take me for? That's incredible!"
+		},
+		{
+			"key": "civilian_asks_for_Popcorn_start_dialogue_btn_C",
+			"value": "Nope."
+		},
+		{
+			"key": "civilian_asks_for_Popcorn_ko_dialogue-DESCRIPTION",
+			"value": "So? Is this a scam or what? I can't see any Popcorn."
+		},
+		{
+			"key": "civilian_asks_for_Popcorn_ko_dialogue_btn_C",
+			"value": "Ops."
+		},
+		{
+			"key": "civilian_asks_for_Popcorn_ok_dialogue-DESCRIPTION",
+			"value": "Cool, thank you!"
+		},
+		{
+			"key": "civilian_asks_for_Popcorn_ok_dialogue_btn_C",
+			"value": "Yo."
+		}
+	]
+}

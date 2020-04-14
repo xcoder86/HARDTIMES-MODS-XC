@@ -1,0 +1,16 @@
+{
+  "furnitureId": "homephone_furniture",
+  "furnitureType": "HomeTelephoneFurniture",
+  "boxedItemAncestorName": "home_phone_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "home_phone.png",
+  "furnitureColliderRadius": 0.4,
+  "isPackable": true,
+  "freezePosition": true,
+    
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": ["outdoor"],
+  "extras": []
+}

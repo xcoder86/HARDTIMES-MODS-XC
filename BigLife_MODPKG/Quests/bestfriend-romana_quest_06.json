@@ -1,0 +1,75 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-romana_quest_06",
+  "questSpriteName": "bestfriend_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-romana_quest_06_start_dialogue",
+  "okQuestDialogueId": "bestfriend-romana_quest_06_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-romana_quest_06_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "BeLoyal",
+"rewards": [
+	{
+	  "questItemId": "Blue Cow",
+	  "questItemType": "FoodItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 5
+	},
+	{
+	  "questItemId": "Steak",
+	  "questItemType": "FoodItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 5
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Birthday_Cake",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 1,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-romana_quest_06_start_dialogue",
+	  "questDialogueTitle": "Romana is missing a friend (2/2)",
+	  "buttonAText": "bestfriend-romana_quest_06_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-romana_quest_06_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-romana_quest_06_ok_dialogue",
+	  "questDialogueTitle": "Romana is missing a friend (2/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-romana_quest_06_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-romana_quest_06_ko_dialogue",
+	  "questDialogueTitle": "Romana is missing a friend (2/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-romana_quest_06_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

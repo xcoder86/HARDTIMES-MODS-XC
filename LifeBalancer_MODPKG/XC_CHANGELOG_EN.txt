@@ -1,0 +1,72 @@
+**********************************
+****** LIFE BALANCER SYSTEM ******
+**********************************
+******    by XCoder 2020    ****** 
+**********************************
+
+Below the changelog of this mod.
+Changes are always added with the date.
+
+
+##################################
+# 08.04.2020 | Mod Version: 1.1  #
+##################################
+
+1.) Shop modifications have been removed from this mod
+> if you want to have this moodifyd you should check out the BestFriends Mod!
+
+
+##################################
+# 01.04.2020 | Mod Version: 1.0  #
+##################################
+
+1.) Weather update
+From now on there is "gentler" (Austria) weather.
+The conditions are not that hard anymore and it doesn't rain so much and you don't freeze all the time.
+
+2.) Blue Berries
+Collecting blue berries is no longer considered criminal. (+ Spawn rate improved)
+
+3.) Alcohol is bad but also good
+the speed reduction was loosened a little so that you are no longer traveling as slowly :)
+Crime was also removed because alcohol is permitted in public in Austria.
+
+4.) Breaking doors not more causing end of the world
+5.) Being caught stealing doesn't mean the end anymore
+6.) Church flyers now also reduce crime a bit
+
+7.) Smoking cigarettes
+is now more harmful to health than before, but it also increases stamina and speed values ​​more.
+In addition, you feel fuller after smoking, but also get a little dirtier (it stinks and your mouth .. ugh ^^)
+
+8.) The Firebin
+now gives you stamina and lowers your crime somewhat.
+In Austria it is forbidden to make a fire without a permit, but we say that Firebins are public fireplaces.
+This allows homeless people to warm up and recharge their batteries and lower their criminality as police officers see that they are sitting peacefully by the fire and warming up.
+
+9.) Fishing is no longer as criminal now
+10.) Eating cause less stomach problems and give you a little more stamina
+11.) Gastro Boy now also gives some stamina and speed
+
+12.) Joints
+A somewhat extensive topic, but briefly explained, gives you life now since not a single death due to canabis is known.
+You now get some life and your crafting speed increases instead of decreasing (you can get very creative by consuming cannabis). Your stamina also increases (you feel intoxicated)! You will get dirty and slow anyway and it will remain criminal! Laws ...;)
+
+13.) Washing in public now creates less trouble
+
+14.) Rain
+if it rains you get more anonymity (less crime points) because the police are reluctant to go out when it rains and you are therefore more unobserved.
+
+15.) Lightening up in public now creates less trouble!
+16.) Sleep is now more worthwhile!
+17.) Shopping with smugglers is less annoying!
+18.) During sprinting you lose the wanted level
+19.) Rummaging in the trash now makes for less trouble
+20.) Fever makes less damage
+
+21.) Shop opening times
+Apparel, Books, Food, Grow & Hardware shops are now open from 7 a.m. to 10 p.m.
+
+---------------------
+by xcoder 2020
+

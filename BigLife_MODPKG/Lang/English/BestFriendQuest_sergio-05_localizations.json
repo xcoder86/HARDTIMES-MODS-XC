@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-sergio_quest_05",
+      "value": "fishing with Sergio can be useful (2/2)"
+    },
+    {
+      "key": "bestfriend-sergio_quest_05-TASK-DESCRIPTION",
+      "value": "did you got it managed to catch some fish?"
+    },
+    {
+      "key": "bestfriend-sergio_quest_05_start_dialogue-DESCRIPTION",
+      "value": "good that you are here!\n\nKelly works on the market and has not received the fish delivery.\nNow she urgently needs fish, can you do this task?\n\nKelly needs:\n1x Purploid\n2x Greenbo\n\nyou can catch the fish in the park!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_05_start_dialogue_btnA",
+      "value": "i will do my best and will be back!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_05_start_dialogue_btnB",
+      "value": "i got it managed, Kelly gave me a Box for you!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_05_ok_dialogue-DESCRIPTION",
+      "value": "you are really great!\n\nKelly was certainly delighted with your help.\nTake these things from me as a thank you!\n\nYou get:\n1x Country Hat\n4x Metro Ticket"
+    },
+	{
+      "key": "bestfriend-sergio_quest_05_ok_dialogue_btnA",
+      "value": "fishing is great, see you soon!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_05_ok_dialogue_btnB",
+      "value": "it was a pleasure see you soon!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_05_ok_dialogue_btnC",
+      "value": "i don't like fish! Bye ..."
+    },
+	{
+      "key": "bestfriend-sergio_quest_05_ko_dialogue-DESCRIPTION",
+      "value": "Um ...?\n\nI need the box that Kelly will give you.\nOnly with this Box we can continue...\n\nRequired:\n1x Special Delivery Box"
+    },
+	{
+      "key": "bestfriend-sergio_quest_05_ko_dialogue_btnC",
+      "value": "Pfff... okay!"
+    }
+	
+  ]
+}

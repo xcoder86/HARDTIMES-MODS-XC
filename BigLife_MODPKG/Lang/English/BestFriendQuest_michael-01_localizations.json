@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-michael_quest_01",
+      "value": "Michael is lost (1/3)"
+    },
+    {
+      "key": "bestfriend-michael_quest_01-TASK-DESCRIPTION",
+      "value": "Michael got lost at the Center!"
+    },
+    {
+      "key": "bestfriend-michael_quest_01_start_dialogue-DESCRIPTION",
+      "value": "* ATTTAAACCCCKKKKK *\nOh wait, you are not one of these bad boys!\nWhat do you want .. oh .. a birthday card, for me?\n\nOh .. Romana .. i miss here .. since i am stuck here!\nI cant leave but bring Romana this Birthday Cake.\nMaybe after it come back to me, i could need your help."
+    },
+	{
+      "key": "bestfriend-michael_quest_01_start_dialogue_btnA",
+      "value": "i give you the Card and will bring Romana the Cake!"
+    },
+	{
+      "key": "bestfriend-michael_quest_01_start_dialogue_btnB",
+      "value": "i am sorry but i cant help you right now!"
+    },
+	{
+      "key": "bestfriend-michael_quest_01_ok_dialogue-DESCRIPTION",
+      "value": "Thank you so much, you're a great guy!\nWhen you come back we can become friends.\n\nYou get:\n1x Birthday Cake (for Romana)\n1x filled Wallet (for you)\n\nand now go to Romana and take care!"
+    },
+	{
+      "key": "bestfriend-michael_quest_01_ok_dialogue_btnC",
+      "value": "Thanks and see you soon Michael!"
+    },
+	{
+      "key": "bestfriend-michael_quest_01_ko_dialogue-DESCRIPTION",
+      "value": "Please I need this birthday card!\nI can't go to Romana's party without her ...\n\nCome back when you have it!"
+    },
+	{
+      "key": "bestfriend-michael_quest_01_ko_dialogue_btnC",
+      "value": "Damn... i will be back soon!"
+    }
+	
+  ]
+}

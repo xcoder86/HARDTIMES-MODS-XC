@@ -1,0 +1,280 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "HatItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "bigdealer_hat",
+      "itemSpriteName": "bigdealer.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 3
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 3
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_blackgold",
+      "itemSpriteName": "business_blackgold.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_blueblack",
+      "itemSpriteName": "business_blueblack.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_cowboy",
+      "itemSpriteName": "business_cowboy.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_greygreen",
+      "itemSpriteName": "business_greygreen.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_natural",
+      "itemSpriteName": "business_natural.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_orangeblack",
+      "itemSpriteName": "business_orangeblack.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_redblack",
+      "itemSpriteName": "business_redblack.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_redflower",
+      "itemSpriteName": "business_redflower.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_redwhite",
+      "itemSpriteName": "business_redwhite.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_undercover",
+      "itemSpriteName": "business_undercover.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "business_whiteblue",
+      "itemSpriteName": "business_whiteblue.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat,Styler",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    },
+	
+	{
+      "itemRootPath": "",
+      "itemId": "secret_homeless",
+      "itemSpriteName": "secret_homeless.png",
+      "itemProxySprite": "",
+	  "itemEffectOnUse": "hats_temperature_effect",
+	  "achievementsOnUse": "UseHat",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": [
+        {
+          "statId": "playerTemperature",
+          "statModifier": 1
+        },
+		 {
+          "statId": "rainProtection",
+          "statModifier": 1
+        }
+      ]
+    }
+	
+	
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "questType": "BaseQuest",
+  "questId": "civilian_asks_for_pot",
+  "questSpriteName": "jointsharing_quest_img.png",
+  "isReoccurring": true,
+  "startingQuestDialogueId": "civilian_asks_for_pot_start_dialogue",
+  "okQuestDialogueId": "civilian_asks_for_pot_ok_dialogue",
+  "koQuestDialogueId": "civilian_asks_for_pot_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "SellJoint",
+"rewards": [
+	{
+      "questItemId": "",
+      "questItemType": "Money",
+      "questItemQuality": 1,
+      "questItemAmount": 8
+    }
+  ],
+  "prerequisites": [
+	{
+      "questItemId": "Joint",
+      "questItemType": "DrugItem",
+      "questItemAmount": 1,
+      "isToDestroyOnUse": true
+    }
+   ],
+  "dialogues": [
+    {
+      "questDialogueId": "civilian_asks_for_pot_start_dialogue",
+      "questDialogueTitle": "Do you have a Joint?",
+      "buttonAText": "civilian_asks_for_pot_start_dialogue_btn_A",
+      "buttonAFunction": "EndQuest",
+      "buttonAParameter": "",
+      "buttonBText": "civilian_asks_for_pot_start_dialogue_btn_B",
+      "buttonBFunction": "Abort",
+      "buttonBParameter": "",
+      "buttonCText": "civilian_asks_for_pot_start_dialogue_btn_C",
+      "buttonCFunction": "Abort",
+      "buttonCParameter": ""
+    },
+	{
+      "questDialogueId": "civilian_asks_for_pot_ko_dialogue",
+      "questDialogueTitle": "Do you have a Joint?",     
+	  "buttonAText": "",
+      "buttonAFunction": "",
+      "buttonAParameter": "",	
+	  "buttonBText": "",
+      "buttonBFunction": "",
+      "buttonBParameter": "",	
+      "buttonCText": "civilian_asks_for_pot_ko_dialogue_btn_C",
+      "buttonCFunction": "Abort",
+      "buttonCParameter": ""
+    },
+	{
+      "questDialogueId": "civilian_asks_for_pot_ok_dialogue",
+      "questDialogueTitle": "Do you have a Joint?",     
+	  "buttonAText": "",
+      "buttonAFunction": "",
+      "buttonAParameter": "",	
+	  "buttonBText": "",
+      "buttonBFunction": "",
+      "buttonBParameter": ""
+      "buttonCText": "civilian_asks_for_pot_ok_dialogue_btn_C",
+      "buttonCFunction": "Abort",
+      "buttonCParameter": ""
+    }
+  ]
+}

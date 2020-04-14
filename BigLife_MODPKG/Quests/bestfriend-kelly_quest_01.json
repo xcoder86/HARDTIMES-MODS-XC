@@ -1,0 +1,87 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-kelly_quest_01",
+  "questSpriteName": "fishing_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-kelly_quest_01_start_dialogue",
+  "okQuestDialogueId": "bestfriend-kelly_quest_01_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-kelly_quest_01_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "Special_Delivery",
+	  "questItemType": "SpecialItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "earthworm",
+	  "questItemType": "BaseItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 10
+	},
+	{
+	  "questItemId": "roasted_greenbo",
+	  "questItemType": "FoodItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "purploid",
+	  "questItemType": "FishItem",
+	  "questItemAmount": 1,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "greenbo",
+	  "questItemType": "FishItem",
+	  "questItemAmount": 2,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-kelly_quest_01_start_dialogue",
+	  "questDialogueTitle": "Kelly is waiting for your delivery!",
+	  "buttonAText": "bestfriend-kelly_quest_01_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-kelly_quest_01_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-kelly_quest_01_ok_dialogue",
+	  "questDialogueTitle": "Kelly is waiting for your delivery!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-kelly_quest_01_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-kelly_quest_01_ko_dialogue",
+	  "questDialogueTitle": "Kelly is waiting for your delivery!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-kelly_quest_01_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

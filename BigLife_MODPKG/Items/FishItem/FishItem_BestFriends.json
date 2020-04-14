@@ -1,0 +1,21 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "FishItem",
+  "items": [
+	{
+	  "itemRootPath": "",
+	  "itemId": "Donut_Fish",
+	  "itemSpriteName": "donutfish.png",
+	  "itemProxySprite": "",
+	  "itemExpiration": 2800,
+	  "maxStackable": 5,
+	  "effectModifiers": [],
+	  "extras": [
+		{
+		  "key": "bait",
+		  "stringValue": "Donut"
+		}
+	  ]
+	}
+  ]
+}

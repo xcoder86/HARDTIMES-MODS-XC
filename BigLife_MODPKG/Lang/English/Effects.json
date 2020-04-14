@@ -1,0 +1,516 @@
+{
+  "items": [
+    {
+      "key": "alcohol_effect",
+      "value": "Alcohol Effect"
+    },
+    {
+      "key": "alcohol_effect-DESCRIPTION",
+      "value": "Drinking alcohol doesn't make you smarter, but it helps keeping the body warm."
+    },
+	{
+      "key": "begging_sign_effect",
+      "value": "Begging Sign Effect"
+    },
+    {
+      "key": "begging_sign_effect-DESCRIPTION",
+      "value": "Equipping a cool begging sign grants your begging a much higher succes rate."
+    },
+	{
+      "key": "bowels_alert_effect",
+      "value": "Bowels Alert Effect"
+    },
+    {
+      "key": "bowels_alert_effect-DESCRIPTION",
+      "value": "Your bowels are getting full and you need to empty yourself. The more you procrastinate the worse for your health."
+    },
+	{
+      "key": "bowels_full_effect",
+      "value": "Bowels Full Effect"
+    },
+    {
+      "key": "bowels_full_effect-DESCRIPTION",
+      "value": "Your bowels are definitely full and you need to empty yourself. The more you procrastinate the worse for your health."
+    },
+	{
+      "key": "bowels_exploding_effect",
+      "value": "Bowels Exploding Effect"
+    },
+    {
+      "key": "bowels_exploding_effect-DESCRIPTION",
+      "value": "Ok, you really, REALLY have to empty yourself...NOW! The more you procrastinate the worse for your health."
+    },
+	{
+      "key": "break_door_effect",
+      "value": "Door Breaking Effect"
+    },
+    {
+      "key": "break_door_effect-DESCRIPTION",
+      "value": "It doesn't look like breaking that door is something even barely legal. At all."
+    },
+	{
+      "key": "caught_stealing_effect",
+      "value": "Caught Stealing Effect"
+    },
+    {
+      "key": "caught_stealing_effect-DESCRIPTION",
+      "value": "You've been caught red handed and somebody saw your face. You're wanted for an hour."
+    },
+	{
+      "key": "clothing_temperature_effect",
+      "value": "Clothing Temperature Effect"
+    },
+    {
+      "key": "clothing_temperature_effect-DESCRIPTION",
+      "value": "The effects clothings have on your perceived ambient temperature."
+    },
+	{
+      "key": "contusion_effect",
+      "value": "Contusion Effect"
+    },
+    {
+      "key": "contusion_effect-DESCRIPTION",
+      "value": "You've been hit badly by the tough arm of law. You have difficulties moving unless properly treated."
+    },
+	{
+      "key": "crowbar_effect",
+      "value": "Crowbar Effect"
+    },
+    {
+      "key": "crowbar_effect-DESCRIPTION",
+      "value": "You're holding a crowbar in your hands. You can use it to break things."
+    },
+	{
+      "key": "fever_body_temperature_effect",
+      "value": "Fever Body Effect"
+    },
+    {
+      "key": "fever_body_temperature_effect-DESCRIPTION",
+      "value": "You feel definitely too hot. Your body is suffering and you need to cool it down."
+    },
+	{
+      "key": "fleeing_bribery_effect",
+      "value": "Fleeing Bribery Effect"
+    },
+    {
+      "key": "fleeing_bribery_effect-DESCRIPTION",
+      "value": "You fled from a bribery and you got a lot of scandal on yourself!"
+    },
+	{
+      "key": "food_eat_effect",
+      "value": "Food Eat Effect"
+    },
+    {
+      "key": "food_eat_effect-DESCRIPTION",
+      "value": "Ah... eating food feels good!"
+    },
+	{
+      "key": "food_intoxication",
+      "value": "Food Intoxication Effect"
+    },
+    {
+      "key": "food_intoxication-DESCRIPTION",
+      "value": "You got intoxicated from eating something not good. You're going to pass a bad moment unless properly treated."
+    },
+	{
+      "key": "food_temperature_effect",
+      "value": "Food Temperature Effect"
+    },
+    {
+      "key": "food_temperature_effect-DESCRIPTION",
+      "value": "Some food you can eat will have an impact on your perceived temperature."
+    },
+	{
+      "key": "freezing_body_temperature_effect",
+      "value": "Freezing Body Effect"
+    },
+    {
+      "key": "freezing_body_temperature_effect-DESCRIPTION",
+      "value": "Ok, no joke. You almost froze..."
+    },
+	{
+      "key": "gastro_boy_effect",
+      "value": "Gastro Boy Effect"
+    },
+    {
+      "key": "gastro_boy_effect-DESCRIPTION",
+      "value": "Gastro Boy is useful for treating gastric illnesses and intoxications."
+    },
+	{
+      "key": "hats_temperature_effect",
+      "value": "Hats Temperature Effect"
+    },
+    {
+      "key": "hats_temperature_effect-DESCRIPTION",
+      "value": "Wearing hats can impact on your perceived temperature."
+    },
+	{
+      "key": "heatstroke_effect",
+      "value": "Heatstroke Effect"
+    },
+    {
+      "key": "heatstroke_effect-DESCRIPTION",
+      "value": "Too much sun and nothing to cover yourself can bring lots of problems to your health."
+    },
+	{
+      "key": "hyperthermia_body_temperature_effect",
+      "value": "Hyperthermia Effect"
+    },
+    {
+      "key": "hyperthermia_body_temperature_effect-DESCRIPTION",
+      "value": "Too hot. You need to cool yourself as your not comfortable at all."
+    },
+	{
+      "key": "hypotermia_body_temperature_effect",
+      "value": "Hypothermia Effect"
+    },
+    {
+      "key": "hypotermia_body_temperature_effect-DESCRIPTION",
+      "value": "It's too cold for you and you need to cover yourself to regain some warmt."
+    },
+	{
+      "key": "naked_effect",
+      "value": "Naked Effect"
+    },
+    {
+      "key": "naked_effect-DESCRIPTION",
+      "value": "Strolling naked in the streets is the fastest way to get yourself a one-way ticket to coplandia."
+    },
+	{
+      "key": "pickpocket_effect",
+      "value": "Pickpocket Effect"
+    },
+    {
+      "key": "pickpocket_effect-DESCRIPTION",
+      "value": "Picking pockets and being caught red-handed is gonna cause you some great troubles with the law."
+    },
+	{
+      "key": "rain_effect",
+      "value": "Rain Effect"
+    },
+    {
+      "key": "rain_effect-DESCRIPTION",
+      "value": "Being exposed to rain will affect your perceived temperature."
+    },
+	{
+      "key": "robbery_effect",
+      "value": "Robbery Effect"
+    },
+    {
+      "key": "robbery_effect-DESCRIPTION",
+      "value": "Breaking through doors and shops is not considered an adequate behaviour."
+    },
+	{
+      "key": "scandalized_civilian_effect",
+      "value": "Scandalized Civilian Effect"
+    },
+    {
+      "key": "scandalized_civilian_effect-DESCRIPTION",
+      "value": "Scandalizing civilians with behaviours contrary to the public decency and decorum will not be tolerated."
+    },
+	{
+      "key": "shitting_in_public_effect",
+      "value": "Shitting in Public Effect"
+    },
+    {
+      "key": "shitting_in_public_effect-DESCRIPTION",
+      "value": "Such actions are repressed as contrary to the public decency."
+    },
+	{
+      "key": "snow_effect",
+      "value": "Snow Effect"
+    },
+    {
+      "key": "snow_effect-DESCRIPTION",
+      "value": "Being exposed to snow affect your perceived temperature."
+    },
+	{
+      "key": "sprinting_effect",
+      "value": "Sprinting Effect"
+    },
+    {
+      "key": "sprinting_effect-DESCRIPTION",
+      "value": "Sprinting depletes your stamina."
+    },
+	{
+      "key": "storm_effect",
+      "value": "Storm Effect"
+    },
+    {
+      "key": "storm_effect-DESCRIPTION",
+      "value": "Being exposed to a storm severely affects your perceived temperature."
+    },
+	{
+      "key": "thrash_searching_effect",
+      "value": "Trash Searching Effect"
+    },
+    {
+      "key": "thrash_searching_effect-DESCRIPTION",
+      "value": "Searching in the trash is considered agains the common laws of public decency."
+    },
+	{
+      "key": "public_washing_effect",
+      "value": "Washing in public effect"
+    },
+    {
+      "key": "public_washing_effect-DESCRIPTION",
+      "value": "Washing in public and exposing personal bodyparts is considered an offence to public decency."
+    },
+	{
+      "key": "berries_harvesting_effect",
+      "value": "Berries harvesting effect"
+    },
+    {
+      "key": "berries_harvesting_effect-DESCRIPTION",
+      "value": "Harvesting berries is forbidden as it is a theft against public property."
+    },
+	{
+      "key": "umbrella_effect",
+      "value": "Umbrella Effect"
+    },
+    {
+      "key": "umbrella_effect-DESCRIPTION",
+      "value": "Umbrella protects you against atmospheric agents such rain or heat."
+    },
+	{
+      "key": "washing_up_coldness_effect",
+      "value": "Washing Coldness Effect"
+    },
+    {
+      "key": "washing_up_coldness_effect-DESCRIPTION",
+      "value": "Washing up without heating or warm water greatly affects your perceived temperature."
+    },
+	{
+      "key": "fishingpole_effect",
+      "value": "Fishing pole Effect"
+    },
+    {
+      "key": "fishingpole_effect-DESCRIPTION",
+      "value": "Equipped with such a fishing pole you look like you're ready to go fishing.\nSo go, fish.\nGood luck with that.\nTake big fishes, uh!?!"
+    },
+	{
+      "key": "sewers_effect",
+      "value": "Sewers Effect"
+    },
+    {
+      "key": "sewers_effect-DESCRIPTION",
+      "value": "Frequenting places such as sewers and other stinky holes is going to affect the way you smell and look to others."
+    },
+	{
+      "key": "hunger_extreme_effect",
+      "value": "Extremely hungry"
+    },
+    {
+      "key": "hunger_extreme_effect-DESCRIPTION",
+      "value": "You are so hungry you feel like you're about to die. Or maybe you are REALLY about to die. Eat something fast to save your life."
+    },
+	{
+      "key": "hunger_moderately_effect",
+      "value": "Moderately hungry"
+    },
+    {
+      "key": "hunger_moderately_effect-DESCRIPTION",
+      "value": "You feel moderately hungry. You should eat something as soon as possible to save your health."
+    },
+	{
+      "key": "hunger_definitely_effect",
+      "value": "Definitely hungry"
+    },
+    {
+      "key": "hunger_definitely_effect-DESCRIPTION",
+      "value": "Everywhere you look you see food.\nEverywhere you smell it's the scent of it."
+    },
+	{
+      "key": "stamina_extreme_effect",
+      "value": "Extremely tired"
+    },
+    {
+      "key": "stamina_extreme_effect-DESCRIPTION",
+      "value": "Your are EXTREMELY tired. You have to find a bed to sleep as soon as possible if you want to save your health."
+    },
+	{
+      "key": "stamina_moderately_effect",
+      "value": "Moderately tired"
+    },
+    {
+      "key": "stamina_moderately_effect-DESCRIPTION",
+      "value": "You are getting tired, and you'd better be doing something about it."
+    },
+	{
+      "key": "stamina_definitely_effect",
+      "value": "Definitely tired"
+    },
+    {
+      "key": "stamina_definitely_effect-DESCRIPTION",
+      "value": "You are about to finish your energies. You should rest as soon as possible or you wont be able to sprint anymore."
+    },
+	{
+      "key": "subway_effect",
+      "value": "Subway effect"
+    },
+    {
+      "key": "subway_effect-DESCRIPTION",
+      "value": "You are in the subway."
+    },
+	{
+      "key": "joint_smoke_effect",
+      "value": "Joint Effect"
+    },
+    {
+      "key": "joint_smoke_effect-DESCRIPTION",
+      "value": "HAve you ever stoppeed to think about how IS the universe copareed...\nI mean if you compare it. You know what I mean?\nIf I compare it to the infinitely small worldl made of billions of atoms just, you know, stuffed in a single speck of dust?\nIt's like stars, like a fraking starfield!"
+    },
+	{
+      "key": "scaby_illness_effect",
+      "value": "Scabies Illness"
+    },
+    {
+      "key": "scaby_illness_effect-DESCRIPTION",
+      "value": "Scabies is a contagious skin disease. It is caused mainly by the mite Sarcoptes scabiei, a very small and usually not directly visible parasite, which is inoculated under the skin of the affected subject causing intense allergic itching.\nYou can get scabies by sleeping on the ground or on improvised beds and by letting your personal hygiene fall to a low level."
+    },
+	{
+      "key": "clean_extremely_low_effect",
+      "value": "Extremely Low Hygiene"
+    },
+    {
+      "key": "clean_extremely_low_effect-DESCRIPTION",
+      "value": "Your personal hygiene status is the worst ever. You really need to do something about it or you're gonna catch some terrible disease and you will not live long."
+    },
+	{
+      "key": "clean_definitely_low_effect",
+      "value": "Definitely Low Hygiene"
+    },
+    {
+      "key": "clean_definitely_low_effect-DESCRIPTION",
+      "value": "Your stink like someone who could really get a shower. Or a bath at the sea. Or could help himself with some city fountain."
+    },
+	{
+      "key": "clean_moderately_low_effect",
+      "value": "Moderately Low Hygiene"
+    },
+    {
+      "key": "clean_moderately_low_effect-DESCRIPTION",
+      "value": "You should think about washing yourself sooner or later,uh?"
+    },
+	{
+      "key": "firebin_proximity_effect",
+      "value": "Firebin Proximity Effect"
+    },
+    {
+      "key": "firebin_proximity_effect-DESCRIPTION",
+      "value": "Staying close to the firebin makes you feel warmer."
+    },
+	{
+      "key": "pursued_by_fascist_effect",
+      "value": "Pursued by a fascist thug"
+    },
+    {
+      "key": "pursued_by_fascist_effect-DESCRIPTION",
+      "value": "Those scumbags are gonna beat the shit out of yourself if the can get their hands on you!"
+    },
+	{
+      "key": "pursued_by_police_effect",
+      "value": "Pursued by the police"
+    },
+    {
+      "key": "pursued_by_police_effect-DESCRIPTION",
+      "value": "Could you help me? Police on my back. They will catch me. If I dare drop back. Won't you give me, all the speed I lack?"
+    },
+	{
+      "key": "stove_basic_proximity_effect",
+      "value": "Basic stove effect"
+    },
+    {
+      "key": "stove_basic_proximity_effect-DESCRIPTION",
+      "value": "A very basic stove made up of metal scraps and other junk. Does not warm so much indeed."
+    },
+	{
+      "key": "stove_medium_proximity_effect",
+      "value": "Medium stove effect"
+    },
+    {
+      "key": "stove_medium_proximity_effect-DESCRIPTION",
+      "value": "A quite good stove, crafted out of metal scraps and other junk. It's not the best stuff out there but good enough, for good's sake."
+    },
+	{
+      "key": "listen_music_effect",
+      "value": "Music effect"
+    },
+    {
+      "key": "listen_music_effect-DESCRIPTION",
+      "value": "Listening to good music is good for your soul and for your stamina."
+    },
+	{
+      "key": "punk_concert_effect",
+      "value": "Punk concert effect"
+    },
+    {
+      "key": "punk_concert_effect-DESCRIPTION",
+      "value": "There's nothing like a punk gig to have some socialization. Just pay attention to the pogo. Don't get hurt."
+    },
+	{
+      "key": "sneak_metro_passage",
+      "value": "Sneak through a Metro Passage"
+    },
+    {
+      "key": "sneak_metro_passage-DESCRIPTION",
+      "value": "Try to sneak and jump over that metro passage fence? It turns out you're not in good shape as you were once!"
+    },
+	{
+      "key": "screwdriver_effect",
+      "value": "Screwdriver equipped"
+    },
+    {
+      "key": "screwdriver_effect-DESCRIPTION",
+      "value": "You have a screwdriver equipped in your hands. Just wonder what you could do with that."
+    },
+	
+	
+	{
+      "key": "cart_proximity_effect",
+      "value": "Cart activated!"
+    },
+    {
+      "key": "cart_proximity_effect-DESCRIPTION",
+      "value": "You are using a Cart!"
+    },
+	
+	{
+      "key": "cocaine_use_effect",
+      "value": "Cocaine consumed!"
+    },
+    {
+      "key": "cocaine_use_effect-DESCRIPTION",
+      "value": "you sniffed much Cocaine.. brrrr"
+    },
+	
+	{
+      "key": "ecstasy_use_effect",
+      "value": "Ecstasy consumed!"
+    },
+    {
+      "key": "ecstasy_use_effect-DESCRIPTION",
+      "value": "you consumed a Ecstasy! *party hard*"
+    },
+	
+	{
+      "key": "business_key_effect",
+      "value": "Business Key equipped!"
+    },
+    {
+      "key": "business_key_effect-DESCRIPTION",
+      "value": "you are a real Business Man!"
+    },
+	
+	{
+      "key": "business_mailbox_effect",
+      "value": "opening the Mailbox!"
+    },
+    {
+      "key": "business_mailbox_effect-DESCRIPTION",
+      "value": "you are opening the Mailbox!"
+    }
+	
+	
+  ]
+}

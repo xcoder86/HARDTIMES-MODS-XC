@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-sergio_quest_03",
+      "value": "Business makes Sergio hungry!"
+    },
+    {
+      "key": "bestfriend-sergio_quest_03-TASK-DESCRIPTION",
+      "value": "Business makes Sergio hungry, he need something to eat!"
+    },
+    {
+      "key": "bestfriend-sergio_quest_03_start_dialogue-DESCRIPTION",
+      "value": "There you are again :)\nI tell you I'm so hungry but I have to work!\n\nCan you maybe bring me the following:\n1x Vegetable Soup\n1x Fried Egg\n1x Bread\n\ni can't work when i'm hungry...\nI will also give you a good reward my friend!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_start_dialogue_btnA",
+      "value": "that is much! where should I find that?"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_start_dialogue_btnB",
+      "value": "Yes, i have the required food with me!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_start_dialogue_btnC",
+      "value": "Sounds good but i come back later!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_dialogue2-DESCRIPTION",
+      "value": "Hmm good question, maybe at the food store?\nOr at the veggie store, cooking yourself is also possible!\n\nBob only told me good things about you.\nYou can do it, I'm sure!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_dialogue2_btnB",
+      "value": "ok please show me the list again"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_dialogue2_btnC",
+      "value": "Phew... i will try!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_ok_dialogue-DESCRIPTION",
+      "value": "ah how delicious it smells!\ndid you do it all yourself?\n\nAnyway, here's your reward, may get some good fish:\n1x raw Fishing Pole\n1x Fishing Wire\n1x Fishing Float\n\nNow you can build your fishing Pole!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_ok_dialogue_btnC",
+      "value": "great, I will visit you soon!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_ko_dialogue-DESCRIPTION",
+      "value": "you dont have the food i want!\nplease come back as soon you got it..."
+    },
+	{
+      "key": "bestfriend-sergio_quest_03_ko_dialogue_btnC",
+      "value": "Pfff... okay!"
+    }
+	
+  ]
+}

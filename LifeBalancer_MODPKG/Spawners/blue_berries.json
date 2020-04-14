@@ -1,0 +1,23 @@
+{
+  "spawnerId": "blue_berries",
+  "fullSpriteName": "blue_berries.png",
+  "emptySpriteName": "blue_berries_empty.png",  
+  "spawnerUseSound": "inventory",
+  "spawnerUseEffect": "berries_harvesting_effect",
+  "cooldownMinutes": 1440,
+  "spawnerUsageDuration": 3,
+  "minItemsSpawnable": 1,
+  "maxItemsSpawnable": 4,
+  "spawnRadius": 3.5,
+  "interactableDistance": 2.5,
+  "fixedPosition": true,
+  "isObstructing": false,
+  "spawnableItems": [
+    {
+      "itemId": "blue_berries",
+      "itemType": "FoodItem",
+      "minQuality": 0,
+      "maxQuality": 2
+    }
+  ]
+}

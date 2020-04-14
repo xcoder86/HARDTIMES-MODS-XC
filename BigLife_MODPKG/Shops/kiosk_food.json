@@ -1,0 +1,127 @@
+{
+  "shopId": "Market Foods",
+  "shopSpriteName": "kiosk.png",
+  "shopType": "Shop",
+  "openHour": 07,
+  "openMinute": 00,
+  "closeHour": 22,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 3,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "food_cheeseburger",
+      "itemType": "FoodItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "food_coffee",
+      "itemType": "FoodItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Water Bottle",
+      "itemType": "FoodItem",
+      "price": 1,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Light the Bob Stout",
+      "itemType": "FoodItem",
+      "price": 5.5,
+      "minQuality": 3,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "roasted_greenbo",
+      "itemType": "FoodItem",
+      "price": 10.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "roasted_flattula",
+      "itemType": "FoodItem",
+      "price": 15.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "roasted_purploid",
+      "itemType": "FoodItem",
+      "price": 20.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Vegetable Soup",
+      "itemType": "FoodItem",
+      "price": 23.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Fried Egg",
+      "itemType": "FoodItem",
+      "price": 6.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Apple Pie",
+      "itemType": "FoodItem",
+      "price": 8.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Bread",
+      "itemType": "FoodItem",
+      "price": 3.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 10,
+      "maxQuantity": 20
+    },
+	{
+      "itemId": "Chocolate Snack",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    }
+	
+	
+  ]
+}

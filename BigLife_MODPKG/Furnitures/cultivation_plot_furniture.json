@@ -1,0 +1,29 @@
+{
+  "furnitureId": "cultivation_plot_furniture",
+  "furnitureType": "CultivationFurniture",
+  "boxedItemAncestorName": "cultivation_plot_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "CultivationFurnitureArchetipus",
+  "furnitureSpriteName": "cultivation_plot.png",
+  "furnitureColliderRadius": 0.4,
+  "furnitureUiPanelName": "CultivationPanel",
+  "isPackable": true,
+  "freezePosition": true,  
+  "achievementsOnUse": "PlantASeed",
+  "mass": 20,
+  "positionRestrictions": [""],
+  "extras": [
+    {
+      "key": "panelTitle",
+      "stringValue": "Cultivation Plot"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "cultivation_plot_furniture-DESCRIPTION"
+    },
+    {
+      "key": "achievementsOnHarvest",
+      "stringValue": "HarvestAPlant"
+    }
+  ]
+}

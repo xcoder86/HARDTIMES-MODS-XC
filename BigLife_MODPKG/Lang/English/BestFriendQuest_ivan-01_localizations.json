@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-ivan_quest_01",
+      "value": "are you ready for Big Business?"
+    },
+    {
+      "key": "bestfriend-ivan_quest_01-TASK-DESCRIPTION",
+      "value": "You can be my Business Partner and i will help you in the future!"
+    },
+    {
+      "key": "bestfriend-ivan_quest_01_start_dialogue-DESCRIPTION",
+      "value": "Hello my Name is Ivan,\nwould you like to be my Business Partner?\n\nBut you need to own at least € 1.000 Cash.\nI cant work with you if you have less!\n* clears throat *"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_start_dialogue_btnA",
+      "value": "yo... you want € 1.000 from me or what?"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_start_dialogue_btnB",
+      "value": "i have € 1.000 and lets start Business!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_start_dialogue_btnC",
+      "value": "Mhhh... maybe later Ivan!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_dialogue2-DESCRIPTION",
+      "value": "No I don't want the € 1.000\nYou just have to have it in your Wallet.\n\nI am only concerned with the security that you are also able to do Business. I can't do Business with poor ones!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_dialogue2_btnB",
+      "value": "sounds legit! where did we stop?"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_dialogue2_btnC",
+      "value": "I do not trust you! I prefer to go on ..."
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_ok_dialogue-DESCRIPTION",
+      "value": "A wise decision!\nFrom now on you can get Orders from me that will reward you abundantly. I always have to meet a wide variety of Customer requirements and always need active Support!\n\nYou get:\n1x Business Life Book\n1x Business Backpack"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_ok_dialogue_btnC",
+      "value": "Roger Ivan, i will be back!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_ko_dialogue-DESCRIPTION",
+      "value": "I'm sorry but you don't have enough Money!\nI can only do Business with People who are capable for it.\n\nCome back when you have at least € 1.000"
+    },
+	{
+      "key": "bestfriend-ivan_quest_01_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}

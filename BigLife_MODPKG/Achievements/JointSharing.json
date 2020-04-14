@@ -1,0 +1,6 @@
+{
+  "achievementId": "JointSharing",
+  "numberToUnlock": 10,
+  "voidSpriteName": "jointsharing_locked.png",
+  "fullSpriteName": "jointsharing_unlocked.png"
+}

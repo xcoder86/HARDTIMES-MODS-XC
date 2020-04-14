@@ -1,0 +1,841 @@
+{
+  "collectionId": "SewingTableRecipes",
+  "recipes": [
+	{
+      "recipeId": "Business Backpack",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "business_backpack",
+          "itemType": "ContainerItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Business Trolley",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "business_trolley",
+          "itemType": "ContainerItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+  
+  
+    {
+      "recipeId": "Cloth",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "kway|polo|snowboard_jacket|sweatshirt|tshirt|fancy_shirt|sweater|sweather_bis|christmas_sweater|happy_jumper|punk_shirt|Gipsy Jacket",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Cloth 2",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "clothing_homeless|clothing_homeless_2|clothing_homeless_3|cop_uniform|trasher_uniform|fascist_uniform|priest_uniform",
+          "itemType": "SpecialClothings",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Cloth 3",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        }
+      ]
+    },
+	{
+      "recipeId": "Cloth 4",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "blanket",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        }
+      ]
+    },
+	{
+      "recipeId": "Small Cloth",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "simple_hat|easy_hat|mountain_hat|country_hat|green_hat|Boyz in tha hood cap|Skeleton Skate Cap",
+          "itemType": "HatItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Homeless Rags",
+      "duration": 45,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "clothing_homeless",
+          "itemType": "SpecialClothings",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "Homeless Rags 2",
+      "duration": 45,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "clothing_homeless_2",
+          "itemType": "SpecialClothings",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "Homeless Rags 3",
+      "duration": 45,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "clothing_homeless_3",
+          "itemType": "SpecialClothings",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "kway",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "kway",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "polo",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "polo",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "snowboard_jacket",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "snowboard_jacket",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 15
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "sweatshirt",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "sweatshirt",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "tshirt",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "tshirt",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "fancy_shirt",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "fancy_shirt",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 8
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "sweater",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "sweater",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "sweather_bis",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "sweather_bis",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "christmas_sweater",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "christmas_sweater",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 7
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 6
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "happy_jumper",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "happy_jumper",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 7
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "punk_shirt",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "punk_shirt",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "Gipsy Jacket",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "Gipsy Jacket",
+          "itemType": "ClothingItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "trasher_uniform",
+      "duration": 600,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "trasher_uniform",
+          "itemType": "SpecialClothings",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 40
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 25
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 30
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "fascist_uniform",
+      "duration": 600,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "fascist_uniform",
+          "itemType": "SpecialClothings",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 25
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 20
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "priest_uniform",
+      "duration": 600,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "priest_uniform",
+          "itemType": "SpecialClothings",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 50
+        },
+		{
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 30
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 50
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "Blanket",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "blanket",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	{
+      "recipeId": "rope",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "rope",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        }
+      ]
+    },
+	{
+      "recipeId": "rope",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "rope",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Small Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        }
+      ]
+    }
+  ]
+}

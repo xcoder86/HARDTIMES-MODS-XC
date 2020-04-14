@@ -1,0 +1,16 @@
+{
+  "cropId": "cocaine_crop",
+  "quality": 2,
+  "growingInterval": 1400,
+  "spoilThreshold": 3500,
+  "smallSpriteName": "coca_s.png",
+  "mediumSpriteName": "coca_m.png",
+  "bigSpriteName": "coca_l.png",
+  "results": [
+    {
+      "questItemId": "coca_leaves",
+      "questItemType": "SpecialItem",
+      "questItemAmount": 5
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+**********************************
+******     BIG LIFE MOD     ******
+**********************************
+******    by XCoder 2020    ****** 
+**********************************
+
+Coming soon (tm):
+- Dealer update * next *
+- new hiding place
+- new "Secret" NPC
+- more items
+- more missions
+- Vehicles?!
+
+
+##################################
+# 08.04.2020 | Mod version: 1.1  #
+##################################
+# TOPIC: XL Luxury Update        #
+##################################
+
+New recipe books (5):
+- Advanced Workbench Book
+- Luxury Life Book (Edition 1)
+- Luxury Life Book (Edition 2)
+- Modern Life Book (Edition 1)
+- Modern Life Book (Edition 2) * soon (tm), prepared
+
+
+New Items (5):
+- Stone (craft)
+- Obsidian (craft)
+- Popcorn (food)
+- Pizza Piece (food)
+- Pizza (whole pizza, food)
+
+
+New Facilities (9, Modern Edition):
+- Advanced Workbench (for the new recipes)
+- Modern Popcorn machine
+- Modern Pizza oven
+- Modern Wall Picture 1
+- Modern Wall Picture 2
+- Modern Wall Picture 3
+- Mdoern Wall Picture 4
+- Modern Wood Table
+- Modern Bed
+
+
+New Facilities (8, Luxury Edition):
+- Luxury Chest & Sculpture
+- Luxury Christmas Oven
+- Luxury Glass Table
+- Luxury Marble Table
+- Luxury Fountain
+- Luxury Fridge
+- Luxury Bench
+- Luxury Bed
+
+
+New Facilities (2, others):
+- Medium Storage Box (prepeared, currently not the correct slot amount, dont use!)
+- Large Storage Box (prepeared, currently not the correct slot amount, dont use!)
+
+
+New Achievements (6):
+- Popcorn Junky
+- Modern Homeless
+- Luxury Homeless
+- Graffiti Sprayer
+- Pizza Production
+- Boat Driver
+- Pizza King
+
+
+Other (8):
+- Fancy Clothes (17 new shirts for you and NPC's)
+- Shopping Cart Graphic has been changed (for testing purposes)
+- Donut Oven now gives more donuts (+ Bottles return)
+- Secret Route between Suburbs <> Center introduced
+- Cannabis now looks like Cannabis in growth (+ spoil time extended)
+- Item "Home Phone" can now be picked after placing it!
+- Generally, some Standard Graphics have been updated
+- fixed a few Visual Bugs
+- new Eastereggs
+
+
+##################################
+# 02.04.2020 | Mod Version: 1.0  #
+##################################
+
+1.) New NPC's (5, Best Friends):
+- Bob (6 tasks, 1 repetitive)
+- Sergio (8 tasks, 1 rep.)
+- Kelly (7 tasks, 1 rep.)
+- Romana (7 tasks, 1 rep.)
+- Michael (7 tasks, 1 rep.)
+
+2.) New NPC's (Misc.):
+- XCoder (3 tasks, one repetitive & soon more!)
+
+3.) New Rewards (9):
+- get a best friend
+- get all best friends
+- share a Joint with someone
+- start a Donut Production
+- Gang Business
+- find XCoder
+- big Dealer
+- Donut Fish
+- be loyal
+
+4.) New Items (11):
+- Donuts
+- Donut Book (Recipe for Workbench)
+- Home Phone Book (Recipe for Workbench)
+- Bong (object of a Mission)
+- Special Delivery Box (- // -)
+- Birthday Cake (- // -)
+- Birthday Invitation Card (- // -)
+- Michael's shirt (clothes)
+- Romana's shirt (clothes)
+- XCoder's Shirt (Clothes)
+- BigDealer Hat (Clothes)
+
+5.) New Fish:
+- Donut Fish
+
+6.) New Items (2):
+- Home Phone (for saving at Home)
+- Donut Oven
+
+7.) New tasks summarized: 38x (more to follow)
+8.) All BestFriends task windows now have direct "close" buttons
+9.) Cultivation plots can now also be placed Indoor (beware of cleaning women!)
+10.) Water Bottles (x5) can now be produced in the Workbench using 2x Plastic Scrap as Standard
+11.) Home Phone can now be produced in the Workbench with a corresponding Book (you can get it from Michael)
+12.) Growing cannabis is now not as hard as before! (+Graphics optimized)
+
+
+
+---------------------
+by xcoder 2020
+

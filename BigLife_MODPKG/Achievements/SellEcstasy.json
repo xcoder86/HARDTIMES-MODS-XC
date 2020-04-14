@@ -1,0 +1,6 @@
+{
+  "achievementId": "SellEcstasy",
+  "numberToUnlock": 50,
+  "voidSpriteName": "sell-ecstasy_locked.png",
+  "fullSpriteName": "sell-ecstasy_unlocked.png"
+}

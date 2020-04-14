@@ -1,0 +1,410 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "BoxedFurnituresItem",
+  "items": [
+	{
+	  "itemRootPath": "",
+	  "itemId": "workbench_advanced_boxed",
+	  "itemSpriteName": "boxed_advworkbench_furniture.png",
+	  "itemProxySprite": "boxed_advworkbench_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "workbench_advanced_BestFriends"
+		}
+	  ]
+	},
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Business_soundsystem_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Business_soundsystem"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "z-trap_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "z-trap_furniture"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-popcorncart_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-popcorncart"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "donut_hoven_boxed",
+	  "itemSpriteName": "boxed_donut_furniture.png",
+	  "itemProxySprite": "boxed_donut_furniture.png",
+	  "achievementsOnCraft": "DonutProduction",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "Donut Hoven"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "home_phone_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "homephone_furniture"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "medium_container_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "medium_container"
+		}
+	  ]
+	},
+	{
+	  "itemRootPath": "",
+	  "itemId": "large_container_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "large_container"
+		}
+	  ]
+	},
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Business_vault_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Business_vault"
+		}
+	  ]
+	},
+		
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Luxury_fountain_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Luxury_fountain"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Luxury_moneychestsculp_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Luxury_moneychestsculp"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Luxury_bench_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Luxury_bench"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Luxury_bed_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Luxury_bed"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Luxury_glass_table_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Luxury_glass_table"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Luxury_marmor_table_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Luxury_marmor_table"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Luxury_fridge_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Luxury_fridge"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Luxury_christmasoven_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Luxury_christmasoven"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Modern_table_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Modern_table"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Modern_bed_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Modern_bed"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Modern_wallpicture_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "GraffitiSprayer",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Modern_wallpicture"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Modern_wallpicture2_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "GraffitiSprayer",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Modern_wallpicture2"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Modern_wallpicture3_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "GraffitiSprayer",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Modern_wallpicture3"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Modern_wallpicture4_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "GraffitiSprayer",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Modern_wallpicture4"
+		}
+	  ]
+	},
+	
+	
+	{
+	  "itemRootPath": "",
+	  "itemId": "BF-Modern_pizzaoven_boxed",
+	  "itemSpriteName": "boxed_furniture.png",
+	  "itemProxySprite": "boxed_furniture.png",
+	  "achievementsOnCraft": "PizzaProduction",
+	  "itemExpiration": 0,
+	  "maxStackable": 1,
+	  "extras":[
+		{
+			"key":"linkedFurnitureId",
+			"stringValue": "BF-Modern_pizzaoven"
+		}
+	  ]
+	}
+	
+	
+  ]
+}

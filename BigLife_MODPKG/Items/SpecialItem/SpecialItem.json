@@ -1,0 +1,16 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "SpecialItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "shit",
+      "itemSpriteName": "shit.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 43800,
+      "maxStackable": 20,
+      "effectModifiers": []
+    }
+  ]
+}

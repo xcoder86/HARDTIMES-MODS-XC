@@ -1,0 +1,37 @@
+{
+  "shopId": "Tickets Vending Machine",
+  "shopSpriteName": "metro_machine_sx.png",
+  "shopType": "Shop",
+  "openHour": 00,
+  "openMinute": 00,
+  "closeHour": 23,
+  "closeMinute": 59,
+  "refillIntervalMins": 30,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+    {
+      "itemId": "Metro Ticket",
+      "itemType": "BaseItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    },
+	
+	{
+      "itemId": "business_metrocard",
+      "itemType": "BaseItem",
+      "price": 90,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    }
+	
+	
+	
+  ]
+}

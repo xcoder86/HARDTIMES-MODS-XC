@@ -1,0 +1,25 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "WalletItem",
+  "items": [
+    {
+      "itemId": "wallet",
+      "itemSpriteName": "wallet.png",
+      "itemProxySprite": "",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"maxMoneyContained",
+			"intValue": 20
+		},
+		{
+			"key":"minMoneyContained",
+			"intValue": 5
+		}
+	  ]
+    }
+  ]
+}

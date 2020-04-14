@@ -1,0 +1,52 @@
+{
+  "furnitureId": "BF-Luxury_christmasoven",
+  "furnitureType": "FirebinFurniture",
+  "boxedItemAncestorName": "BF-Luxury_christmasoven_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "BF-Luxury_christmasoven.png",
+  "furnitureColliderRadius": 0.5,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "widgetLabelDx": ":|:DISABLED:|:",
+  
+  "achievementsOnUse": "",
+  "mass": 50,
+  "animatronic": {
+	"frameInterval": 0,
+	"frameNames":[]
+  },
+  "audioClip" : "fire",
+  "positionRestrictions": ["outdoor"],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "FirebinRecipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "Christmas Oven"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "Christmas Oven Description"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "cooking"
+    },
+    {
+      "key": "effectRadius",
+      "floatValue": 5
+    },
+    {
+      "key": "effectOnEnter",
+      "stringValue": "firebin_proximity_effect"
+    }
+  ]
+}

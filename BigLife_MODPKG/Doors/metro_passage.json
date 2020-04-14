@@ -1,0 +1,23 @@
+{
+  "doorId": "metro_passage",
+  "closedSpriteName": "metro_passage.png",
+  "openSpriteName": "metro_passage.png",
+  "targetScene": "metro_map",
+  "targetDoor": "metro_map_fakedoor",
+  "objectToUnlock": "Metro Ticket|Fake Metro Ticket|business_metrocard",
+  "unlockDestroysObject": true,
+  "effectOnUnlock": "",
+  "unlockIsPermanent": false,
+  "objectToBreak": "",
+  "breakDestroysObject": false,
+  "breakSound": "trash_search",
+  "breakDuration": 10,
+  "effectOnBreak": "sneak_metro_passage",
+  "breakIsPermanent": false,
+  "isOpen": false,
+  "closedMessage": "You need a valid ticket to use it",
+  "achievementsOnUse": "TakeMetro",
+  "achievementsOnOpen": "",
+  "achievementsOnBreak": "BreakDoor",
+  "interactableDistance": 2
+}

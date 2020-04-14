@@ -1,0 +1,6 @@
+{
+  "achievementId": "PizzaKing",
+  "numberToUnlock": 100,
+  "voidSpriteName": "pizzaking_locked.png",
+  "fullSpriteName": "pizzaking_unlocked.png"
+}

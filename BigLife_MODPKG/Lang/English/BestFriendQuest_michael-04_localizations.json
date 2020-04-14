@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-michael_quest_04",
+      "value": "Michael needs your help!"
+    },
+    {
+      "key": "bestfriend-michael_quest_04-TASK-DESCRIPTION",
+      "value": "Michael needs your help at the Center!"
+    },
+    {
+      "key": "bestfriend-michael_quest_04_start_dialogue-DESCRIPTION",
+      "value": "Great that you are there, I have to tell you something!\nThe Donuts helped and bribed the Gang.\n\nNow they see me as a member and don't hit me anymore.\nBut the leader is still critical and wants proof of loyalty.\n\nCan you please find me the following fish:\n3x Padulo (Fish)\n\nIt is said to be found where XCoder lives!"
+    },
+	{
+      "key": "bestfriend-michael_quest_04_start_dialogue_btnA",
+      "value": "i have 3x Padulo with me and 2x free Inv. Slots!"
+    },
+	{
+      "key": "bestfriend-michael_quest_04_start_dialogue_btnB",
+      "value": "i will get that fish and be back asap!"
+    },
+	{
+      "key": "bestfriend-michael_quest_04_ok_dialogue-DESCRIPTION",
+      "value": "This fish will appease the leader.\nI see your friend forever in your debt.\n\nMichael gives you:\n1x Home Phone (boxed)\n3x filled Wallet\n\nCome back to me if you want to join the Gang too!"
+    },
+	{
+      "key": "bestfriend-michael_quest_04_ok_dialogue_btnC",
+      "value": "Cool! Will be back soon.."
+    },
+	{
+      "key": "bestfriend-michael_quest_04_ko_dialogue-DESCRIPTION",
+      "value": "Sorry but I need the Fish!\nI can't keep inside this Gang without it.\n\nCome back when you got the fish .."
+    },
+	{
+      "key": "bestfriend-michael_quest_04_ko_dialogue_btnC",
+      "value": "Mkay.. i will go for it!"
+    }
+	
+  ]
+}

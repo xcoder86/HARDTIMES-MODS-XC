@@ -1,0 +1,134 @@
+{ 
+  "archetipusName": "baseItemArchetipus",
+  "category": "ContainerItem",
+  "items": [
+    {
+      "itemId": "plastic_bag",
+      "itemSpriteName": "plastic_bag.png",
+      "itemProxySprite": "plastic_bag.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 4
+		}
+	  ]
+    },
+	{
+      "itemId": "backpack",
+      "itemSpriteName": "backpack.png",
+      "itemProxySprite": "backpack.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 9
+		}
+	  ]
+    },
+	{
+      "itemId": "backpack_black",
+      "itemSpriteName": "backpack_black.png",
+      "itemProxySprite": "backpack_black.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 9
+		}
+	  ]
+    },
+	{
+      "itemId": "backpack_red",
+      "itemSpriteName": "backpack_red.png",
+      "itemProxySprite": "backpack_red.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 9
+		}
+	  ]
+    },
+	{
+      "itemId": "backpack_green",
+      "itemSpriteName": "backpack_green.png",
+      "itemProxySprite": "backpack_green.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 9
+		}
+	  ]
+    },
+	{
+      "itemId": "backpack_purple",
+      "itemSpriteName": "backpack_purple.png",
+      "itemProxySprite": "backpack_purple.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 9
+		}
+	  ]
+    },
+	{
+      "itemId": "backpack_yellow",
+      "itemSpriteName": "backpack_yellow.png",
+      "itemProxySprite": "backpack_yellow.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 9
+		}
+	  ]
+    },
+	{
+      "itemId": "Cigarette pack",
+      "itemSpriteName": "cigarette_pack.png",
+      "itemProxySprite": "cigarette_pack.png",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "itemEffectOnUse": "",
+      "effectModifiers": [],
+	  "extras": [
+		{
+			"key":"inventoryCapacity",
+			"intValue": 1
+		},
+		{
+			"key":"containerInventoryTypeFilter",
+			"stringValue": ""
+		},
+		{
+			"key":"singleItemAllowed",
+			"stringValue": "Cigarette"
+		}
+	  ]
+    }
+  ]
+}

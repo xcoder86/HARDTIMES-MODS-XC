@@ -1,0 +1,81 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-michael_quest_02",
+  "questSpriteName": "michael-lost_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-michael_quest_02_start_dialogue",
+  "okQuestDialogueId": "bestfriend-michael_quest_02_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-michael_quest_02_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "GetaBestFriend,GetAllBestFriends",
+"rewards": [
+	{
+	  "questItemId": "Special_Delivery",
+	  "questItemType": "SpecialItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 6
+	},
+	{
+	  "questItemId": "Metro Ticket",
+	  "questItemType": "BaseItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 2
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "rope",
+	  "questItemType": "BaseItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	},
+	{
+	  "questItemId": "dutch_tape",
+	  "questItemType": "BaseItem",
+	  "questItemAmount": 5,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-michael_quest_02_start_dialogue",
+	  "questDialogueTitle": "Michael is lost (2/3)",
+	  "buttonAText": "bestfriend-michael_quest_02_start_dialogue_btnA",
+	  "buttonAFunction": "EndQuest",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-michael_quest_02_start_dialogue_btnB",
+	  "buttonBFunction": "Dismiss",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_02_ok_dialogue",
+	  "questDialogueTitle": "Michael is lost (2/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_02_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-michael_quest_02_ko_dialogue",
+	  "questDialogueTitle": "Michael is lost (2/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-michael_quest_02_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "furnitureId": "Base Kitchen",
+  "furnitureType": "CraftingStationFurniture",
+  "boxedItemAncestorName": "base_kitchen_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "kitchen_base.png",
+  "furnitureColliderRadius": 0.5,
+  "isPackable": true,
+  "freezePosition": true,
+  
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": [],
+  "extras": [
+    {
+      "key": "recipesCollection",
+      "stringValue": "KitchenBaseRecipes"
+    },
+    {
+      "key": "panelTitle",
+      "stringValue": "Base Kitchen"
+    },
+    {
+      "key": "panelDescription",
+      "stringValue": "Base Kitchen Description"
+    },
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "craftingSound",
+      "stringValue": "cooking"
+    }
+  ]
+}

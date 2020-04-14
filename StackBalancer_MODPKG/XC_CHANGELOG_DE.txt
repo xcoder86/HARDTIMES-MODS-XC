@@ -1,0 +1,37 @@
+**********************************
+****** STACK BALANCER SYSTEM *****
+**********************************
+******    by XCoder 2020    ****** 
+**********************************
+
+Unterhalb findest du den Changelog dieses Mods in deutscher Fassung!
+
+##################################
+# 09.04.2020 | Mod Version: 1.1  #
+##################################
+
+- Food Items > Allgemein balanziert
+
+
+##################################
+# 05.04.2020 | Mod Version: 1.0  #
+##################################
+
+1.) Folgende Item Arten wurden balanciert (Stapel Limits & Ablaufdatum)
+- Base Items
+- Cleaning Items
+- Container Items
+- Corpse Items
+- Drug Items
+- Food Items
+- Hint Giver Items
+- Medical Items
+- Seed Items
+- Special Items
+- Wallet Items
+
+
+
+
+---------------------
+by xcoder 2020

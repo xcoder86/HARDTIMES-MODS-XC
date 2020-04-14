@@ -1,0 +1,27 @@
+{
+  "collectionId": "Z-TrapRecipes",
+  "recipes": [
+    {
+      "recipeId": "Raw Meat",
+      "duration": 1440,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Meat",
+          "itemType": "FoodItem",
+          "itemQuantity": 20
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "blue_berries",
+          "itemType": "FoodItem",
+          "itemQuantity": 10
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

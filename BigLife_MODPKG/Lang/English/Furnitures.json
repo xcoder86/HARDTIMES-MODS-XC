@@ -1,0 +1,239 @@
+{
+  "items": [
+    {
+	  "key": "workbench_advanced_BestFriends",
+	  "value": "Advanced Workbench"
+	},
+	{
+	  "key": "workbench_advanced_BestFriends-DESCRIPTION",
+	  "value": "a advanced Workbench!"
+	},
+
+	{
+	  "key": "BF-Business_soundsystem",
+	  "value": "Business Soundsystem"
+	},
+	{
+	  "key": "BF-Business_soundsystem-DESCRIPTION",
+	  "value": "a Business Soundsystem with extreme good Sound! ;)"
+	},
+	
+	
+	{
+	  "key": "z-trap_furniture",
+	  "value": "Z-Trap"
+	},
+	{
+	  "key": "z-trap_furniture-DESCRIPTION",
+	  "value": "a Trap to catch wild Animals to gain Meat!"
+	},
+	
+  
+	{
+	  "key": "BF-popcorncart",
+	  "value": "Popcorn Maschine"
+	},
+	{
+	  "key": "BF-popcorncart-DESCRIPTION",
+	  "value": "A Popcorn Maschine that makes Popcorn?!"
+	},
+	
+	
+	{
+	  "key": "Base Donut Hoven",
+	  "value": "Donut Hoven"
+	},
+	{
+	  "key": "Base Donut Hoven-DESCRIPTION",
+	  "value": "A great Donut hoven to start your Donut Production!"
+	},
+	
+	
+	{
+	  "key": "homephone_furniture",
+	  "value": "Home Phone"
+	},
+	{
+	  "key": "homephone_furniture-DESCRIPTION",
+	  "value": "a Phone for your warm Home! (Indoor Only)"
+	},
+	
+	
+	{
+	  "key": "medium_container",
+	  "value": "Medium Storage Box"
+	},
+	{
+	  "key": "medium_container-DESCRIPTION",
+	  "value": "a Medium Storage Box for your Stuff!"
+	},
+	{
+	  "key": "large_container",
+	  "value": "Large Storage Box"
+	},
+	{
+	  "key": "large_container-DESCRIPTION",
+	  "value": "a Large Storage Box for your Stuff!"
+	},
+	{
+	  "key": "BF-Business_vault",
+	  "value": "Business Vault"
+	},
+	{
+	  "key": "BF-Business_vault-DESCRIPTION",
+	  "value": "a oversized Business Vault with 30 Slots!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_fountain",
+	  "value": "Luxury Fountain"
+	},
+	{
+	  "key": "BF-Luxury_fountain-DESCRIPTION",
+	  "value": "a luxury Fountain, what else, what a Homeless!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_moneychestsculp",
+	  "value": "Luxury Chest and Sculpture"
+	},
+	{
+	  "key": "BF-Luxury_moneychestsculp-DESCRIPTION",
+	  "value": "a luxury Chest and Sculpture same time!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_bench",
+	  "value": "Luxury Bench"
+	},
+	{
+	  "key": "BF-Luxury_bench-DESCRIPTION",
+	  "value": "a luxury Bench! zZzzz"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_bed",
+	  "value": "Luxury Bed"
+	},
+	{
+	  "key": "BF-Luxury_bed-DESCRIPTION",
+	  "value": "a luxury Bed! zZzzz"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_glass_table",
+	  "value": "Luxury Glass Table"
+	},
+	{
+	  "key": "BF-Luxury_glass_table-DESCRIPTION",
+	  "value": "a luxury Glass Table!\nNothing else..."
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_marmor_table",
+	  "value": "Luxury Marmor Table"
+	},
+	{
+	  "key": "BF-Luxury_marmor_table-DESCRIPTION",
+	  "value": "a luxury Marmor Table!\nNothing else..."
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_fridge",
+	  "value": "Luxury Fridge"
+	},
+	{
+	  "key": "BF-Luxury_fridge-DESCRIPTION",
+	  "value": "a luxury Fridge to store Organics!"
+	},
+	
+	
+	{
+	  "key": "BF-Luxury_christmasoven",
+	  "value": "Luxury Christmas Oven"
+	},
+	{
+	  "key": "BF-Luxury_fridge-DESCRIPTION",
+	  "value": "a luxury Christmas Oven!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_table",
+	  "value": "Modern Table"
+	},
+	{
+	  "key": "BF-Modern_table-DESCRIPTION",
+	  "value": "a modern Table!\nNothing else..."
+	},
+	
+	
+	{
+	  "key": "BF-Modern_bed",
+	  "value": "Modern Bed"
+	},
+	{
+	  "key": "BF-Modern_bed-DESCRIPTION",
+	  "value": "a modern Bed! zZzzZZz"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_wallpicture",
+	  "value": "Modern Wall Picture"
+	},
+	{
+	  "key": "BF-Modern_wallpicture-DESCRIPTION",
+	  "value": "a creepy Picture for the Wall!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_wallpicture2",
+	  "value": "Modern Wall Picture 2"
+	},
+	{
+	  "key": "BF-Modern_wallpicture2-DESCRIPTION",
+	  "value": "a Gang Picture for the Wall!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_wallpicture3",
+	  "value": "Modern Wall Picture 3"
+	},
+	{
+	  "key": "BF-Modern_wallpicture3-DESCRIPTION",
+	  "value": "a Graffiti for the Wall!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_wallpicture4",
+	  "value": "Modern Wall Picture 4"
+	},
+	{
+	  "key": "BF-Modern_wallpicture4-DESCRIPTION",
+	  "value": "a Graffiti Picture for the Wall!"
+	},
+	
+	
+	{
+	  "key": "BF-Modern_pizzaoven",
+	  "value": "Modern Pizza Oven"
+	},
+	{
+	  "key": "BF-Modern_pizzaoven-DESCRIPTION",
+	  "value": "a Pizza Oven... yummi!"
+	}
+	
+	
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-bob_quest_05",
+  "questSpriteName": "bestfriend_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-bob_quest_05_start_dialogue",
+  "okQuestDialogueId": "bestfriend-bob_quest_05_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-bob_quest_05_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "BeLoyal",
+"rewards": [
+	{
+	  "questItemId": "Special_Delivery",
+	  "questItemType": "SpecialItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "crowbar",
+	  "questItemType": "BaseItem",
+	  "questItemQuality": 2,
+	  "questItemAmount": 1
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Bong",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 1,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-bob_quest_05_start_dialogue",
+	  "questDialogueTitle": "Bob needs yours help!",
+	  "buttonAText": "bestfriend-bob_quest_05_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-bob_quest_05_dialogue2",
+	  "buttonBText": "bestfriend-bob_quest_05_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-bob_quest_05_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-bob_quest_05_dialogue2",
+	  "questDialogueTitle": "Bob needs yours help!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-bob_quest_05_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-bob_quest_05_start_dialogue",
+	  "buttonCText": "bestfriend-bob_quest_05_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-bob_quest_05_ok_dialogue",
+	  "questDialogueTitle": "Bob needs yours help!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-bob_quest_05_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-bob_quest_05_ko_dialogue",
+	  "questDialogueTitle": "Bob needs yours help!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-bob_quest_05_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

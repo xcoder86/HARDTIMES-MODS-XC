@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-bob_quest_06",
+      "value": "Bob need some Joints! (Rep.)"
+    },
+    {
+      "key": "bestfriend-bob_quest_06-TASK-DESCRIPTION",
+      "value": "Bob always love to Smoke, may you can help him?"
+    },
+    {
+      "key": "bestfriend-bob_quest_06_start_dialogue-DESCRIPTION",
+	  "value": "How are you Bro?\nAt the moment there is not much to do!\nBut every time you get me:\n5x Joint\n\ni can give you:\n2x filled Wallets\n1x Special Delivery (for Sergio)\n\nIf you collect 6x Special Delivery for Sergio, you get a Reward from him!"
+    },
+	{
+      "key": "bestfriend-bob_quest_06_start_dialogue_btnA",
+      "value": "nothing else i can do for you?"
+    },
+	{
+      "key": "bestfriend-bob_quest_06_start_dialogue_btnB",
+      "value": "i got the Joints for ya!"
+    },
+	{
+	  "key": "bestfriend-bob_quest_06_start_dialogue_btnC",
+	  "value": "good to know... see you Bob!"
+	},
+	{
+      "key": "bestfriend-bob_quest_06_dialogue2-DESCRIPTION",
+      "value": "Survive my best friend...\nMaybe i have new tasks soon!\nCheck for Mod Updates to may get new Quests for me!\n\ntake care o7"
+    },
+	{
+      "key": "bestfriend-bob_quest_06_dialogue2_btnB",
+      "value": "sounds boring but okay!"
+    },
+	{
+      "key": "bestfriend-bob_quest_06_dialogue2_btnC",
+      "value": "i will get you something to smoke!"
+    },
+	{
+      "key": "bestfriend-bob_quest_06_ok_dialogue-DESCRIPTION",
+      "value": "Fantastic, I've been waiting for that!\nCome back if you got more Joints...\n\nYou got: 2x filled Wallet\n1x Special Delivery Box (for Sergio, collect!)"
+    },
+	{
+      "key": "bestfriend-bob_quest_06_ok_dialogue_btnC",
+      "value": "All right, will do.."
+    },
+	{
+      "key": "bestfriend-bob_quest_06_ko_dialogue-DESCRIPTION",
+      "value": "you dont have 6x Joint inside your Inventory!\nplease come back as soon you got them..."
+    },
+	{
+      "key": "bestfriend-bob_quest_06_ko_dialogue_btnC",
+      "value": "i will be back!"
+    }
+	
+  ]
+}

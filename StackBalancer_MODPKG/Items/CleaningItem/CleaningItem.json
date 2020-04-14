@@ -1,0 +1,38 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "CleaningItem",
+  "items": [
+   {
+      "itemRootPath": "",
+      "itemId": "wet_towels",
+      "itemSpriteName": "wet_towels.png",
+      "itemProxySprite": "",
+      "itemEffectOnUse": "cleaning_item_effect",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": [
+		{
+		  "statId": "playerClean",
+          "statModifier": 25
+		}
+	  ],
+	  "extras": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "towels",
+      "itemSpriteName": "towels.png",
+      "itemProxySprite": "",
+      "itemEffectOnUse": "cleaning_item_effect",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": [
+		{
+		  "statId": "playerClean",
+          "statModifier": 5
+		}
+	  ],
+	  "extras": []
+    }
+  ]
+}

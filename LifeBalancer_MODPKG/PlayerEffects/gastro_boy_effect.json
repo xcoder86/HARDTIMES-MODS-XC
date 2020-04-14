@@ -1,0 +1,25 @@
+{
+  "effectId": "gastro_boy_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 30,
+  "effectIntervalMinutes": 0,
+  "lastEffectCheckMinutes": 0,
+  "effectPlaySound": "pills",
+  "antidoteStatModifier": "",
+  "isPassive": true,
+  "statModifiers": [
+    {
+      "statId": "gastricProtection",
+      "statModifier": 1
+    }, 
+	{
+      "statId": "playerStamina",
+      "statModifier": 20
+    }, 
+	{
+      "statId": "playerSpeed",
+      "statModifier": +0.25
+    }
+  ]
+}

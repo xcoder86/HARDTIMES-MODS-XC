@@ -1,0 +1,16 @@
+{
+  "cropId": "cannabis_crop",
+  "quality": 2,
+  "growingInterval": 1400,
+  "spoilThreshold": 3500,
+  "smallSpriteName": "cannabis_s.png",
+  "mediumSpriteName": "cannabis_m.png",
+  "bigSpriteName": "cannabis_l.png",
+  "results": [
+    {
+      "questItemId": "Ganja",
+      "questItemType": "SpecialItem",
+      "questItemAmount": 5
+    }
+  ]
+}

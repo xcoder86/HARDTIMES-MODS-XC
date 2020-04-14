@@ -1,0 +1,6 @@
+{
+  "achievementId": "BusinessMan",
+  "numberToUnlock": 1,
+  "voidSpriteName": "businessman_locked.png",
+  "fullSpriteName": "businessman_unlocked.png"
+}

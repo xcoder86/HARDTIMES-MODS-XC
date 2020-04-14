@@ -1,0 +1,21 @@
+{
+  "effectId": "rain_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 0,
+  "effectIntervalMinutes": 20,
+  "lastEffectCheckMinutes": 0,
+  "effectPlaySound": "",
+  "antidoteStatModifier": "rainProtection",
+  "isPassive": true,
+  "statModifiers": [
+    {
+      "statId": "playerTemperature",
+      "statModifier": -1
+    }, 
+	{
+      "statId": "playerScandal",
+      "statModifier": +5
+    }
+  ]
+}

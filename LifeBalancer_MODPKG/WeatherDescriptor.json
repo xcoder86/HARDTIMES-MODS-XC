@@ -1,0 +1,174 @@
+{
+  "weatherCheckInterval": 60,
+  "weatherCheckIntervalError": 30,
+  "weatherMonths": [
+    {
+	  /*JANUARY*/
+      "monthId": 31,
+      "sunriseHour": 7,
+      "sunriseMinute": 30,
+      "sunsetHour": 16,
+      "sunsetMinute": 30,
+      "minTemperature": -5,
+      "maxTemperature": 15,
+      "snowProbability": 40,
+      "stormProbability": 15,
+      "rainProbability": 20,
+      "heatstrokeProbability": 0
+    },
+    {
+	  /*FEBRUARY*/
+      "monthId": 59,
+      "sunriseHour": 7,
+      "sunriseMinute": 0,
+      "sunsetHour": 17,
+      "sunsetMinute": 0,
+      "minTemperature": -3,
+      "maxTemperature": 15,
+      "snowProbability": 25,
+      "stormProbability": 20,
+      "rainProbability": 20,
+      "heatstrokeProbability": 0
+    },
+    {
+	  /*MARCH*/
+      "monthId": 90,
+      "sunriseHour": 6,
+      "sunriseMinute": 30,
+      "sunsetHour": 17,
+      "sunsetMinute": 30,
+      "minTemperature": 5,
+      "maxTemperature": 20,
+      "snowProbability": 10,
+      "stormProbability": 15,
+      "rainProbability": 15,
+      "heatstrokeProbability": 0
+    },
+    {
+	  /*APRIL*/
+      "monthId": 120,
+      "sunriseHour": 6,
+      "sunriseMinute": 0,
+      "sunsetHour": 18,
+      "sunsetMinute": 0,
+      "minTemperature": 5,
+      "maxTemperature": 20,
+      "snowProbability": 0,
+      "stormProbability": 5,
+      "rainProbability": 10,
+      "heatstrokeProbability": 0
+    },
+    {
+	  /*MAY*/
+      "monthId": 151,
+      "sunriseHour": 5,
+      "sunriseMinute": 30,
+      "sunsetHour": 18,
+      "sunsetMinute": 30,
+      "minTemperature": 10,
+      "maxTemperature": 25,
+      "snowProbability": 0,
+      "stormProbability": 10,
+      "rainProbability": 5,
+      "heatstrokeProbability": 0
+    },
+    {
+	  /*JUNE*/
+      "monthId": 181,
+      "sunriseHour": 5,
+      "sunriseMinute": 0,
+      "sunsetHour": 19,
+      "sunsetMinute": 0,
+      "minTemperature": 15,
+      "maxTemperature": 30,
+      "snowProbability": 0,
+      "stormProbability": 5,
+      "rainProbability": 5,
+      "heatstrokeProbability": 3
+    },
+    {
+	  /*JULY*/
+      "monthId": 212,
+      "sunriseHour": 4,
+      "sunriseMinute": 30,
+      "sunsetHour": 19,
+      "sunsetMinute": 30,
+      "minTemperature": 20,
+      "maxTemperature": 32,
+      "snowProbability": 0,
+      "stormProbability": 5,
+      "rainProbability": 1,
+      "heatstrokeProbability": 10
+    },
+    {
+	  /*AUGUST*/
+      "monthId": 243,
+      "sunriseHour": 5,
+      "sunriseMinute": 30,
+      "sunsetHour": 19,
+      "sunsetMinute": 0,
+      "minTemperature": 18,
+      "maxTemperature": 28,
+      "snowProbability": 0,
+      "stormProbability": 1,
+      "rainProbability": 5,
+      "heatstrokeProbability": 20
+    },
+    {
+	  /*SEPTEMBER*/
+      "monthId": 273,
+      "sunriseHour": 6,
+      "sunriseMinute": 0,
+      "sunsetHour": 18,
+      "sunsetMinute": 30,
+      "minTemperature": 15,
+      "maxTemperature": 25,
+      "snowProbability": 0,
+      "stormProbability": 15,
+      "rainProbability": 10,
+      "heatstrokeProbability": 5
+    },
+    {
+	  /*OCTOBER*/
+      "monthId": 304,
+      "sunriseHour": 6,
+      "sunriseMinute": 30,
+      "sunsetHour": 18,
+      "sunsetMinute": 0,
+      "minTemperature": 10,
+      "maxTemperature": 20,
+      "snowProbability": 5,
+      "stormProbability": 15,
+      "rainProbability": 15,
+      "heatstrokeProbability": 0
+    },
+    {
+	  /*NOVEMBER*/
+      "monthId": 334,
+      "sunriseHour": 7,
+      "sunriseMinute": 0,
+      "sunsetHour": 17,
+      "sunsetMinute": 30,
+      "minTemperature": 5,
+      "maxTemperature": 20,
+      "snowProbability": 10,
+      "stormProbability": 15,
+      "rainProbability": 20,
+      "heatstrokeProbability": 0
+    },
+    {
+	  /*DECEMBER*/
+      "monthId": 365,
+      "sunriseHour": 7,
+      "sunriseMinute": 30,
+      "sunsetHour": 17,
+      "sunsetMinute": 0,
+      "minTemperature": 0,
+      "maxTemperature": 15,
+      "snowProbability": 20,
+      "stormProbability": 15,
+      "rainProbability": 30,
+      "heatstrokeProbability": 0
+    }
+  ]
+}

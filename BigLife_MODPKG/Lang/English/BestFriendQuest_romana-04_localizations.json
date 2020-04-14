@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-romana_quest_04",
+      "value": "Romana need Help (3/3)"
+    },
+    {
+      "key": "bestfriend-romana_quest_04-TASK-DESCRIPTION",
+      "value": "Romana needs your help!"
+    },
+    {
+      "key": "bestfriend-romana_quest_04_start_dialogue-DESCRIPTION",
+      "value": "Ok this is the last time that I'm nervous about my party!\nCan you maybe help me again in this regard?\n\nI need:\n10x Fortune Cookie\n\nAs a thank you, I will give you a toilet for your shelter.\nAfter that I will teach you how to tame animals!"
+    },
+	{
+      "key": "bestfriend-romana_quest_04_start_dialogue_btnA",
+      "value": "yes i have the Fortune Cookies with me!"
+    },
+	{
+      "key": "bestfriend-romana_quest_04_start_dialogue_btnB",
+      "value": "i will try to get the Cookies!"
+    },
+	{
+      "key": "bestfriend-romana_quest_04_ok_dialogue-DESCRIPTION",
+      "value": "As always, I can rely on you!\nTake these things as thanks:\n\n1x Toilet (boxed)\n\nCome back if you want a new task!\nNow I'll take care of my party :)"
+    },
+	{
+      "key": "bestfriend-romana_quest_04_ok_dialogue_btnC",
+      "value": "thank you Romana and see you soon!"
+    },
+	{
+      "key": "bestfriend-romana_quest_04_ko_dialogue-DESCRIPTION",
+      "value": "Oh...\nand I thought you were done :(\nCome back when you have the Fortune Cookies!\n\nAnd please hurry;)\nThe birthday party starts soon .."
+    },
+	{
+      "key": "bestfriend-romana_quest_04_ko_dialogue_btnC",
+      "value": "Ye Ye, i will try my best!"
+    }
+	
+  ]
+}

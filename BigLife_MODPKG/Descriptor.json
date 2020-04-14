@@ -1,0 +1,20 @@
+{
+  "modName": "BigLife_MODPKG",
+  "author": "xcoder",
+  "gameVersion": "",
+  "cropsFolder": "Crops",
+  "shopsFolder": "Shops",
+  "langFolder": "Lang",
+  "itemsFolder": "Items",
+  "recipesFolder": "Recipes",
+  "questGiversNpcsFolder": "QuestGiversNpc",
+  "questsFolder": "Quests",
+  "scriptsFolder": "Scripts",
+  "achievementsFolder": "Achievements",
+  "furnituresFolder": "Furnitures",
+  "fishingSpotsFolder": "FishingSpots",
+  "playerEffectsFolder": "PlayerEffects",
+  "scenesFolder": "Scenes",
+  "doorsFolder": "Doors",
+  "spawnersFolder": "Spawners"
+}

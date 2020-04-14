@@ -1,0 +1,6 @@
+{
+  "achievementId": "GraffitiSprayer",
+  "numberToUnlock": 1,
+  "voidSpriteName": "graffitisprayer_locked.png",
+  "fullSpriteName": "graffitisprayer_unlocked.png"
+}

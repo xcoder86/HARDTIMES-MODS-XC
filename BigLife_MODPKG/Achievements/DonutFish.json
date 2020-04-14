@@ -1,0 +1,6 @@
+{
+  "achievementId": "DonutFish",
+  "numberToUnlock": 1,
+  "voidSpriteName": "donutfish_locked.png",
+  "fullSpriteName": "donutfish_unlocked.png"
+}

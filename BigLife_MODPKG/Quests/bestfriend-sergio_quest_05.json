@@ -1,0 +1,75 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-sergio_quest_05",
+  "questSpriteName": "fishing_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-sergio_quest_05_start_dialogue",
+  "okQuestDialogueId": "bestfriend-sergio_quest_05_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-sergio_quest_05_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "country_hat",
+	  "questItemType": "HatItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "Metro Ticket",
+	  "questItemType": "BaseItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 4
+	}
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Special_Delivery",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 1,
+	  "isToDestroyOnUse": true
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_05_start_dialogue",
+	  "questDialogueTitle": "fishing can be useful (2/2)",
+	  "buttonAText": "bestfriend-sergio_quest_05_start_dialogue_btnA",
+	  "buttonAFunction": "Dismiss",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-sergio_quest_05_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_05_ok_dialogue",
+	  "questDialogueTitle": "fishing can be useful (2/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-sergio_quest_05_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_05_ko_dialogue",
+	  "questDialogueTitle": "fishing can be useful (2/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-sergio_quest_05_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

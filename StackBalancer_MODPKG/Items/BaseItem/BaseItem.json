@@ -1,0 +1,525 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "BaseItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "pen",
+      "itemSpriteName": "pen.png",
+      "itemProxySprite": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "cardboard",
+      "itemSpriteName": "cardboard.png",
+      "itemProxySprite": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "umbrella",
+      "itemSpriteName": "umbrella.png",
+      "itemProxySprite": "umbrella.png",
+      "itemEffectOnEquip": "umbrella_effect",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "crowbar",
+      "itemSpriteName": "crowbar.png",
+      "itemProxySprite": "crowbar.png",
+      "itemEffectOnEquip": "crowbar_effect",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "spare_cardboard_box",
+      "itemSpriteName": "spare_cardboard_box.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "blanket",
+      "itemSpriteName": "blanket.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Empty water bottle",
+      "itemSpriteName": "water_bottle_empty.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Broom",
+      "itemSpriteName": "broom.png",
+      "itemProxySprite": "broom.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "metal_scrap",
+      "itemSpriteName": "metal_scrap.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "spring",
+      "itemSpriteName": "spring.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "rope",
+      "itemSpriteName": "rope.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "hammer",
+      "itemSpriteName": "hammer.png",
+      "itemProxySprite": "hammer.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "pincers",
+      "itemSpriteName": "pincers.png",
+      "itemProxySprite": "pincers.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "nails",
+      "itemSpriteName": "nails.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "screwdriver",
+      "itemSpriteName": "screwdriver.png",
+      "itemProxySprite": "screwdriver.png",
+      "itemEffectOnEquip": "screwdriver_effect",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "dutch_tape",
+      "itemSpriteName": "dutch_tape.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "wood",
+      "itemSpriteName": "wood.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "wood_scraps",
+      "itemSpriteName": "wood_scraps.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "soil",
+      "itemSpriteName": "soil.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "fishingpole",
+      "itemSpriteName": "fishingpole.png",
+      "itemProxySprite": "fishingpole.png",
+      "itemEffectOnEquip": "fishingpole_effect",
+      "itemExpiration": 0,
+      "maxStackable": 3,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "fishing_reel",
+      "itemSpriteName": "fishing_reel.png",
+      "itemProxySprite": "fishing_reel.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 5,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "fishing_float",
+      "itemSpriteName": "fishing_float.png",
+      "itemProxySprite": "fishing_float.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "fishing_pole_raw",
+      "itemSpriteName": "fishing_pole_raw.png",
+      "itemProxySprite": "fishing_pole_raw.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 3,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "fishing_wire",
+      "itemSpriteName": "fishing_wire.png",
+      "itemProxySprite": "fishing_wire.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 50,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "earthworm",
+      "itemSpriteName": "earthworm.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+	  "achievementsOnCraft": "EarthwormsCraft",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "pasture",
+      "itemSpriteName": "pasture.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "boot",
+      "itemSpriteName": "boot.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "mattock",
+      "itemSpriteName": "zappa.png",
+      "itemProxySprite": "zappa.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Metro Ticket",
+      "itemSpriteName": "metro_ticket.png",
+      "itemProxySprite": "metro_ticket.png",
+      "itemEffectOnEquip": "metro_ticket_effect",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "Fake Metro Ticket",
+      "itemSpriteName": "metro_ticket_fake.png",
+      "itemProxySprite": "metro_ticket_fake.png",
+      "itemEffectOnEquip": "fake_metro_ticket_effect",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Newspaper",
+      "itemSpriteName": "newspaper.png",
+      "itemProxySprite": "newspaper.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Bleach",
+      "itemSpriteName": "bleach.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 10,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Bucket",
+      "itemSpriteName": "bucket.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Bass Guitar",
+      "itemSpriteName": "bass_guitar.png",
+      "itemProxySprite": "bass_guitar.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "Guitar",
+      "itemSpriteName": "guitar.png",
+      "itemProxySprite": "guitar.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Cloth",
+      "itemSpriteName": "cloth.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 30,
+      "effectModifiers": []
+    },
+	{
+      "itemRootPath": "",
+      "itemId": "Small Cloth",
+      "itemSpriteName": "small_cloth.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 60,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Plastic scrap",
+      "itemSpriteName": "plastic_scrap.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Sewing thread",
+      "itemSpriteName": "sewing_thread.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Sewing needle",
+      "itemSpriteName": "sewing_needle.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Smoking Papers",
+      "itemSpriteName": "smoking_papers.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "hand_drill",
+      "itemSpriteName": "handdrill.png",
+      "itemProxySprite": "handdrill.png",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 1,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "dye_blue",
+      "itemSpriteName": "dye_blue.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "dye_black",
+      "itemSpriteName": "dye_black.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "dye_green",
+      "itemSpriteName": "dye_green.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "dye_red",
+      "itemSpriteName": "dye_red.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "dye_yellow",
+      "itemSpriteName": "dye_yellow.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "dye_purple",
+      "itemSpriteName": "dye_purple.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "ink",
+      "itemSpriteName": "ink.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "church_flyier",
+      "itemSpriteName": "church_flyier.png",
+      "itemProxySprite": "church_flyier.png",
+      "itemEffectOnEquip": "church_flyier_effect",
+      "itemExpiration": 0,
+      "maxStackable": 100,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Teabag",
+      "itemSpriteName": "teabag.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    },
+    {
+      "itemRootPath": "",
+      "itemId": "Dirt",
+      "itemSpriteName": "dirt.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+      "itemExpiration": 0,
+      "maxStackable": 99,
+      "effectModifiers": []
+    }							
+  ]
+}

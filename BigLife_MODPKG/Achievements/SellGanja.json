@@ -1,0 +1,6 @@
+{
+  "achievementId": "SellGanja",
+  "numberToUnlock": 50,
+  "voidSpriteName": "sell-ganja_locked.png",
+  "fullSpriteName": "sell-ganja_unlocked.png"
+}

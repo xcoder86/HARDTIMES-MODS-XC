@@ -1,0 +1,145 @@
+{
+  "items": [
+    {
+      "key": "Bong",
+      "value": "Bong"
+    },
+    {
+      "key": "Bong-DESCRIPTION",
+      "value": "*Blubber Blubber*"
+    },
+	
+	{
+      "key": "Special_Delivery",
+      "value": "Special Delivery"
+    },
+    {
+      "key": "Special_Delivery-DESCRIPTION",
+      "value": "a special Box for a special Person!"
+    },
+	
+	{
+      "key": "Special_Delivery_Dealer",
+      "value": "Gang Delivery"
+    },
+    {
+      "key": "Special_Delivery_Dealer-DESCRIPTION",
+      "value": "a special Gang Delivery! (Job)"
+    },
+	
+	{
+      "key": "Birthday_invitation_card",
+      "value": "Birthday invitation"
+    },
+    {
+      "key": "Birthday_invitation_card-DESCRIPTION",
+      "value": "a fancy Birthday Card, must be a Task Item!"
+    },
+	
+	{
+      "key": "Birthday_Cake",
+      "value": "Birthday Cake"
+    },
+    {
+      "key": "Birthday_Cake-DESCRIPTION",
+      "value": "a fancy Birthday Cake, must be a Task Item!"
+    },
+	
+	
+	{
+      "key": "coca_leaves",
+      "value": "Coca Leaves"
+    },
+    {
+      "key": "coca_leaves-DESCRIPTION",
+      "value": "Coca Leaves!?!? sounds forbidden!!!\nBut there must be a use for it.."
+    },
+	
+	{
+      "key": "tobacco_leaves",
+      "value": "Tobacco Leaves"
+    },
+    {
+      "key": "tobacco_leaves-DESCRIPTION",
+      "value": "Tobacco Leaves used for crafting!"
+    },
+	
+	{
+      "key": "Chemicals",
+      "value": "Chemicals"
+    },
+    {
+      "key": "Chemicals-DESCRIPTION",
+      "value": "Chemicals!?!? sounds forbidden!!!\nBut there must be a use for it.."
+    },
+	
+	
+	{
+      "key": "ecstasy_paste",
+      "value": "Ecstasy Paste"
+    },
+    {
+      "key": "ecstasy_paste-DESCRIPTION",
+      "value": "Ecstasy Paste!?!? sounds forbidden!!!\nBut there must be a use for it.."
+    },
+	
+	
+	{
+      "key": "baggie_empty",
+      "value": "Baggie (Empty)"
+    },
+    {
+      "key": "baggie_empty-DESCRIPTION",
+      "value": "a empty Baggy to put something in it!\nestimated value: € 0"
+    },
+	
+	{
+      "key": "baggie_ganja",
+      "value": "Baggie (Ganja)"
+    },
+    {
+      "key": "baggie_ganja-DESCRIPTION",
+      "value": "a Baggy filled with 5g Cannabis!\nestimated value: € 50"
+    },
+	
+	{
+      "key": "baggie_cocaine",
+      "value": "Baggie (Cocaine)"
+    },
+    {
+      "key": "baggie_cocaine-DESCRIPTION",
+      "value": "a Baggy filled with 1g Cocaine!\nestimated value: € 100"
+    },
+	
+	{
+      "key": "baggie_ecstasy",
+      "value": "Baggie (Ecstasy)"
+    },
+    {
+      "key": "baggie_ecstasy-DESCRIPTION",
+      "value": "a Baggy filled with 5 Ecstasy!\nestimated value: € 50"
+    },
+	
+	{
+      "key": "cigarette_filter",
+      "value": "Cigarette Filter"
+    },
+    {
+      "key": "cigarette_filter-DESCRIPTION",
+      "value": "a Cigarette Filter used for crafting!"
+    },
+	
+	
+	{
+      "key": "business_contracts",
+      "value": "Contracts"
+    },
+    {
+      "key": "business_contracts-DESCRIPTION",
+      "value": "Business Contracts!"
+    }
+	
+	
+	
+  ]
+}

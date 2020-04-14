@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "key": "Stone",
+      "value": "Stone"
+    },
+    {
+      "key": "Stone-DESCRIPTION",
+      "value": "its a Stone used for crafting!"
+    },
+	
+	
+	{
+      "key": "Obsidian",
+      "value": "Obsidian"
+    },
+    {
+      "key": "Obsidian-DESCRIPTION",
+      "value": "its Obsidian!\nCan be used for crafting."
+    },
+	
+	
+	{
+      "key": "business_metrocard",
+      "value": "Metro Card"
+    },
+    {
+      "key": "business_metrocard-DESCRIPTION",
+      "value": "a Metro Card used by Business People for their endless trips! Can be used 50 times as a Ticket.."
+    },
+	
+	
+	{
+      "key": "business_key",
+      "value": "Business Key"
+    },
+    {
+      "key": "business_key-DESCRIPTION",
+      "value": "just a Business Key!"
+    }
+	
+	
+  ]
+}

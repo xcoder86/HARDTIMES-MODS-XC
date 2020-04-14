@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-romana_quest_01",
+      "value": "Romana's Birthday (2/3)"
+    },
+    {
+      "key": "bestfriend-romana_quest_01-TASK-DESCRIPTION",
+      "value": "Romana's Birthday Party!"
+    },
+    {
+      "key": "bestfriend-romana_quest_01_start_dialogue-DESCRIPTION",
+      "value": "Hey i am Romana!\n\nKelly told me that you will visit me!\nShe told me you are a smart person right?\nDo you have the Birthday Cake for me?\nGet sure you have 3x free Slot within your Inventory!"
+    },
+	{
+      "key": "bestfriend-romana_quest_01_start_dialogue_btnA",
+      "value": "yes Romana, here is the Cake!"
+    },
+	{
+      "key": "bestfriend-romana_quest_01_start_dialogue_btnB",
+      "value": "Err.. i will come back later!"
+    },
+	{
+      "key": "bestfriend-romana_quest_01_ok_dialogue-DESCRIPTION",
+      "value": "Oh man, this cake is huge!\nHere you will definitely need some coffee!\n\nFrom now on you can count me among your friends.\nVisit me again if you need entertainment.\n\nBut now please bring Kelly this invitation card!\n\nYou get: 1x Birthday Invitation Card, 1x Metro Ticket, 3x Coffee"
+    },
+	{
+      "key": "bestfriend-romana_quest_01_ok_dialogue_btnC",
+      "value": "will do! See you soon Romana.."
+    },
+	{
+      "key": "bestfriend-romana_quest_01_ko_dialogue-DESCRIPTION",
+      "value": "No Cake?!?! : ((((\n\nPlease visit Kelly at the Market and bring me the Cake!"
+    },
+	{
+      "key": "bestfriend-romana_quest_01_ko_dialogue_btnC",
+      "value": "Uh.. i will try my best!"
+    }
+	
+  ]
+}

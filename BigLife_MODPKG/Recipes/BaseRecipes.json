@@ -1,0 +1,852 @@
+{
+  "collectionId": "BaseRecipes",
+  "recipes": [
+	{
+      "recipeId": "Cigarettes",
+      "duration": 45,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Cigarette",
+          "itemType": "DrugItem",
+          "itemQuantity": 20
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "tobacco_leaves",
+          "itemType": "SpecialItem",
+          "itemQuantity": 5
+        },
+		{
+          "itemId": "cigarette_filter",
+          "itemType": "SpecialItem",
+          "itemQuantity": 20
+        },
+		{
+          "itemId": "Smoking Papers",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Cigarette Filters",
+      "duration": 60,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "cigarette_filter",
+          "itemType": "SpecialItem",
+          "itemQuantity": 100
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "spare_cardboard_box",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        }
+      ]
+    },
+	
+	
+	
+	{
+      "recipeId": "unpack Ganja Baggie",
+      "duration": 5,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "baggie_empty",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "baggie_ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+  
+  
+    {
+      "recipeId": "unpack Ganja Baggie",
+      "duration": 5,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "baggie_empty",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "baggie_ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "unpack Cocaine Baggie",
+      "duration": 5,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "baggie_empty",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Cocaine",
+          "itemType": "DrugItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "baggie_cocaine",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "unpack Ecstasy Baggie",
+      "duration": 5,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "baggie_empty",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Ecstasy",
+          "itemType": "DrugItem",
+          "itemQuantity": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "baggie_ecstasy",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	
+	{
+      "recipeId": "begging_sign",
+      "duration": 15,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "begging_sign",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "pen",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Joint with Cigarette",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Joint",
+          "itemType": "DrugItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "Smoking Papers",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "Cigarette",
+          "itemType": "DrugItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Joint with Tabacco",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Joint",
+          "itemType": "DrugItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "Smoking Papers",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "tobacco_leaves",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "basic_cardboard_bed_boxed",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "basic_cardboard_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "spare_cardboard_box",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "better_cardboard_bed_boxed",
+      "duration": 20,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "better_cardboard_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "basic_cardboard_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "blanket",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "royal_cardboard_bed_boxed",
+      "duration": 30,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "royal_cardboard_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "better_cardboard_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Newspaper",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "newspaper_bed_boxed",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "newspaper_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Newspaper",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "better_newspaper_bed_boxed",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "better_newspaper_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "newspaper_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "blanket",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "rat_trap_boxed",
+      "duration": 30,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "rat_trap_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "rope",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "workbench",
+      "duration": 120,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "workbench_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "hammer",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "pincers",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Pumpkin Seeds",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "pumpkin_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 4
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Pumpkin",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Carrot Seeds",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "carrot_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 4
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Carrot",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Onion Seeds",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "onion_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 4
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Onion",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Cannabis Seeds",
+      "duration": 15,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "cannabis_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 3
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 5
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Coca Seeds",
+      "duration": 15,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "cocaine_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "coca_leaves",
+          "itemType": "SpecialItem",
+          "itemQuantity": 5
+        }
+      ]
+    },
+	
+	{
+      "recipeId": "Tobacco Seeds",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "tobacco_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 3
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "tobacco_leaves",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Soy Seeds",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "soy_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 4
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Soy",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Wheat Seeds",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "wheat_seed",
+          "itemType": "SeedItem",
+          "itemQuantity": 4
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Wheat",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Fishing pole",
+      "duration": 5,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "fishingpole",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "fishing_reel",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "fishing_float",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "fishing_pole_raw",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "fishing_wire",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Cardboard",
+      "duration": 5,
+	  "isPublic": true,
+      "result": [        
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "cardboard",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Bucket",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Bleach",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Newspaper",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Plastic Scrap",
+      "duration": 5,
+	  "isPublic": true,
+      "result": [        
+		{
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 5,
+		  "isToDestroyOnUse": true
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Empty Water Bottle",
+      "duration": 2,
+	  "isPublic": true,
+      "result": [        
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": true
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "base_container_boxed",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "base_container_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "spare_cardboard_box",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "dutch_tape",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "wood_scraps_hammer",
+      "duration": 2,
+	  "isPublic": true,
+      "result": [        
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood_scraps",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": true
+        },
+		{
+          "itemId": "hammer",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "wood_scraps",
+      "duration": 2,
+	  "isPublic": true,
+      "result": [        
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood_scraps",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": true
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Blanket",
+      "duration": 120,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "blanket",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        },
+		{
+          "itemId": "Sewing thread",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Sewing needle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1,
+		  "isToDestroyOnUse": false
+        }
+      ]
+    }
+	
+	
+	
+  ]
+}

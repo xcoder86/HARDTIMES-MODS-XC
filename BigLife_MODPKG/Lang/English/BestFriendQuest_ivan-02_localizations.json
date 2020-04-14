@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-ivan_quest_02",
+      "value": "Mailboxes and Contracts!"
+    },
+    {
+      "key": "bestfriend-ivan_quest_02-TASK-DESCRIPTION",
+      "value": "time to learn about Mailboxes and Contracts!"
+    },
+    {
+      "key": "bestfriend-ivan_quest_02_start_dialogue-DESCRIPTION",
+      "value": "Welcome to my Business!\nYour first Job will be to get Contracts.\n\nYou will receive a key from me that gives you access to all Mailboxes.\nIn these Mailboxes there are orders that you bring me!\nOf course I will give you shares of the profit!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_02_start_dialogue_btnA",
+      "value": "tell me more, i am interested!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_02_start_dialogue_btnB",
+      "value": "sounds good, lets do it!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_02_start_dialogue_btnC",
+      "value": "i will come back..."
+    },
+	{
+      "key": "bestfriend-ivan_quest_02_dialogue2-DESCRIPTION",
+      "value": "There is a Mailbox in every City / Town!\nFind them all and then return to me.\n\nIf you lose the Key, that's it and you can't continue with me.\nSo take good care of the Business Key."
+    },
+	{
+      "key": "bestfriend-ivan_quest_02_dialogue2_btnB",
+      "value": "i understand where did we stop?"
+    },
+	{
+      "key": "bestfriend-ivan_quest_02_dialogue2_btnC",
+      "value": "i am busy! may i come back later.."
+    },
+	{
+      "key": "bestfriend-ivan_quest_02_ok_dialogue-DESCRIPTION",
+      "value": "There is a Mailbox in every City / Town.\nWith the Business Key you have access to all of them.\n\nOnce you've checked out all the Mailboxes, come back to me!\nI will reward you for the Contracts.\n\nYou get:\n1x Business Key"
+    },
+	{
+      "key": "bestfriend-ivan_quest_02_ok_dialogue_btnC",
+      "value": "Roger Ivan, i will do my best!"
+    }
+	
+	
+  ]
+}

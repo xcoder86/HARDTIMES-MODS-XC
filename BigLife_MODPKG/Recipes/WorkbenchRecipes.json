@@ -1,0 +1,541 @@
+{
+  "collectionId": "WorkbenchRecipes",
+  "recipes": [
+  {
+      "recipeId": "workbench_advanced",
+      "duration": 220,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "workbench_advanced_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 6
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 8
+        },
+		{
+          "itemId": "hammer",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        }
+      ]
+    },
+	
+	
+	
+	{
+      "recipeId": "Medium Storage Box",
+      "duration": 25,
+      "isPublic": true,
+      "result": [
+        {
+          "itemId": "medium_container_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Large Storage Box",
+      "duration": 35,
+      "isPublic": true,
+      "result": [
+        {
+          "itemId": "large_container_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+		{
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	
+	
+	
+	{
+      "recipeId": "Home Phone Knowledge",
+      "duration": 45,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "home_phone_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+		{
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Donut Hoven Knowledge",
+      "duration": 25,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "donut_hoven_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+        {
+          "itemId": "soil",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "Water_Bottles",
+      "duration": 55,
+      "isPublic": true,
+      "result": [
+        {
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	
+	
+	{
+      "recipeId": "cultivation_plot_furniture",
+      "duration": 15,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "cultivation_plot_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+        {
+          "itemId": "soil",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+    {
+      "recipeId": "firebin_furniture",
+      "duration": 15,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "firebin_furniture_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+    {
+      "recipeId": "base_kitchen_furniture",
+      "duration": 15,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "base_kitchen_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+    {
+      "recipeId": "simple_bed_furniture",
+      "duration": 20,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "simple_bed_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        },
+        {
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	
+    {
+      "recipeId": "Tent",
+      "duration": 30,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "tent_furniture_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cloth",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        },
+        {
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "rope",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	
+    {
+      "recipeId": "Sewing Table",
+      "duration": 15,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "sewing_table_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	
+    {
+      "recipeId": "Chemical Table",
+      "duration": 15,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "chemical_table_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        },
+        {
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "wood",
+          "itemType": "BaseItem",
+          "itemQuantity": 3
+        }
+      ]
+    },
+	
+	
+	
+    {
+      "recipeId": "Wormfarm",
+      "duration": 60,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "wormfarm_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Bucket",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+        {
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+        {
+          "itemId": "soil",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	
+    {
+      "recipeId": "Mimeograph",
+      "duration": 60,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "wormfarm_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+        {
+          "itemId": "Plastic scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 4
+        },
+        {
+          "itemId": "ink",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        }
+      ]
+    },
+	
+	
+	
+    {
+      "recipeId": "Basic Stove",
+      "duration": 60,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "stove_basic_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 7
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 10
+        },
+        {
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	
+	
+	
+    {
+      "recipeId": "Medium Stove",
+      "duration": 60,
+      "isPublic": false,
+      "result": [
+        {
+          "itemId": "stove_medium_boxed",
+          "itemType": "BoxedFurnituresItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "metal_scrap",
+          "itemType": "BaseItem",
+          "itemQuantity": 7
+        },
+        {
+          "itemId": "nails",
+          "itemType": "BaseItem",
+          "itemQuantity": 20
+        },
+        {
+          "itemId": "spring",
+          "itemType": "BaseItem",
+          "itemQuantity": 2
+        }
+      ]
+    }
+	
+	
+	
+	
+  ]
+}

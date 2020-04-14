@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-sergio_quest_08",
+      "value": "Sergios Daily Job"
+    },
+    {
+      "key": "bestfriend-sergio_quest_08-TASK-DESCRIPTION",
+      "value": "currently not much to do but you can bring Special Delivery Boxes!"
+    },
+    {
+      "key": "bestfriend-sergio_quest_08_start_dialogue-DESCRIPTION",
+	  "value": "How are you Bro?\nAt the moment there is not much to do!\n\nBut every time you get:\n6x Special Delivery Box\n\nfrom Sergio, I can give you:\n3x Cannabis Seed\n3x Cocaine Seed"
+    },
+	{
+      "key": "bestfriend-sergio_quest_08_start_dialogue_btnA",
+      "value": "nothing else i can do for you?"
+    },
+	{
+      "key": "bestfriend-sergio_quest_08_start_dialogue_btnB",
+      "value": "i got 6x Special Delivery Box!"
+    },
+	{
+	  "key": "bestfriend-sergio_quest_08_start_dialogue_btnC",
+	  "value": "good to know... see you sergio!"
+	},
+	{
+      "key": "bestfriend-sergio_quest_08_dialogue2-DESCRIPTION",
+      "value": "Survive my best friend...\nMaybe i have new tasks soon!\nCheck for Mod Updates to may get new Quests for me!\n\ntake care o7"
+    },
+	{
+      "key": "bestfriend-sergio_quest_08_dialogue2_btnB",
+      "value": "sounds boring but okay!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_08_dialogue2_btnC",
+      "value": "i will visit Sergio and bring you some Boxes!"
+    },
+	{
+      "key": "bestfriend-sergio_quest_08_ok_dialogue-DESCRIPTION",
+      "value": "Fantastic, I've been waiting for that!\nI can finally continue with my new secret project.\nCome back if you got more Boxes...\n\nYou got: 6x Cannabis Seed\n3x Cocaine Seed"
+    },
+	{
+      "key": "bestfriend-sergio_quest_08_ok_dialogue_btnC",
+      "value": "Cool Story! Will do..."
+    },
+	{
+      "key": "bestfriend-sergio_quest_08_ko_dialogue-DESCRIPTION",
+      "value": "you dont have 6x Special Delivery Box of Sergio!\nplease come back as soon you got it..."
+    },
+	{
+      "key": "bestfriend-sergio_quest_08_ko_dialogue_btnC",
+      "value": "i will visit Sergio to get them!"
+    }
+	
+  ]
+}

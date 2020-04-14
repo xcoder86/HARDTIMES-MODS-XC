@@ -1,0 +1,6 @@
+{
+  "achievementId": "GetaBestFriend",
+  "numberToUnlock": 1,
+  "voidSpriteName": "best_friend_locked.png",
+  "fullSpriteName": "best_friend_unlocked.png"
+}

@@ -1,0 +1,20 @@
+{
+  "effectId": "church_flyier_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 0,
+  "effectIntervalMinutes": 0,
+  "lastEffectCheckMinutes": 0,
+  "antidoteStatModifier": "",
+  "isPassive": true,
+  "statModifiers": [
+	{
+      "statId": "playerClean",
+      "statModifier": +30
+    }, 
+	{
+      "statId": "playerScandal",
+      "statModifier": +50
+    }
+  ]
+}

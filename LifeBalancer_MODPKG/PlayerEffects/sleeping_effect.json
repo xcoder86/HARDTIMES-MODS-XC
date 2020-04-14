@@ -1,0 +1,22 @@
+{
+  "effectId": "sleeping_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 0,
+  "effectIntervalMinutes": 15,
+  "lastEffectCheckMinutes": 0,
+  "antidoteStatModifier": "",
+  "isPassive": false,
+  "statModifiers": [
+	{
+      "statId": "playerStamina",
+	  // 1= active  0=non active
+      "statModifier": 3
+    },
+	{
+      "statId": "playerHealth",
+	  // 1= active  0=non active
+      "statModifier": 2
+    }
+  ]
+}

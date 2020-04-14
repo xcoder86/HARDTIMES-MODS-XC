@@ -1,0 +1,20 @@
+{
+  "questGiverNpcId": "bestfriend-capone_npc",
+  "scene": "fascist_base",
+  "posX": 0,
+  "posY": -1,
+  "questList": [
+	"bestfriend-capone_quest_01"
+  ],
+  "bodyIndex": 4,
+  "hairIndex": 0,
+  "beardIndex": -1,
+  "dressId": "business_moderndress_shirt",
+  "dressType": "ClothingItem",
+  "hasBreast": false,
+  "hatId": "business_whiteblue",
+  "hatType": "HatItem",
+  "proxyId": "",
+  "proxyType": "",
+  "wanderRange": 5
+}

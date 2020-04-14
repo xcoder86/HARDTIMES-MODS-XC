@@ -1,0 +1,37 @@
+{
+  "furnitureId": "rat_trap_furniture",
+  "furnitureType": "PetTrapFurniture",
+  "boxedItemAncestorName": "rat_trap_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "rat_trap.png",
+  "furnitureColliderRadius": 0.4,
+  "isPackable": true,
+  "freezePosition": false,
+  
+  "achievementsOnUse": "",
+  "mass": 20,
+  "positionRestrictions": [],
+  "extras": [
+	{
+      "key": "ratCapturePercentage",
+      "intValue": 60
+    },
+	{
+      "key": "catCapturePercentage",
+      "intValue": 2
+    },
+	{
+      "key": "dogCapturePercentage",
+      "intValue": 0
+    },
+	{
+      "key": "trapEffectRadius",
+      "intValue": 5
+    },
+	{
+      "key": "trapEffectFrequency",
+      "intValue": 4
+    }		
+  ]
+}

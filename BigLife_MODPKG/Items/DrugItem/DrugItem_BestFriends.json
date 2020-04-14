@@ -1,0 +1,34 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "DrugItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "Cocaine",
+      "itemSpriteName": "cocaine.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+	  "itemEffectOnUse": "cocaine_use_effect",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": [],
+	   "extras": []
+    },
+	
+	
+	{
+      "itemRootPath": "",
+      "itemId": "Ecstasy",
+      "itemSpriteName": "ecstasy.png",
+      "itemProxySprite": "",
+      "itemEffectOnEquip": "",
+	  "itemEffectOnUse": "ecstasy_use_effect",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": [],
+	   "extras": []
+    }
+	
+	
+  ]
+}

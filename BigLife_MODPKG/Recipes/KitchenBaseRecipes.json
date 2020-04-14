@@ -1,0 +1,628 @@
+{
+  "collectionId": "KitchenBaseRecipes",
+  "recipes": [
+    {
+      "recipeId": "Vegetable Soup",
+      "duration": 35,
+	  "isPublic": false,
+      "result": [
+	    {
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "Vegetable Soup",
+          "itemType": "FoodItem",
+          "itemQuantity": 3
+        }
+		
+      ],
+      "ingredients": [
+        {
+          "itemId": "mushrooms",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Onion",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Carrot",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Pumpkin",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Pasture",
+      "duration": 15,
+	  "isPublic": false,
+      "result": [
+        
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "pasture",
+          "itemType": "BaseItem",
+          "itemQuantity": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Cheese",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Roasted Greenbo",
+      "duration": 15,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "roasted_greenbo",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "greenbo",
+          "itemType": "FishItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Roasted Flattula",
+      "duration": 15,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "roasted_flattula",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "flattula",
+          "itemType": "FishItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Roasted Purploid",
+      "duration": 15,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "roasted_purploid",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "purploid",
+          "itemType": "FishItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Fried Egg",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+        {
+          "itemId": "Fried Egg",
+          "itemType": "FoodItem",
+          "itemQuantity": 3
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "Eggs",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Butter",
+      "duration": 20,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "Butter",
+          "itemType": "FoodItem",
+          "itemQuantity": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "milk",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Cheese",
+      "duration": 30,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "Cheese",
+          "itemType": "FoodItem",
+          "itemQuantity": 5
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "milk",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Apple Pie",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+        {
+          "itemId": "Apple Pie",
+          "itemType": "FoodItem",
+          "itemQuantity": 4
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "milk",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Butter",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Eggs",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Apple",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Bread",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+        {
+          "itemId": "Bread",
+          "itemType": "FoodItem",
+          "itemQuantity": 4
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Small Animal Meat",
+      "duration": 30,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Meat",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "CatPetNpcManager-REMAINS|RatPetNpcManager-REMAINS",
+          "itemType": "CorpseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Medium Animal Meat",
+      "duration": 40,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Meat",
+          "itemType": "FoodItem",
+          "itemQuantity": 4
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "DogPetNpcManager-REMAINS",
+          "itemType": "CorpseItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "CheeseBurger",
+      "duration": 60,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "food_cheeseburger",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Bread",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Meat",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Cheese",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Steak",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Steak",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Meat",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "SpaceCake",
+      "duration": 15,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Space Cake",
+          "itemType": "DrugItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Butter",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Ganja",
+          "itemType": "SpecialItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Flour",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Wheat",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	{
+      "recipeId": "Grounded Coffee",
+      "duration": 15,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Grounded Coffee",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Coffee Beans",
+          "itemType": "FoodItem",
+          "itemQuantity": 2
+        }
+      ]
+    },
+	{
+      "recipeId": "Coffee",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+	    {
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "food_coffee",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Grounded Coffee",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Berry Pie",
+      "duration": 50,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Berry Pie",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Butter",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "blue_berries",
+          "itemType": "FoodItem",
+          "itemQuantity": 4
+        },
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Tea Bag",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Teabag",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Tea Leaves",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Tea",
+      "duration": 10,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "food_tea",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Teabag",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Raw Pasta",
+      "duration": 60,
+	  "isPublic": true,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Raw Pasta",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Flour",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Pasta Alfredo",
+      "duration": 60,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Pasta Alfredo",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }		
+      ],
+      "ingredients": [        
+		{
+          "itemId": "Raw Pasta",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "mushrooms",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Onion",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Carrot",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    },
+	{
+      "recipeId": "Milk",
+      "duration": 45,
+	  "isPublic": false,
+      "result": [
+		{
+          "itemId": "Empty water bottle",
+          "itemType": "BaseItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "milk",
+          "itemType": "FoodItem",
+          "itemQuantity": 3
+        }		
+      ],
+      "ingredients": [      
+		{
+          "itemId": "Soy",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        },
+		{
+          "itemId": "Water Bottle",
+          "itemType": "FoodItem",
+          "itemQuantity": 1
+        }
+      ]
+    }
+  ]
+}

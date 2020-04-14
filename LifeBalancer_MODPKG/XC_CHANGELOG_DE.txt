@@ -1,0 +1,63 @@
+**********************************
+****** LIFE BALANCER SYSTEM ******
+**********************************
+******    by XCoder 2020    ****** 
+**********************************
+
+Unterhalb findest du den Changelog dieses Mods in deutscher Fassung!
+
+##################################
+# 08.04.2020 | Mod Version: 1.1  #
+##################################
+
+1.) Shop Modifikationen wurden aus  diesem Mod entfernt
+	> wenn man diese moodifiziert möchte sollte man sich den BestFriends Mod ansehen!
+
+
+##################################
+# 01.04.2020 | Mod Version: 1.0  #
+##################################
+
+1.) Wetter Update
+Ab sofort gibt es "sanfteres" (Österrreich) Wetter. Die Bedingungen sind nicht mehr ganz so hart und es regnet nicht mehr so viel und man friert nicht mehr ständig.
+
+2.) Blaue Beeren
+Das einsammeln von blauen Beeren wird ab sofort nicht mehr als kriminell angesehen. (+Spawnrate verbessert)
+
+3.) Alkohol ist schlecht aber trotzdem gut
+die Geschwindigkeitsreduktion wurde etwas gelockert damit man nicht mehr ganz so langsam unterwegs ist :)
+Weiteres wurde die Kriminaltität entfernt da in Österreich Alkohol in der Öffentlichkeit erlaubt ist.
+
+4.) Türen einbrechen ist ab sofort nicht ganz so schlimm jedoch nach wie vor kriminell!
+5.) beim stehlen erwischt zu werden bedeutet ab sofort nicht das Ende!
+6.) Kirchen Flyer senken ab sofort auch die Kriminaltität
+7.) Zigaretten rauchen schadet der Gesundheit nun mehr als vorher jedoch erhöht es nun auch die Stamina und Geschwindigkeitswerte mehr. Außerdem fühlst du dich nach dem rauchen nun satter wirst jedoch auch ein wenig dreckiger (es stinkt und dein Mund .. igitt ^^)
+
+8.) Der Feuerkübel gibt dir ab sofort auch Ausdauer und senkt etwas deine Kriminalität. In Österreich ist es zwar verboten Feuer ohne Genehmigung zu machen aber wir sagen das Feuerkübel öffentliche erlaubte Feuerstellen sind. Somit können sich Obdachlose daran wärmen und Energie tanken sowie ihre Kriminaltität senken da Polizisten sehen das sie friedlich am Feuer sitzen und sich wärmen.
+
+9.) Fischen ist ab sofort nicht mehr ganz so kriminell! 
+10.) Essensaufnahme erzeugt weniger Magenprobleme und bringt etwas mehr Stamina
+11.) Gastro Boy gibt ab sofort auch etwas Ausdauer und Geschwindigkeit
+
+12.) Joints
+ein etwas umfangreiches Thema aber kurz erklärt gibt es dir nun Leben da kein einziger Todesfall auf Grund Canabis bekannt ist. Du bekommst nun etwas Leben und deine Crafting Geschwindigkeit erhöht sich statt sich zu senken (man kann durch den Konsum von Cannabis sehr kreativ werden). Weiteres erhöht sich deine Ausdauer (du fühlst dich berauscht)! Schmutzig und langsamer wirst du dabei trotzdem und kriminell bleibt es auch! Gesetze...  ;)
+
+13.) Sich in der öffentlichkeit zu waschen erzeugt nun weniger ärger
+
+14.) Regen
+wenn es regnet erhältst du ab sofort auch mehr anonymität (weniger Kriminalitätspunkte) da die Polizei bei regen ungern raus geht und du somit unbeobachteter bist.
+
+15.) Sich in der öffentlichkeit zu erleichtern erzeugt nun weniger ärger!
+16.) Schlafen lohnt sich ab sofort mehr!
+17.) Bei Schmugglern einzukaufen erzeugt weniger ärger!
+18.) Während dem sprinten verliert man Fahndungslevel
+19.) Im Müll zu wühlen sorgt nun für weniger ärger
+20.) Fieber verursacht ab sofort weniger Schaden
+
+21.) Shop Öffnungszeiten
+Kleidung, Lebensmittel, Zucht und Hardware Shops haben nun von 07 - 22 Uhr geöffnet
+
+
+---------------------
+by xcoder 2020
+

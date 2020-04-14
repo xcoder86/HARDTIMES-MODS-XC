@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-kelly_quest_05",
+      "value": "Romana's Birthday (1/3)"
+    },
+    {
+      "key": "bestfriend-kelly_quest_05-TASK-DESCRIPTION",
+      "value": "Romana's Birthday is coming!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_05_start_dialogue-DESCRIPTION",
+      "value": "Hey Dude!\n\nHave you ever met Romana?\nShe lives by the sea where you were fishing recently.\n\nI want to surprise Romana with cakes for the party!\nCan you please bring the Birthday Cake to her?\nShe will also give you an invitation card.\nPlease bring me this card!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_05_start_dialogue_btnA",
+      "value": "ok i will visit Romana!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_05_start_dialogue_btnB",
+      "value": "sounds good but my Inventory is full!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_05_ok_dialogue-DESCRIPTION",
+      "value": "Thank you so much!\nRomana is one of my best friends..\n\nYou got:\n1x Birthday Cake\n1x Metro Ticket\n\nShe have blond hairs and a red dress!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_05_ok_dialogue_btnC",
+      "value": "okay Kelly, i will visit Romana at the Sea!"
+    }
+	
+  ]
+}

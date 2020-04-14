@@ -1,0 +1,25 @@
+{
+  "shopId": "Bradipo Books",
+  "shopSpriteName": "kiosk.png",
+  "shopType": "Shop",
+  "openHour": 08,
+  "openMinute": 00,
+  "closeHour": 21,
+  "closeMinute": 00,
+  "refillIntervalMins": 15,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMaxItemsDropOnRob": 0,
+  "effectNeededToRob": "cantrobmebaby",
+  "shoppables": [
+    {
+      "itemId": "*",
+      "itemType": "BookItem",
+      "price": 200,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 1,
+      "maxQuantity": 1
+    }
+  ]
+}

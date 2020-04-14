@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-romana_quest_06",
+      "value": "Romana is missing a friend (2/2)"
+    },
+    {
+      "key": "bestfriend-romana_quest_06-TASK-DESCRIPTION",
+      "value": "Romana needs your help again!"
+    },
+    {
+      "key": "bestfriend-romana_quest_06_start_dialogue-DESCRIPTION",
+      "value": "Hello,\ncould you find Michael?\nI cant wait to finally see him again.\nSergio (his best friend) is also very excited.\n\nThe Birthday Party is sure to be a hit.."
+    },
+	{
+      "key": "bestfriend-romana_quest_06_start_dialogue_btnA",
+      "value": "yes i found Michael for you!"
+    },
+	{
+      "key": "bestfriend-romana_quest_06_start_dialogue_btnB",
+      "value": "Mkayyyy... i will try my best!"
+    },
+	{
+      "key": "bestfriend-romana_quest_06_ok_dialogue-DESCRIPTION",
+      "value": "Incredible you found him?\nWow and such a great cake!\n\nMichael is a great guy, visit him for assignments!\nIf you want another special task, come back...\n\nYou get: 5x Steak, 5x Blue Cow"
+    },
+	{
+      "key": "bestfriend-romana_quest_06_ok_dialogue_btnC",
+      "value": "thank you Romana and see you soon!"
+    },
+	{
+      "key": "bestfriend-romana_quest_06_ko_dialogue-DESCRIPTION",
+      "value": "Oh...\nand I thought you were done!\nCome back when you found Michael and bring the Birthday Cake!\n\nAnd please hurry...\nThe Birthday Party starts soon .."
+    },
+	{
+      "key": "bestfriend-romana_quest_06_ko_dialogue_btnC",
+      "value": "Mkayyyy... i will try my best!"
+    }
+	
+  ]
+}

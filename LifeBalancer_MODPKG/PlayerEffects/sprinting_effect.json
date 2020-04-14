@@ -1,0 +1,24 @@
+{
+  "effectId": "sprinting_effect",
+  "intensity": 1,
+  "minuteStart": 0,
+  "minutesDuration": 0,
+  "effectIntervalMinutes": 2,
+  "lastEffectCheckMinutes": 0,
+  "antidoteStatModifier": "",
+  "isPassive": false,
+  "statModifiers": [
+	{
+      "statId": "playerStamina",
+      "statModifier": -1
+    },
+	{
+      "statId": "playerClean",
+      "statModifier": -1
+    },
+	{
+      "statId": "playerScandal",
+      "statModifier": +3
+    }
+  ]
+}

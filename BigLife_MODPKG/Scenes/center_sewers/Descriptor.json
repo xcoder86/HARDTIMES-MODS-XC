@@ -1,0 +1,22 @@
+{
+  "sceneId": "center_sewers",
+  "sceneDirectory": {},
+  "doOverwriteBaseproperties": false,
+  "pavementSpriteName": "",
+  "objects": [ ],
+  "doors": [
+	{
+	  "modDoodId": "BestFriends_center-sewers_boat",
+	  "modDoorPositionX":  -1,
+	  "modDoorPositionY": -1,
+	  "modDoorRotation": 0,
+	  "doorSpawnPointDeltaX": 0,
+	  "doorSpawnPointDeltaY": 0,
+	  "doorColliderWidth": 1,
+	  "doorColliderHeight": 2,
+	  "doorColliderTrigger": true
+	}
+  ],
+  "shops": [ ],
+  "spawners": [ ]
+}

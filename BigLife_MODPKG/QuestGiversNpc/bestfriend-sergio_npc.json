@@ -1,0 +1,27 @@
+{
+  "questGiverNpcId": "bestfriend-sergio_npc",
+  "scene": "park",
+  "posX": 0,
+  "posY": -9,
+  "questList": [
+	"bestfriend-sergio_quest_01",
+	"bestfriend-sergio_quest_02",
+	"bestfriend-sergio_quest_03",
+	"bestfriend-sergio_quest_04",
+	"bestfriend-sergio_quest_05",
+	"bestfriend-sergio_quest_06",
+	"bestfriend-sergio_quest_07",
+	"bestfriend-sergio_quest_08"
+  ],
+  "bodyIndex": 2,
+  "hairIndex": 0,
+  "beardIndex": -1,
+  "dressId": "sweather_bis",
+  "dressType": "ClothingItem",
+  "hasBreast": false,
+  "hatId": "country_hat",
+  "hatType": "HatItem",
+  "proxyId": "",
+  "proxyType": "",
+  "wanderRange": 8
+}

@@ -1,0 +1,165 @@
+{
+  "shopId": "Vending Machine",
+  "shopSpriteName": "vending_machine_dx.png",
+  "shopType": "Shop",
+  "openHour": 00,
+  "openMinute": 00,
+  "closeHour": 23,
+  "closeMinute": 59,
+  "refillIntervalMins": 30,
+  "robberyDuration": 5,
+  "robberyRecoveryMins": 480,
+  "shopMinItemsDropOnRob": 1,
+  "shopMaxItemsDropOnRob": 3,
+  "effectNeededToRob": "crowbar_effect",
+  "shoppables": [
+	{
+      "itemId": "cigarette_filter",
+      "itemType": "SpecialItem",
+      "price": 0.10,
+      "minQuality": 4,
+      "maxQuality": 4,
+      "minQuantity": 10,
+      "maxQuantity": 30
+    },
+	{
+      "itemId": "tobacco_leaves",
+      "itemType": "SpecialItem",
+      "price": 1.00,
+      "minQuality": 4,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 20
+    },
+	
+    {
+      "itemId": "towels",
+      "itemType": "CleaningItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "wet_towels",
+      "itemType": "CleaningItem",
+      "price": 8,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Water Bottle",
+      "itemType": "FoodItem",
+      "price": 2,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "Light the Bob Stout",
+      "itemType": "FoodItem",
+      "price": 7,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 5
+    },
+	{
+      "itemId": "plaster",
+      "itemType": "MedicItem",
+      "price": 6,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "maxidol",
+      "itemType": "MedicItem",
+      "price": 25,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "scabydoo",
+      "itemType": "MedicItem",
+      "price": 25,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "gastro_boy",
+      "itemType": "MedicItem",
+      "price": 20,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+	{
+      "itemId": "pen",
+      "itemType": "BaseItem",
+      "price": 6,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "cardboard",
+      "itemType": "BaseItem",
+      "price": 4,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "Chocolate Snack",
+      "itemType": "FoodItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "Blue Cow",
+      "itemType": "FoodItem",
+      "price": 6,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 5,
+      "maxQuantity": 10
+    },
+    {
+      "itemId": "Cigarette pack",
+      "itemType": "ContainerItem",
+      "price": 5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 3,
+      "maxQuantity": 5,
+	  "itemsContainedIfBought": "Cigarette|DrugItem*20"
+    },
+    {
+      "itemId": "Smoking Papers",
+      "itemType": "BaseItem",
+      "price": 2.5,
+      "minQuality": 2,
+      "maxQuality": 4,
+      "minQuantity": 10,
+      "maxQuantity": 20
+    }
+	
+	
+  ]
+}

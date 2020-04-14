@@ -1,0 +1,55 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-sergio_quest_06",
+  "questSpriteName": "bestfriend-otherside_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-sergio_quest_06_start_dialogue",
+  "okQuestDialogueId": "bestfriend-sergio_quest_06_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-sergio_quest_06_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "cultivation_plot_boxed",
+	  "questItemType": "BoxedFurnituresItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 1
+	},
+	{
+	  "questItemId": "cannabis_seed",
+	  "questItemType": "SeedItem",
+	  "questItemQuality": 3,
+	  "questItemAmount": 5
+	}
+  ],
+  "prerequisites": [],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_06_start_dialogue",
+	  "questDialogueTitle": "Time for Business (1/2)",
+	  "buttonAText": "bestfriend-sergio_quest_06_start_dialogue_btnA",
+	  "buttonAFunction": "Dismiss",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-sergio_quest_06_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "",
+	  "buttonCFunction": "",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-sergio_quest_06_ok_dialogue",
+	  "questDialogueTitle": "Time for Business (1/2)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-sergio_quest_06_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

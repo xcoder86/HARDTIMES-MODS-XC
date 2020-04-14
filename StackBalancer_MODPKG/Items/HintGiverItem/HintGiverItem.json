@@ -1,0 +1,16 @@
+{
+  "archetipusName": "baseItemArchetipus",
+  "category": "HintGiverItem",
+  "items": [
+    {
+      "itemRootPath": "",
+      "itemId": "Fortune Cookie",
+      "itemSpriteName": "fortune_cookie.png",
+	  "achievementsOnUse": "UseAllFortuneCookies",
+      "itemProxySprite": "",
+      "itemExpiration": 0,
+      "maxStackable": 20,
+      "effectModifiers": []
+    }							
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "furnitureId": "cart_furniture",  
+  "furnitureType": "CartFurniture",
+  "boxedItemAncestorName": "base_container_boxed",
+  "boxedItemAncestorType": "BoxedFurnituresItem",
+  "furnitureArchetipusName": "FurnitureArchetipus",
+  "furnitureSpriteName": "cart.png",
+  "furnitureColliderRadius": 0.6,
+  "isPackable": false,
+  "freezePosition": false,
+  "achievementsOnUse": "UseCart",
+  "mass": 2,
+  "audioClip" : "",
+  "positionRestrictions": [],
+  "extras": [
+    {
+      "key": "craftingPaletteModule",
+      "stringValue": "FloatingCraftingPanel"
+    },
+    {
+      "key": "effectRadius",
+      "floatValue": 3
+    },
+    {
+      "key": "effectOnEnter",
+      "stringValue": "cart_proximity_effect"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-kelly_quest_01",
+      "value": "Kelly needs your Delivery!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_01-TASK-DESCRIPTION",
+      "value": "Kelly is waiting for your delivery!"
+    },
+    {
+      "key": "bestfriend-kelly_quest_01_start_dialogue-DESCRIPTION",
+      "value": "Hiho my Name is Kelly,\nSergio told me that you do the delivery Job!?\n\ni need:\n1x Purploid\n2x Greenbo\n\nGet sure you dont have a full Inventory!\nYou will get 3 Items from me!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_01_start_dialogue_btnA",
+      "value": "yes Kelly, i have the Fish with me!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_01_start_dialogue_btnB",
+      "value": "i dont know what you are talking about!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_01_ok_dialogue-DESCRIPTION",
+      "value": "Wonderful and as fresh as it is!\nThank you for your great delivery, please take this Special Delivery Box for Sergio and bring it to him. Of course you also get something!\n\nYou got:\n1x Special Delivery Box (for Sergio)\n10 x Earthworms (for you)\n1 x roasted Greenbo (for you)"
+    },
+	{
+      "key": "bestfriend-kelly_quest_01_ok_dialogue_btnC",
+      "value": "Thanks and see you soon Kelly!"
+    },
+	{
+      "key": "bestfriend-kelly_quest_01_ko_dialogue-DESCRIPTION",
+      "value": "Um ...?\n\nI need the Fish!!!!.\nOnly with the Fish we can continue...\n\nRequired:\n1x Purploid\n2x Greenbo"
+    },
+	{
+      "key": "bestfriend-kelly_quest_01_ko_dialogue_btnC",
+      "value": "Damn... i will be back soon!"
+    }
+	
+  ]
+}
