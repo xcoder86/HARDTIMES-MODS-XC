@@ -15,7 +15,7 @@
   "extras":[
 	{
 		"key":"peopleAmount",
-		"intValue": 100
+		"intValue": 90
 	},
 	{
 		"key":"song",

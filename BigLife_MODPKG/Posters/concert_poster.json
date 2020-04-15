@@ -1,0 +1,25 @@
+{
+  "posterId": "concert_poster",
+  "posterType": "ConcertPoster",
+  "posterSpriteName": "squat_concert_poster.png",
+  "posterThumbSpritename" : "squat_concert_poster_thumb.png",
+  "extras":[
+    {
+		"key":"eventTrackedId",
+		"stringValue": "Punk Concert"
+	},
+  ]
+},
+
+{
+  "posterId": "techno_concert_poster",
+  "posterType": "ConcertPoster",
+  "posterSpriteName": "techno_concert_poster.png",
+  "posterThumbSpritename" : "techno_concert_poster_thumb.png",
+  "extras":[
+    {
+		"key":"eventTrackedId",
+		"stringValue": "Techno Concert"
+	},
+  ]
+}
