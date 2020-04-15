@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-ivan_quest_05",
+      "value": "Business men also have dirty jobs!"
+    },
+    {
+      "key": "bestfriend-ivan_quest_05-TASK-DESCRIPTION",
+      "value": "Sometimes business men also have to get dirty!"
+    },
+    {
+      "key": "bestfriend-ivan_quest_05_start_dialogue-DESCRIPTION",
+      "value": "Were you able to speak to Capone?\nIt is important that he receives his Delivery!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_start_dialogue_btnA",
+      "value": "how can i find this Capone?"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_start_dialogue_btnB",
+      "value": "i was speaking to him! (2x free Inv. Slots needed)"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_start_dialogue_btnC",
+      "value": "i will come back later!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_dialogue2-DESCRIPTION",
+      "value": "Capone is a known Criminal.\nHe is the Dealer Boss of the Facists.\n\nSupposedly you can find him in the Underground with the Rats.\nThey have a hiding Place where you will find him!\n\nIt may be that you first have to make friends with the Facists to get Capone! It is a very special order. But you will also be properly paid for it!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_dialogue2_btnB",
+      "value": "Roger, where did we stop?"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_dialogue2_btnC",
+      "value": "Err.. thats to risky for me!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_ok_dialogue-DESCRIPTION",
+      "value": "Great thing!\nWith Capone you can certainly make money too.\nHowever, he is from the other side, be aware of that!\n\nYou get:\n1x Business Trolley\n+ € 200"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_ok_dialogue_btnC",
+      "value": "good to know and thanks!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_ko_dialogue-DESCRIPTION",
+      "value": "Capone is a known Criminal.\nHe is the Dealer Boss of the Facists.\n\nSupposedly you can find him in the Underground with the Rats.\nThey have a hiding Place where you will find him!\n\nIt may be that you first have to make friends with the Facists to get Capone! It is a very special order. But you will also be properly paid for it!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_05_ko_dialogue_btnC",
+      "value": "i got it, will be back!"
+    }
+	
+  ]
+}

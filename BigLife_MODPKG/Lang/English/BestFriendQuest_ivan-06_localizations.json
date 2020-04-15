@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-ivan_quest_06",
+      "value": "Daily Contract Job (Rep.)"
+    },
+    {
+      "key": "bestfriend-ivan_quest_06-TASK-DESCRIPTION",
+      "value": "daily contracts bring money!"
+    },
+    {
+      "key": "bestfriend-ivan_quest_06_start_dialogue-DESCRIPTION",
+      "value": "There is not much to do at the moment!\nIf you still have the Business Key, you can get Contracts.\n\nIvan would like to get:\n25x contracts\n\nYou get:\n€ 250"
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_start_dialogue_btnA",
+      "value": "will there be any new Jobs?"
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_start_dialogue_btnB",
+      "value": "i have 25x Contracts with me!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_start_dialogue_btnC",
+      "value": "i will come back later!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_dialogue2-DESCRIPTION",
+      "value": "Yes, of course there will be new Jobs.\nAlways check for Mod Updates.\n\nBut there are also some other Clients!\nUntil then, you can continue to get Contracts ..."
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_dialogue2_btnB",
+      "value": "Roger, where did we stop?"
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_dialogue2_btnC",
+      "value": "Err.. maybe later!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_ok_dialogue-DESCRIPTION",
+      "value": "Thank you for the Contracts!\nIf you want you can bring me more ...\n\nYou get:\n€ 250"
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_ok_dialogue_btnC",
+      "value": "i will be back!"
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_ko_dialogue-DESCRIPTION",
+      "value": "Sorry but you need the Contracts!\nIf you bring me the Contracts, you will get Money."
+    },
+	{
+      "key": "bestfriend-ivan_quest_06_ko_dialogue_btnC",
+      "value": "i got it, will be back!"
+    }
+	
+	
+  ]
+}

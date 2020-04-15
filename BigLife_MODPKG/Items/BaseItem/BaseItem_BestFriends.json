@@ -32,12 +32,8 @@
 	  "itemEffectOnEquip": "metro_ticket_effect",
       "itemExpiration": 0,
       "maxStackable": 1,
-      "extras": [
-		{
-			"key":"maxUses",
-			"intValue": 50
-		}
-	  ]
+	  "maxUses": 50,
+      "extras": []
     },
 	
 	

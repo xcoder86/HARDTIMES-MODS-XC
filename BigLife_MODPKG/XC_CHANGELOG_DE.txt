@@ -28,7 +28,7 @@ Das bedeutet auch die Preise für diverse Dinge wurden angepasst.
 Wie immer solltest du deine alte Mod Version ohne Probleme ersetzen können!
 
 Neue NPC's (2):
-- Ivan (Business Man, 5 Aufgaben / 1 wiederholend) <<<<<<<<<<< FEHLT
+- Ivan (Business Man, 6 Aufgaben / 1 wiederholend)
 - Capone (Dealer Boss, 5 Aufgaben / 1 wiederholend) <<<<<<<<<<< FEHLT
 
 Neue Gegenstände (13):
@@ -44,7 +44,7 @@ Neue Gegenstände (13):
 - Ecstasy Pill (Chemical Table, useable / sellable)
 - Chemicals (Crafting, can be buyd)
 - Baggie (Crafting)
-- Metro Card (prepeared - not yet implemented) <<<<<<<<< FUNKTIONIERT NICHT RICHTIG
+- Metro Card (=50x Metro Ticket)
 
 Neue Einrichtungen (5):
 - Z-Trap (Adv. Workbench, Meat Farming > Cooking)
@@ -61,7 +61,7 @@ Global Business (4):
 
 Neue Erfolge (9):
 - Business Man
-- Contract Master <<<<<<<<<<<<<<<<<<<<<< FUNKTIONIERT NOCH NICHT
+- Contract Master
 - be a Dealer
 - Dealer King
 - sell * Baggie's x3
@@ -95,7 +95,7 @@ Sonstiges (4):
 ##################################
 # 08.04.2020 | Mod Version: 1.1  #
 ##################################
-# THEMA: XL Luxury Update	 #
+# THEMA: XL Luxury Update	 	 #
 ##################################
 
 Neue Rezept Bücher (5):

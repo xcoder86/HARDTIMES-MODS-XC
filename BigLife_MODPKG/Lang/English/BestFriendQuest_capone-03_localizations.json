@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-capone_quest_03",
+      "value": "Capone and the sick Dealer (1/3)"
+    },
+    {
+      "key": "bestfriend-capone_quest_03-TASK-DESCRIPTION",
+      "value": "one of Capone's Dealer got sick"
+    },
+    {
+      "key": "bestfriend-capone_quest_03_start_dialogue-DESCRIPTION",
+      "value": "good that you are here, i need your help!\nOne of my Dealer's got sick.\n\nCan you help me at the next Concert Event that will take place?\nYou do it for the Gang Bro...\n\nYou need two free Inventory Slots to take the Stuff!"
+    },
+	{
+      "key": "bestfriend-capone_quest_03_start_dialogue_btnA",
+      "value": "Concerts? Tell me more..."
+    },
+	{
+      "key": "bestfriend-capone_quest_03_start_dialogue_btnB",
+      "value": "yes i can help you! (+2x free Inv. Slot)"
+    },
+	{
+      "key": "bestfriend-capone_quest_03_start_dialogue_btnC",
+      "value": "Err... may later!"
+    },
+	{
+      "key": "bestfriend-capone_quest_03_dialogue2-DESCRIPTION",
+      "value": "There are many Concerts!\nYou will find Placards on the Streets that indicate this.\n\nYou can sell Stuff at these Events.\nWe mostly sell Drugs there, but Pizza & Popcorn are also popular!"
+    },
+	{
+      "key": "bestfriend-capone_quest_03_dialogue2_btnB",
+      "value": "i see, where did we stop?"
+    },
+	{
+      "key": "bestfriend-capone_quest_03_dialogue2_btnC",
+      "value": "Err.. i will come back later!"
+    },
+	{
+      "key": "bestfriend-capone_quest_03_ok_dialogue-DESCRIPTION",
+      "value": "I knew you wouldn't let me down!\nTake these Drugs and sell them at the Concert.\nCome back when you've sold all the Drugs!\nYou will get € 500 from people for it!\n\nYou get:\n3x Baggie (Cocaine)\n4x Baggie (Ecastasy)\n\nI will of course involve you for your loyalty!"
+    },
+	{
+      "key": "bestfriend-capone_quest_03_ok_dialogue_btnC",
+      "value": "Roger, i will come back!"
+    }
+	
+  ]
+}

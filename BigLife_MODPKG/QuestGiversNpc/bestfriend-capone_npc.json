@@ -1,10 +1,12 @@
 {
   "questGiverNpcId": "bestfriend-capone_npc",
   "scene": "fascist_base",
-  "posX": 0,
-  "posY": -1,
+  "posX": 14.66,
+  "posY": -6.8,
   "questList": [
-	"bestfriend-capone_quest_01"
+	"bestfriend-capone_quest_01",
+	"bestfriend-capone_quest_02",
+	"bestfriend-capone_quest_03"
   ],
   "bodyIndex": 4,
   "hairIndex": 0,
@@ -16,5 +18,5 @@
   "hatType": "HatItem",
   "proxyId": "",
   "proxyType": "",
-  "wanderRange": 5
+  "wanderRange": 0
 }
