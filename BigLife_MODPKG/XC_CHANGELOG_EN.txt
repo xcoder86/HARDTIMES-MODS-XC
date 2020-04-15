@@ -4,13 +4,93 @@
 ******    by XCoder 2020    ****** 
 **********************************
 
-Coming soon (tm):
-- Dealer update * next *
-- new hiding place
-- new "Secret" NPC
-- more items
-- more missions
-- Vehicles?!
+The following is currently planned(tm):
+- new hidden rooms / locations
+- New "Secret" NPC with more orders
+- vehicles (skateboard etc., still unclear)
+
+
+##################################
+# 16.04.2020 | Mod Version: 1.2  #
+##################################
+# THEMA: Business & Dealer Update#
+##################################
+
+**** BIG MONEY BALANCING UPDATE ****
+****  BIG BUSINESS LIFE UDATE   ****
+****     BIG OUTFIT UPDATE      ****
+
+With this mod update, the entire money system get rebalanced.
+Many new items, facilities, and general skills have been introduced.
+In general, you can now dive much deeper, it's fun!
+
+It's about creating a more realistic economic system.
+This also means that the prices for various things have been adjusted.
+As always, you should be able to replace your old mod version without any problems!
+
+New NPCs (2):
+- Ivan (Business Man, 6 tasks / 1 repetition)
+- Capone (Dealer Boss, 6 tasks / 1 repetition)
+
+New Items (13):
+- Business Backpack (12 slots Backpack, Sewing Table)
+- Business Trolley (15 slots Backpack, Sewing Table)
+- Cigarette Filters (crafting, char. Crafting)
+- Tobacco Seeds + Plant (Growing)
+- Coca Seeds + Plant (Growing)
+- Tobacco Leaves (crafting)
+- Coca Leaves (crafting)
+- Cocaine Powder (Chemical Table, useable / sellable)
+- Ecstasy Paste (crafting, chemical table)
+- Ecstasy Pill (Chemical Table, useable / sellable)
+- Chemicals (crafting, can be buyd)
+- Baggie (crafting)
+- Metro Card (= 50x Metro Ticket)
+
+New Facilities (5):
+- Z-Trap (Adv. Workbench, Meat Farming> Cooking)
+- Medium Storage (handed over to Vanilla Update, Workbench)
+- Large Storage (handed over to Vanilla Update, Workbench)
+- Business Vault (XL Secure Storage with 30 slots, Adv. Workbench)
+- Business sound system (Adv. Workbench)
+
+Global Business (4):
+- from now on you can make your own Cigarettes!
+- Shop opening times improved
+- Shop offers & quantities improved
+- Shop prices adjusted (balancing)
+
+New achievements (9):
+- Business man
+- Contract Master
+- be a dealer
+- Dealer King
+- sell * Baggie's x3
+- Styler
+
+New Clothing & Co. (28):
+- 11 new Hair Styles have been added
+- Business Hat Collection added (12 hats)
+- Business Dress Collection added (6 shirts / suits)
+
+New recipe books (2, 17 new recipes):
+- Business Life (Advanced Workbench Recipes, 5 new skills)
+- Dealer Life (Chemical Table & Base Recipes, 12 new skills)
+
+NPC Oriented (7):
+- XCoder's standing order (Best Friends) has changed (improved)
+- Michael's standing order (Best Friends) has changed (improved)
+- Romana's standing order (Best Friends) has changed (improved) +1 mission
+- XCoder's endurance run has ended and he is now in a fixed position
+- The Smuggler now also sells the new substances contained in the Dealer Update
+- Events are now asking for different substances & pizza, popcorn! (Dealer Life)
+- Civilians are now walking around in a wider variety of clothes *yay*
+
+Other (4):
+- Special delivery packages can now be manufactured (Dealer Life, Chem. Table)
+- Graphic error in "Chemical Table" has been fixed
+- 11 new hair styles have been added
+- Fixed other minor bugs
 
 
 ##################################
@@ -87,6 +167,8 @@ Other (8):
 
 ##################################
 # 02.04.2020 | Mod Version: 1.0  #
+##################################
+# TOPIC: Best Friends Update     #
 ##################################
 
 1.) New NPC's (5, Best Friends):

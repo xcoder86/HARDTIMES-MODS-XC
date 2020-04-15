@@ -509,6 +509,15 @@
     {
       "key": "business_mailbox_effect-DESCRIPTION",
       "value": "you are opening the Mailbox!"
+    },
+	
+	{
+      "key": "scabydoo_effect",
+      "value": "Scabydoo Protection"
+    },
+    {
+      "key": "scabydoo_effect-DESCRIPTION",
+      "value": "you are protected from Scabydoo Illness!"
     }
 	
 	

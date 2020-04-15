@@ -1,0 +1,74 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-capone_quest_05",
+  "questSpriteName": "dealerboss_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-capone_quest_05_start_dialogue",
+  "okQuestDialogueId": "bestfriend-capone_quest_05_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-capone_quest_05_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "GangBusiness",
+"rewards": [],
+  "prerequisites": [
+	{
+      "questItemId": "",
+      "questItemType": "Money",
+      "questItemAmount": 700
+    }
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-capone_quest_05_start_dialogue",
+	  "questDialogueTitle": "Capone and the sick Dealer (3/3)",
+	  "buttonAText": "bestfriend-capone_quest_05_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-capone_quest_05_dialogue2",
+	  "buttonBText": "bestfriend-capone_quest_05_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-capone_quest_05_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-capone_quest_05_dialogue2",
+	  "questDialogueTitle": "Capone and the sick Dealer (3/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-capone_quest_05_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-capone_quest_05_start_dialogue",
+	  "buttonCText": "bestfriend-capone_quest_05_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-capone_quest_05_ok_dialogue",
+	  "questDialogueTitle": "Capone and the sick Dealer (3/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-capone_quest_05_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-capone_quest_05_ko_dialogue",
+	  "questDialogueTitle": "Capone and the sick Dealer (3/3)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-capone_quest_05_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

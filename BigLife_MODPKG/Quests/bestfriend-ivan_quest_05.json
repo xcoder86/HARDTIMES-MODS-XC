@@ -1,0 +1,87 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-ivan_quest_05",
+  "questSpriteName": "business_quest_img.png",
+  "isReoccurring": false,
+  "startingQuestDialogueId": "bestfriend-ivan_quest_05_start_dialogue",
+  "okQuestDialogueId": "bestfriend-ivan_quest_05_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-ivan_quest_05_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "",
+"rewards": [
+	{
+	  "questItemId": "business_trolley",
+	  "questItemType": "ContainerItem",
+	  "questItemQuality": 4,
+	  "questItemAmount": 1
+	},
+	{
+      "questItemId": "",
+      "questItemType": "Money",
+      "questItemQuality": 1,
+      "questItemAmount": 200
+    }
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "Special_Delivery_Dealer",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 1
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_05_start_dialogue",
+	  "questDialogueTitle": "Business men also have dirty jobs!",
+	  "buttonAText": "bestfriend-ivan_quest_05_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-ivan_quest_05_dialogue2",
+	  "buttonBText": "bestfriend-ivan_quest_05_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_05_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_05_dialogue2",
+	  "questDialogueTitle": "Business men also have dirty jobs!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-ivan_quest_05_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-ivan_quest_05_start_dialogue",
+	  "buttonCText": "bestfriend-ivan_quest_05_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_05_ok_dialogue",
+	  "questDialogueTitle": "Business men also have dirty jobs!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_05_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_05_ko_dialogue",
+	  "questDialogueTitle": "Business men also have dirty jobs!",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_05_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

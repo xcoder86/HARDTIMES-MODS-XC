@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-capone_quest_02",
+      "value": "A delivery for Capone"
+    },
+    {
+      "key": "bestfriend-capone_quest_02-TASK-DESCRIPTION",
+      "value": "Capone waits for a special delivery!"
+    },
+    {
+      "key": "bestfriend-capone_quest_02_start_dialogue-DESCRIPTION",
+      "value": "Oh hello...\nI am currently waiting for a special delivery!\nIvan on the Seaside promised to send someone."
+    },
+	{
+      "key": "bestfriend-capone_quest_02_start_dialogue_btnA",
+      "value": "who is Ivan? Tell me more..."
+    },
+	{
+      "key": "bestfriend-capone_quest_02_start_dialogue_btnB",
+      "value": "yes i have the delivery! (+2x free Inv. Slot)"
+    },
+	{
+      "key": "bestfriend-capone_quest_02_start_dialogue_btnC",
+      "value": "oh okay, good luck!"
+    },
+	{
+      "key": "bestfriend-capone_quest_02_dialogue2-DESCRIPTION",
+      "value": "Ivan is a pure Businessman!\nNot a bad guy like me ...\n\nBut he promised to deliver something we need.\nYou can find Ivan Seaside!"
+    },
+	{
+      "key": "bestfriend-capone_quest_02_dialogue2_btnB",
+      "value": "Okay, where did we stop?"
+    },
+	{
+      "key": "bestfriend-capone_quest_02_dialogue2_btnC",
+      "value": "Err.. i will come back later!"
+    },
+	{
+      "key": "bestfriend-capone_quest_02_ok_dialogue-DESCRIPTION",
+      "value": "I was really waiting for that, the Gang will be happy!\nThank you, you seem to have your Nose in everything.\nHere take this Suitcase and bring it to Ivan!\n\nYou get:\n1x Gang Delivery\n2x Baggie (Ecstasy)"
+    },
+	{
+      "key": "bestfriend-capone_quest_02_ok_dialogue_btnC",
+      "value": "Roger, will do!"
+    },
+	{
+      "key": "bestfriend-capone_quest_02_ko_dialogue-DESCRIPTION",
+      "value": "Unfortunately you don't have what I need with you!\nCome back when you have the delivery."
+    },
+	{
+      "key": "bestfriend-capone_quest_02_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}

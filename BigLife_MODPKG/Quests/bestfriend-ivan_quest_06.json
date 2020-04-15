@@ -1,0 +1,81 @@
+{
+  "questType": "BestFriendQuest",
+  "questId": "bestfriend-ivan_quest_06",
+  "questSpriteName": "businesscontracts_quest_img.png",
+  "isReoccurring": true,
+  "startingQuestDialogueId": "bestfriend-ivan_quest_06_start_dialogue",
+  "okQuestDialogueId": "bestfriend-ivan_quest_06_ok_dialogue",
+  "koQuestDialogueId": "bestfriend-ivan_quest_06_ko_dialogue",
+  "achievementsOnStart": "",
+  "achievementsOnComplete": "ContractMaster",
+"rewards": [
+	{
+      "questItemId": "",
+      "questItemType": "Money",
+      "questItemQuality": 1,
+      "questItemAmount": 250
+    }
+  ],
+  "prerequisites": [
+	{
+	  "questItemId": "business_contracts",
+	  "questItemType": "SpecialItem",
+	  "questItemAmount": 25
+	}
+  ],
+  "extras": [],
+  "dialogues": [
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_06_start_dialogue",
+	  "questDialogueTitle": "Daily Contract Job (Rep.)",
+	  "buttonAText": "bestfriend-ivan_quest_06_start_dialogue_btnA",
+	  "buttonAFunction": "OpenDialogue",
+	  "buttonAParameter": "bestfriend-ivan_quest_06_dialogue2",
+	  "buttonBText": "bestfriend-ivan_quest_06_start_dialogue_btnB",
+	  "buttonBFunction": "EndQuest",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_06_start_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_06_dialogue2",
+	  "questDialogueTitle": "Daily Contract Job (Rep.)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "bestfriend-ivan_quest_06_dialogue2_btnB",
+	  "buttonBFunction": "OpenDialogue",
+	  "buttonBParameter": "bestfriend-ivan_quest_06_start_dialogue",
+	  "buttonCText": "bestfriend-ivan_quest_06_dialogue2_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_06_ok_dialogue",
+	  "questDialogueTitle": "Daily Contract Job (Rep.)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_06_ok_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	},
+	{
+	  "questDialogueId": "bestfriend-ivan_quest_06_ko_dialogue",
+	  "questDialogueTitle": "Daily Contract Job (Rep.)",
+	  "buttonAText": "",
+	  "buttonAFunction": "",
+	  "buttonAParameter": "",
+	  "buttonBText": "",
+	  "buttonBFunction": "",
+	  "buttonBParameter": "",
+	  "buttonCText": "bestfriend-ivan_quest_06_ko_dialogue_btnC",
+	  "buttonCFunction": "Dismiss",
+	  "buttonCParameter": ""
+	}
+  ]
+}

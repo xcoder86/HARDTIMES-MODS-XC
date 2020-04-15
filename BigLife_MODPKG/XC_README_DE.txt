@@ -3,12 +3,10 @@
 **********************************
 ******    by XCoder 2020    ****** 
 **********************************
-				 *
-letzte Updates:			 *
-0?.04.20 - Business Update	 *
-08.04.20 - XL Luxury Update	 *
-25.03.20 - Best Friends Update	 *
-**********************************
+letzte Updates:			 
+16.04.20 - XL Business Update	 
+08.04.20 - XL Luxury Update	 
+25.03.20 - Best Friends Update	 
 
 Dieser Mod fügt deinem Spiel (auch vorhandenem Savegame) viele neue Möglichkeiten hinzu.
 Viele neue Gegenstände, Einrchtungen und Allgemeine Fähigkeiten wurden eingeführt.
@@ -59,8 +57,8 @@ NEUE NPC'S (8):
 - Romana (+7 Aufgaben)
 - Michael (+7 Aufgaben)
 - XCoder (+3 Aufgaben)
-- Ivan (+5 Aufgaben)
-- Capone (+5 Aufgaben)
+- Ivan (+6 Aufgaben)
+- Capone (+6 Aufgaben)
 
 
 NEUE GEGENSTÄNDE (23):
@@ -84,7 +82,7 @@ NEUE GEGENSTÄNDE (23):
 - Special Delivery Box (- // -)
 - Birthday Cake (- // -)
 - Birthday Invitation Card (- // -)
-- Metro Card (prepeared - not yet implemented)
+- Metro Card (=50x Metro Ticket)
 - Business Backpack (12 Slots Backpack, Sewing Table)
 - Business Trolley (15 Slots Backpack, Sewing Table)
 
@@ -180,7 +178,7 @@ NEUE FISCHARTEN (1):
 
 SONSTIGE ANPASSUNGEN (6):
 - Das Gesamte Geld System wurde balanciert
-- Neue Aufgaben zusammengefasst: 38 Stück (mehr folgen)
+- Neue Aufgaben zusammengefasst: +60 (mehr folgen)
 - viele Grafiken wurden optimiert bzw. erneuert (+Growing Grafiken optimiert)
 - Wasser Flaschen (x5) können nun in der Werkbank anhand von 2x Plastik Teilen Standardmäßig hergestellt werden
 - Einkaufswagen Grafik wurde geändert (Testweise)

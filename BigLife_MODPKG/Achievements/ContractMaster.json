@@ -1,6 +1,6 @@
 {
   "achievementId": "ContractMaster",
-  "numberToUnlock": 100,
+  "numberToUnlock": 50,
   "voidSpriteName": "contractmaster_locked.png",
   "fullSpriteName": "contractmaster_unlocked.png"
 }

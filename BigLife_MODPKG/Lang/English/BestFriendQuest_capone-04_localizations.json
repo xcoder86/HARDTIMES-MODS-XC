@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-capone_quest_04",
+      "value": "Capone and the sick Dealer (2/3)"
+    },
+    {
+      "key": "bestfriend-capone_quest_04-TASK-DESCRIPTION",
+      "value": "one of Capone's Dealer is sick!"
+    },
+    {
+      "key": "bestfriend-capone_quest_04_start_dialogue-DESCRIPTION",
+      "value": "Did you sell the Stuff?\nI need € 300 of the Income, you can keep € 200.\nAnd unfortunately my Dealer is still sick, I need you again!\n\nCapone wants:\n€ 300\n\nYou will receive for your next Job:\n20x Baggie (Ganja)"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_start_dialogue_btnA",
+      "value": "New Job? Tell me more first.."
+    },
+	{
+      "key": "bestfriend-capone_quest_04_start_dialogue_btnB",
+      "value": "Yes i have the € 300 for you and 1x free Inv. Slot!"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_start_dialogue_btnC",
+      "value": "Uh.. your Money.. will be back!"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_dialogue2-DESCRIPTION",
+      "value": "Yes, it's about selling more Baggies.\nAttend another Concert to get rid of them!\nI will of course reward you for that.\n\nYour Reputation with the Gang also increases!"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_dialogue2_btnB",
+      "value": "sounds good, where did we stop?"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_dialogue2_btnC",
+      "value": "Err.. i will come back later!"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_ok_dialogue-DESCRIPTION",
+      "value": "you are really a great Guy!\nI look forward to doing a lot of Business with you.\n\nYou get:\n20x Baggie (ganja)\nSell the Baggies and come back to me with the € 1.000"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_ok_dialogue_btnC",
+      "value": "Roger, will do!"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_ko_dialogue-DESCRIPTION",
+      "value": "Where's the € 300, my Share?\nDid you spend all the Money?!?!\n\nCome back with the Money otherwise it will have consequences!"
+    },
+	{
+      "key": "bestfriend-capone_quest_04_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}

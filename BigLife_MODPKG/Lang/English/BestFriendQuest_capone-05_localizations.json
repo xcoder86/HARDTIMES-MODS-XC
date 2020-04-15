@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-capone_quest_05",
+      "value": "Capone and the sick Dealer (3/3)"
+    },
+    {
+      "key": "bestfriend-capone_quest_05-TASK-DESCRIPTION",
+      "value": "Capone is waiting for his Share!"
+    },
+    {
+      "key": "bestfriend-capone_quest_05_start_dialogue-DESCRIPTION",
+      "value": "Did you sell the Stuff?\nI need € 700 of the Income, you can keep € 300.\nThank goodness my Dealer is healthy again!!\n\nCapone wants:\n€ 700\n\nYou can keep:\n€ 300"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_start_dialogue_btnA",
+      "value": "Uh, why you want € 700?"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_start_dialogue_btnB",
+      "value": "i got the € 700 for you!"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_start_dialogue_btnC",
+      "value": "Uh.. your Money.. will be back!"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_dialogue2-DESCRIPTION",
+      "value": "Yes, it's about selling more Baggies.\nAttend another Concert to get rid of them!\nI will of course reward you for that.\n\nYour Reputation with the Gang also increases!"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_dialogue2_btnB",
+      "value": "sounds good, where did we stop?"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_dialogue2_btnC",
+      "value": "Err.. i will come back later!"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_ok_dialogue-DESCRIPTION",
+      "value": "you are really a great Guy!\nI look forward to doing more Business with you."
+    },
+	{
+      "key": "bestfriend-capone_quest_05_ok_dialogue_btnC",
+      "value": "Roger, will come back!"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_ko_dialogue-DESCRIPTION",
+      "value": "Where's the € 700, my Share?\nDid you spend all the Money?!?!\n\nCome back with the Money otherwise it will have consequences!"
+    },
+	{
+      "key": "bestfriend-capone_quest_05_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}

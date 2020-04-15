@@ -14,10 +14,6 @@
 		{
 			"key":"inventoryCapacity",
 			"intValue": 12
-		},
-		{
-		  "key": "slotsNum",
-		  "intValue": 12
 		}
 	  ]
     },
@@ -34,10 +30,6 @@
 		{
 			"key":"inventoryCapacity",
 			"intValue": 15
-		},
-		{
-		  "key": "slotsNum",
-		  "intValue": 15
 		}
 	  ]
     }

@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "key": "bestfriend-capone_quest_06",
+      "value": "Capone needs Gang Delivery's"
+    },
+    {
+      "key": "bestfriend-capone_quest_06-TASK-DESCRIPTION",
+      "value": "you can help Capone with Gang Deliverys!"
+    },
+    {
+      "key": "bestfriend-capone_quest_06_start_dialogue-DESCRIPTION",
+      "value": "there you are again, have been waiting for you!\nAt the moment I only need Michael Deliveries.\n\nCapone wants:\n1x Gang Delivery\n\nYou will receive per delivery:\n€ 600"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_start_dialogue_btnA",
+      "value": "who is Michael?"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_start_dialogue_btnB",
+      "value": "yes i have a Gang Delivery with me!"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_start_dialogue_btnC",
+      "value": "Okay, will be back!"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_dialogue2-DESCRIPTION",
+      "value": "you don't remember Michael?\nHe has become a good Gang Member.\nHe is hanging out at the Center.\n\nVisit him and see what he has to do for you!"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_dialogue2_btnB",
+      "value": "ah i remember, i have the Delivery with me!"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_dialogue2_btnC",
+      "value": "okay i will visit Michael!"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_ok_dialogue-DESCRIPTION",
+      "value": "Great, I was waiting for this delivery!\nCome back when you have a new delivery.\n\nYou get:\n€ 600"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_ok_dialogue_btnC",
+      "value": "Roger, will come back!"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_ko_dialogue-DESCRIPTION",
+      "value": "Sorry but you have no Gang Delivery!\nCome back when you got it from Michael!"
+    },
+	{
+      "key": "bestfriend-capone_quest_06_ko_dialogue_btnC",
+      "value": "Err... okay!"
+    }
+	
+  ]
+}
