@@ -7,7 +7,7 @@
   "okQuestDialogueId": "civilian_asks_for_Ecstasy_ok_dialogue",
   "koQuestDialogueId": "civilian_asks_for_Ecstasy_ko_dialogue",
   "achievementsOnStart": "",
-  "achievementsOnComplete": "SellEcstasy",
+  "achievementsOnComplete": "SellEcstasy,DealerKing",
 "rewards": [
 	{
       "questItemId": "",

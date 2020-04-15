@@ -13,14 +13,14 @@
       "questItemId": "",
       "questItemType": "Money",
       "questItemQuality": 1,
-      "questItemAmount": 250
+      "questItemAmount": 200
     }
   ],
   "prerequisites": [
 	{
 	  "questItemId": "baggie_ganja",
 	  "questItemType": "SpecialItem",
-	  "questItemAmount": 5,
+	  "questItemAmount": 4,
 	  "isToDestroyOnUse": true
 	}
   ],

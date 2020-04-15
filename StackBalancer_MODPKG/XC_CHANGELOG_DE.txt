@@ -7,10 +7,11 @@
 Unterhalb findest du den Changelog dieses Mods in deutscher Fassung!
 
 ##################################
-# 09.04.2020 | Mod Version: 1.1  #
+# 15.04.2020 | Mod Version: 1.1  #
 ##################################
 
-- Food Items > Allgemein balanziert
+- Food Items wurden aus dem Mod entfernt
+	> bei Interesse an Modifikationen dieser Items nutze den BigLife Mod!
 
 
 ##################################
