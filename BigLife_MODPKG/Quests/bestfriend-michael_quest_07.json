@@ -10,10 +10,10 @@
   "achievementsOnComplete": "GangBusiness",
 "rewards": [
 	{
-      "questItemId": "",
-      "questItemType": "Money",
+      "questItemId": "Special_Delivery_Dealer",
+      "questItemType": "SpecialItem",
       "questItemQuality": 1,
-      "questItemAmount": 450
+      "questItemAmount": 1
     }
   ],
   "prerequisites": [

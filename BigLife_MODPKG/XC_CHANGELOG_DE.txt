@@ -10,7 +10,7 @@ Folgendes ist derzeit geplant(tm):
 - Fahrzeuge (Skateboard etc., noch unklar)
 
 ##################################
-# 0?.04.2020 | Mod Version: 1.2  #
+# 16.04.2020 | Mod Version: 1.2  #
 ##################################
 # THEMA: Business & Dealer Update#
 ##################################
@@ -27,9 +27,10 @@ Es geht darum, ein realistischeres Wirtschaftssystem zu erzeugen.
 Das bedeutet auch die Preise für diverse Dinge wurden angepasst.
 Wie immer solltest du deine alte Mod Version ohne Probleme ersetzen können!
 
+
 Neue NPC's (2):
 - Ivan (Business Man, 6 Aufgaben / 1 wiederholend)
-- Capone (Dealer Boss, 5 Aufgaben / 1 wiederholend) <<<<<<<<<<< FEHLT
+- Capone (Dealer Boss, 6 Aufgaben / 1 wiederholend)
 
 Neue Gegenstände (13):
 - Business Backpack (12 Slots Backpack, Sewing Table)
@@ -95,7 +96,7 @@ Sonstiges (4):
 ##################################
 # 08.04.2020 | Mod Version: 1.1  #
 ##################################
-# THEMA: XL Luxury Update	 	 #
+# THEMA: XL Luxury Update	 #
 ##################################
 
 Neue Rezept Bücher (5):
@@ -167,6 +168,8 @@ Sonstiges (8):
 
 ##################################
 # 02.04.2020 | Mod Version: 1.0  #
+##################################
+# TOPIC: Best Friends Update     #
 ##################################
 
 1.) Neue NPC's (5, beste Freunde):

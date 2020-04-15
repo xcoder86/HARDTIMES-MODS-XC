@@ -10,7 +10,7 @@
     },
     {
       "key": "bestfriend-michael_quest_07_start_dialogue-DESCRIPTION",
-      "value": "There is currently not much to do with me!\nBut you can help the Gang, they always need:\n\n1x Cocaine Baggie\n5x Ganja Baggie\n5x Ecstasy Baggie\n\nIf you got the Stuff you will get:\n€ 450"
+      "value": "There is currently not much to do with me!\nBut you can help the Gang, they always need:\n\n1x Cocaine Baggie\n5x Ganja Baggie\n5x Ecstasy Baggie\n\nIf you got the Stuff you will get:\n1x Gang Delivery"
     },
 	{
       "key": "bestfriend-michael_quest_07_start_dialogue_btnA",
@@ -22,7 +22,7 @@
     },
 	{
       "key": "bestfriend-michael_quest_07_ok_dialogue-DESCRIPTION",
-      "value": "You are so fast every time!\n\nI need to talk to my boss, maybe we'll pay you more soon! We need reliable members like you!\n\nTake care and come back when you have so much again!"
+      "value": "You are so fast every time!\n\nPlease bring this Gang Delivery to Capone.\nHe is waiting for it and will pay you well!\n\nTake care and come back when you have Baggies again!"
     },
 	{
       "key": "bestfriend-michael_quest_07_ok_dialogue_btnC",
@@ -30,7 +30,7 @@
     },
 	{
       "key": "bestfriend-michael_quest_07_ko_dialogue-DESCRIPTION",
-      "value": "Sorry but you misunderstood me!\nOnly if you have..\n\n1x Cocaine Baggie\n5x Ganja Baggie\n5x Ecstasy Baggie\n\nin your Inventory, I can give you € 450!"
+      "value": "Sorry but you misunderstood me!\nOnly if you have..\n\n1x Cocaine Baggie\n5x Ganja Baggie\n5x Ecstasy Baggie\n\nin your Inventory, I can give you the Gang Delivery!"
     },
 	{
       "key": "bestfriend-michael_quest_07_ko_dialogue_btnC",

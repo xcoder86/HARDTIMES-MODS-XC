@@ -3,12 +3,11 @@
 **********************************
 ******    by XCoder 2020    ****** 
 **********************************
-				 *
-last Updates:			 *
-0?.04.20 - Business Update	 *
-08.04.20 - XL Luxury Update	 *
-25.03.20 - Best Friends Update	 *
-**********************************
+last Updates:			 
+16.04.20 - XL Business Update	 
+08.04.20 - XL Luxury Update	 
+25.03.20 - Best Friends Update	 
+
 
 This mod adds many new possibilities to your game (also to existing savegame).
 Many new Items, Facilities, and General Skills have been introduced.
@@ -46,7 +45,7 @@ For security reasons, you should still duplicate your current save status! (save
 
 
 **********************************
-****** MOD ZUSAMMENFASSUNG  ******
+******     MOD SUMMARY      ******
 **********************************
 
 Check out the XC_CHANGELOG_DE.txt to see a full list of the features of this mod!
@@ -58,9 +57,8 @@ NEW NPC'S (8):
 - Romana (+7 tasks)
 - Michael (+7 tasks)
 - XCoder (+3 tasks)
-- Ivan (+5 tasks)
-- Capone (+5 tasks)
-
+- Ivan (+6 tasks)
+- Capone (+6 tasks)
 
 NEW ITEMS (23):
 - Cigarette filters (crafting, char. Crafting)
@@ -73,8 +71,8 @@ NEW ITEMS (23):
 - Ecstasy Pill (Chemical Table, useable / sellable)
 - Chemicals (crafting, can be buyd)
 - Baggie (crafting)
-- stone (craft)
-- Obsidian (craft)
+- stone (crafting)
+- Obsidian (crafting)
 - Popcorn (food)
 - Pizza Piece (food)
 - Pizza (whole pizza, food)
@@ -83,37 +81,35 @@ NEW ITEMS (23):
 - Special Delivery Box (- // -)
 - Birthday Cake (- // -)
 - Birthday Invitation Card (- // -)
-- Metro Card (prepeared - not yet implemented)
+- Metro Card (=50x Metro Ticket)
 - Business Backpack (12 slots backpack, sewing table)
-- Business trolley (15 slots backpack, sewing table)
-
+- Business Trolley (15 slots backpack, sewing table)
 
 NEW FACILITIES (24):
 - Advanced Workbench
-- Medium storage box
-- Large storage box
+- Medium Storage box
+- Large Storage box
 - Z-Trap (Adv. Workbench, Meat Farming)
 - Business Vault (XL Secure Storage with 30 slots)
-- Business sound system (Adv. Workbench)
-- Modern popcorn machine
-- Modern pizza oven
+- Business Sound System (Adv. Workbench)
+- Modern Popcorn Machine
+- Modern Pizza Oven
 - Modern Wall Picture 1
 - Modern Wall Picture 2
 - Modern Wall Picture 3
-- Mdoern Wall Picture 4
-- Modern wood table
-- Modern bed
+- Modern Wall Picture 4
+- Modern Wood Table
+- Modern Bed
 - Luxury Chest & Sculpture
 - Luxury Christmas Oven
-- Luxury glass table
-- Luxury marble table
-- Luxury fountain
+- Luxury Glass Table
+- Luxury Marble Table
+- Luxury Fountain
 - Luxury Fridge
-- Luxury bench
-- Luxury bed
+- Luxury Bench
+- Luxury Bed
 - Home Phone (to save at home)
 - Donut Oven (cooking)
-
 
 NEW ACHIEVEMENTS (22):
 - Business man
@@ -139,7 +135,6 @@ NEW ACHIEVEMENTS (22):
 - Donut fish
 - be loyal
 
-
 NEW BOOKS (9):
 - Advanced Workbench Book
 - Business Life (Advanced Workbench Recipes)
@@ -151,40 +146,37 @@ NEW BOOKS (9):
 - Donut Book (Recipe for Workbench)
 - Home Phone Book (Recipe for Workbench)
 
-
-NEW CLOTHING & CO. (50):
-- 11 new Hairstyles got added
-- Business Hat Collection added (12 hats)
-- Business Dress Collection added (6 shirts / suits)
-- Fancy Clothes (17 new shirts for you and NPC's)
-- Michael's shirt (clothes)
-- Romana's shirt (clothes)
+NEW CLOTHING (50):
+- 11 new Hairstyles got added to the Game
+- Business Hat Collection added (12 Hats)
+- Business Dress Collection added (6 Shirts / Suits)
+- Fancy Clothes (17 new Shirts for you and NPC's)
+- Michael's shirt (Clothes)
+- Romana's shirt (Clothes)
 - XCoder's Shirt (Clothes)
 - BigDealer Hat (Clothes)
 
-
 GLOBAL BUSINESS (4):
-- from now on you can make your own cigarettes!
+- from now on you can make your own Cigarettes!
 - Shop opening times improved
 - Shop offers & quantities improved
 - Shop prices adjusted (balancing)
 
 NPC ORIENTED (3):
-- Events are now asking for different substances & pizza, popcorn!
-- Civilians are now walking around in a wider variety of clothes
-- the smuggler now has a larger selection for you
+- Events are now asking for different Substances & Pizza, Popcorn!
+- Civilians are now walking around in a wider variety of Clothes
+- the Smuggler now has a larger Selection for you!
 
 NEW FISH SPECIES (1):
-- Donut fish
+- Donut Fish
 
 OTHER ADJUSTMENTS (6):
 - The entire money system has been balanced
-- New tasks summarized: 38 pieces (more to follow)
+- New tasks summarized: +60 (more to follow)
 - Many graphics have been optimized or renewed (+ Growing graphics optimized)
 - Water bottles (x5) can now be manufactured in the workbench using 2x plastic parts as standard
 - Shopping cart graphic has been changed (for testing purposes)
 - new Eastereggs
-
 
 
 -----------------------
