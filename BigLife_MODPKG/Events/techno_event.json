@@ -1,0 +1,25 @@
+{
+  "eventId": "Techno Concert",
+  "eventType": "PunkConcertEvent",
+  "minIntervalDays": 1,
+  "maxIntervalDays": 1,
+  "minStartingHour": 19,
+  "maxStartingHour": 22,
+  "minDurationMinutes": 240,
+  "maxDurationMinutes": 480,
+  "lastEventEnd": -100000,
+  "startNextEvent": -100000,
+  "endNextEvent": -100000,
+  "effectOnEvent": "punk_concert_effect",
+  "achievementsOnEvent": "EventConcert",
+  "extras":[
+	{
+		"key":"peopleAmount",
+		"intValue": 100
+	},
+	{
+		"key":"song",
+		"stringValue": "biglife-techno_event"
+	}
+  ]
+}

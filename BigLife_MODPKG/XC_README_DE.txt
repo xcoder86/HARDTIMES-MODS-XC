@@ -153,7 +153,8 @@ NEUE BÜCHER (9):
 - Home Phone Book (Recipe for Workbench)
 
 
-NEUE KLEIDUNG (39):
+NEUE KLEIDUNG & CO. (50):
+- 11 neue Haarstile wurden hinzugefügt
 - Business Hat Collection hinzugefügt (12 Hüte)
 - Business Dress Collection hinzugefügt (6 Shirts/Anzüge)
 - Fancy Clothes (17 neue Shirts für dich und NPC's)

@@ -9,7 +9,6 @@ Folgendes ist derzeit geplant(tm):
 - neue "Geheime" NPC mit mehr Aufträgen
 - Fahrzeuge (Skateboard etc., noch unklar)
 
-
 ##################################
 # 0?.04.2020 | Mod Version: 1.2  #
 ##################################
@@ -68,7 +67,8 @@ Neue Erfolge (9):
 - sell * Baggie's x3
 - Styler
 
-Neue Kleidung (17):
+Neue Kleidung & Co. (28):
+- 11 neue Haarstile wurden hinzugefügt  <<<<<<<<<<<< FUNKTIONIERT NOCH NICHT
 - Business Hat Collection hinzugefügt (12 Hüte)
 - Business Dress Collection hinzugefügt (6 Shirts/Anzüge)
 
@@ -85,9 +85,10 @@ NPC Orientiert (7):
 - Auf Events wird nun nach unterschiedlichen Substanzen & Pizza, Popcorn gefragt! (Dealer Life)
 - Zivilisten laufen nun in einer größeren vielfalt an Kleidung herum
 
-Sonstiges (3):
+Sonstiges (4):
 - Special Delivery Pakete können nun hergestellt werden (Dealer Life, Chem. Table)
 - Grafikfehler bei "Chemical Table" wurde behoben
+- 11 neue Haarstile wurden hinzugefügt
 - weitere kleinere Fehler behoben
 
 
