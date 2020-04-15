@@ -32,8 +32,8 @@ Neue NPC's (2):
 - Capone (Dealer Boss, 5 Aufgaben / 1 wiederholend) <<<<<<<<<<< FEHLT
 
 Neue Gegenstände (13):
-- Business Backpack (12 Slots Backpack, Sewing Table) <<<<<<<<<<< FUNKTIONIERT NICHT RICHTIG
-- Business Trolley (15 Slots Backpack, Sewing Table) <<<<<<<<<<< FUNKTIONIERT NICHT RICHTIG
+- Business Backpack (12 Slots Backpack, Sewing Table)
+- Business Trolley (15 Slots Backpack, Sewing Table)
 - Cigarette Filter (Crafting, Char. Crafting)
 - Tobacco Seeds +Plant (Growing)
 - Coca Seeds +Plant (Growing)
@@ -68,7 +68,7 @@ Neue Erfolge (9):
 - Styler
 
 Neue Kleidung & Co. (28):
-- 11 neue Haarstile wurden hinzugefügt  <<<<<<<<<<<< FUNKTIONIERT NOCH NICHT
+- 11 neue Haarstile wurden hinzugefügt
 - Business Hat Collection hinzugefügt (12 Hüte)
 - Business Dress Collection hinzugefügt (6 Shirts/Anzüge)
 
