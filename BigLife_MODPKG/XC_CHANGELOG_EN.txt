@@ -86,7 +86,8 @@ NPC Oriented (7):
 - Events are now asking for different substances & pizza, popcorn! (Dealer Life)
 - Civilians are now walking around in a wider variety of clothes *yay*
 
-Other (4):
+Other (5):
+- All Basic Food Items got balanced (StackBalancer Part taken)
 - Special delivery packages can now be manufactured (Dealer Life, Chem. Table)
 - Graphic error in "Chemical Table" has been fixed
 - 11 new hair styles have been added

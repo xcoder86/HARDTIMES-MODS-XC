@@ -86,7 +86,8 @@ NPC Orientiert (7):
 - Auf Events wird nun nach unterschiedlichen Substanzen & Pizza, Popcorn gefragt! (Dealer Life)
 - Zivilisten laufen nun in einer größeren vielfalt an Kleidung herum
 
-Sonstiges (4):
+Sonstiges (5):
+- Alle Standard Speisen wurden balanziert (StackBalancer Part übernommen)
 - Special Delivery Pakete können nun hergestellt werden (Dealer Life, Chem. Table)
 - Grafikfehler bei "Chemical Table" wurde behoben
 - 11 neue Haarstile wurden hinzugefügt

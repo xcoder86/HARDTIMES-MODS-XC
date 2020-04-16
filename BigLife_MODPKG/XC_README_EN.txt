@@ -170,9 +170,10 @@ NPC ORIENTED (3):
 NEW FISH SPECIES (1):
 - Donut Fish
 
-OTHER ADJUSTMENTS (6):
+OTHER ADJUSTMENTS (7):
 - The entire money system has been balanced
 - New tasks summarized: +60 (more to follow)
+- All Basic Food Items got balanced (StackBalancer Part taken)
 - Many graphics have been optimized or renewed (+ Growing graphics optimized)
 - Water bottles (x5) can now be manufactured in the workbench using 2x plastic parts as standard
 - Shopping cart graphic has been changed (for testing purposes)
