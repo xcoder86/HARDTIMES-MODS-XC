@@ -8,10 +8,11 @@ Below the changelog of this mod.
 Changes are always added with the date.
 
 ##################################
-# 09.04.2020 | Mod Version: 1.1  #
+# 15.04.2020 | Mod Version: 1.1  #
 ##################################
 
-- Food Items > balanced
+- Food items have been removed from the mod
+> If you are interested in modifications to these items, use the BigLife Mod!
 
 
 ##################################

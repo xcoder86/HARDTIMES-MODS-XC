@@ -7,7 +7,7 @@
   "okQuestDialogueId": "civilian_asks_for_Cocaine_ok_dialogue",
   "koQuestDialogueId": "civilian_asks_for_Cocaine_ko_dialogue",
   "achievementsOnStart": "",
-  "achievementsOnComplete": "SellCocaine",
+  "achievementsOnComplete": "SellCocaine,DealerKing",
 "rewards": [
 	{
       "questItemId": "",

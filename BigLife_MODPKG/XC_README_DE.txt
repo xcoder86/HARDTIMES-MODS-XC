@@ -176,9 +176,10 @@ NPC ORIENTIERT (3):
 NEUE FISCHARTEN (1):
 - Donut Fish
 
-SONSTIGE ANPASSUNGEN (6):
+SONSTIGE ANPASSUNGEN (7):
 - Das Gesamte Geld System wurde balanciert
 - Neue Aufgaben zusammengefasst: +60 (mehr folgen)
+- Alle Standard Speisen wurden balanziert (StackBalancer Part übernommen)
 - viele Grafiken wurden optimiert bzw. erneuert (+Growing Grafiken optimiert)
 - Wasser Flaschen (x5) können nun in der Werkbank anhand von 2x Plastik Teilen Standardmäßig hergestellt werden
 - Einkaufswagen Grafik wurde geändert (Testweise)

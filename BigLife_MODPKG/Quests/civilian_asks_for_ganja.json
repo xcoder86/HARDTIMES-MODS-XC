@@ -7,7 +7,7 @@
   "okQuestDialogueId": "civilian_asks_for_Ganja_ok_dialogue",
   "koQuestDialogueId": "civilian_asks_for_Ganja_ko_dialogue",
   "achievementsOnStart": "",
-  "achievementsOnComplete": "SellGanja",
+  "achievementsOnComplete": "SellGanja,DealerKing",
 "rewards": [
 	{
       "questItemId": "",
